@@ -169,124 +169,113 @@ Key events:
 
 **See also:** 10.2 The Abrahamic Religions; 10.3 Religions of South and East Asia; 11.5 World Philosophical Traditions; 6.2 Forms of Government; 7.1 Legal Systems; 5.7 International Trade and the Global Economy.
 
+
 ---
 
 ### 4.4 The Medieval and Early Modern World (~500–1750)
 
-**In one sentence:** Over these twelve centuries, Islam and new empires reshaped much of Afro-Eurasia, Mongol conquest briefly linked it, plague killed a large share of its people, and late in the period printing, religious upheaval, and the Scientific Revolution transformed Europe.
+**In one sentence:** In these twelve centuries Islam and new empires reshaped Afro-Eurasia, Mongol conquest briefly linked it, plague killed a large share of its people, and late in the period printing, religious upheaval, and the Scientific Revolution transformed Europe.
 
-**What an alien needs to know first:** "**Medieval**" (the "Middle Ages") is a European label for the period between the fall of the western Roman Empire (~500) and the **Renaissance** (~1400s–1500s). It fits Europe better than other regions, which had their own turning points. **Feudalism** describes a system in which landholders granted land to followers in exchange for military service, while peasants (often **serfs**, legally bound to the land) farmed it. It is used mainly for Europe and Japan, and many historians consider the term too tidy. A **caliphate** is a state led by a **caliph**, a ruler claiming succession to the Prophet Muhammad as leader of the Muslim community. **Islam** is the religion based on what Muslims believe were revelations from God (Allah) to Muhammad.
+**What an alien needs to know first:** "**Medieval**" (the "Middle Ages") is a European label for the time between Rome's western collapse (~500) and the **Renaissance** (~1400s–1500s). It fits other regions poorly. **Feudalism** describes lords granting land to followers for military service while peasants, often **serfs** legally bound to the land, farmed it. It is used mainly for Europe and Japan, and many historians find it too tidy. **Islam** is the religion based on what Muslims believe were revelations from God (Allah) to the Prophet Muhammad. A **caliphate** is a state led by a **caliph**, a ruler claiming succession to Muhammad.
 
 **What happened:**
-- **541–~750:** the **Plague of Justinian**, caused by the same bacterium as the later Black Death (confirmed by ancient DNA), recurs around the Mediterranean. Its death toll is [Contested].
-- **610–632:** Muhammad, in Arabia, preaches Islam. By 750, Arab-Muslim armies have built a caliphate from Spain to Central Asia and the Indus. The **Abbasid** caliphate (750–1258) makes Baghdad a center of science, translation, and trade.
-- **618–907:** the Tang dynasty in China. Civil-service examinations grow into the main route to office.
-- **~800:** Charlemagne is crowned emperor in western Europe. The Khmer Empire (Cambodia) begins (~802); Angkor Wat is built in the early 1100s.
-- **~300–1200:** the Ghana Empire in West Africa grows rich on trans-Saharan gold trade. The **Mali Empire** (~1235–1600) follows. Its ruler Mansa Musa's pilgrimage to Mecca in 1324 was famous for its gold. Timbuktu becomes a center of Islamic scholarship.
-- **~1000–1300:** Polynesian navigators settle Hawaii, Rapa Nui (Easter Island), and finally New Zealand (~1250–1300), the last major land masses reached by humans.
-- **960–1279:** the **Song dynasty** in China: woodblock and movable-type printing, paper money, the compass in navigation, gunpowder weapons, and a population of ~100 million.
-- **1054:** Christianity splits into Eastern Orthodox and Roman Catholic churches.
-- **1095–1291:** the **Crusades**, European Christian military campaigns to take and hold Jerusalem and surrounding lands, with massacres by several sides.
-- **~1050–1350:** Cahokia (near today's St. Louis, USA), a city of perhaps 10,000–20,000 people.
-- **~1100–1450:** Great Zimbabwe, a stone-walled capital in southern Africa. Swahili city-states trade across the Indian Ocean.
-- **1206–1368:** the **Mongol Empire**, founded by Genghis Khan, becomes the largest contiguous land empire in history (~24 million km²). Its conquests killed millions. Estimates in the tens of millions are often cited but are [Contested]. Baghdad is sacked in 1258. Afterward, the "Pax Mongolica" eases trade across Eurasia.
-- **1206–1526:** the Delhi Sultanate in north India; Vijayanagara (1336–1646) in the south.
-- **1347–1351:** the **Black Death**, a plague pandemic, kills roughly one-third to one-half of Europe's population (~25–50 million), with heavy losses in the Middle East and North Africa. Jewish communities in Europe were massacred by people who blamed them for the plague.
-- **1368–1644:** the Ming dynasty. Admiral Zheng He's fleets (1405–1433), with up to ~27,000 men, sail as far as East Africa.
-- **1325–1521:** the Mexica (Aztec) capital Tenochtitlan grows to perhaps 200,000 people. The Aztec Empire collects tribute and practices large-scale human sacrifice; the numbers are [Contested]. **1438–1533:** the **Inca Empire** rules ~10 million people along the Andes, keeping records on knotted cords (quipu) and building ~40,000 km of roads.
-- **~1440s–1450s:** Johannes Gutenberg develops movable-type printing in Europe. Millions of books are printed by 1500. (Korea had printed with metal type by 1377.)
-- **1453:** the **Ottoman Empire** (1299–1922) captures Constantinople, ending the Byzantine Empire. It rules southeastern Europe, the Middle East, and North Africa for centuries.
-- **~1400–1600:** the Italian Renaissance revives Greek and Roman learning and art.
-- **1492 onward:** European voyages to the Americas (see 4.5).
-- **1501–1736:** the Safavid Empire makes Shia Islam the state religion of Iran.
-- **1517:** Martin Luther's protest begins the **Protestant Reformation**. Europe's wars of religion follow. The Thirty Years' War (1618–1648) kills perhaps 4–8 million. The Peace of Westphalia (1648) is often cited as the origin of the modern system of sovereign states [Contested].
-- **1526–1857:** the **Mughal Empire** rules most of South Asia; around 1700 it is among the world's largest economies.
+- **541–~750:** the **Plague of Justinian**, the same bacterium as the later Black Death, recurs around the Mediterranean [death toll Contested].
+- **610–750:** Muhammad preaches Islam in Arabia (d. 632). Within a century a caliphate stretches from Spain to Central Asia. The **Abbasid** caliphate (750–1258) makes Baghdad a center of science and translation.
+- **618–907:** Tang China; civil-service examinations become the main route to office.
+- **~300–1600:** West African empires grow rich on trans-Saharan gold: Ghana, then **Mali** (~1235–1600), whose ruler Mansa Musa made a famously lavish pilgrimage to Mecca in 1324, then Songhai. Timbuktu becomes a center of Islamic learning.
+- **~802–1431:** the Khmer Empire (Cambodia); Angkor Wat is built in the 1100s.
+- **960–1279:** **Song China**: movable-type printing, paper money, the navigational compass, gunpowder weapons, ~100 million people.
+- **~1000–1300:** Polynesian navigators settle Hawaii, Rapa Nui, and New Zealand, the last major lands reached by humans.
+- **1054:** Christianity splits into Eastern Orthodox and Roman Catholic churches. **1095–1291:** the **Crusades**, European Christian campaigns to take Jerusalem, with massacres on several sides.
+- **~1050–1450:** Cahokia (Mississippi valley, ~10,000–20,000 people); Great Zimbabwe in southern Africa; Swahili trading cities on the East African coast.
+- **1206–1368:** the **Mongol Empire** of Genghis Khan and his heirs becomes the largest contiguous land empire ever (~24 million km²). Its conquests killed millions [totals in the tens of millions often cited, Contested]. Baghdad is sacked in 1258. Afterward, Mongol rule eases trade across Eurasia.
+- **1347–1351:** the **Black Death** kills roughly one-third to one-half of Europe's people (~25–50 million) and many in the Middle East and North Africa. Europeans massacre Jewish communities, blaming them for the plague.
+- **1368–1644:** Ming China. Zheng He's fleets (1405–1433), with up to ~27,000 men, reach East Africa.
+- **1325–1521:** the Mexica (Aztec) capital Tenochtitlan grows to perhaps 200,000; the Aztec state practices large-scale human sacrifice [numbers Contested]. **1438–1533:** the **Inca Empire** rules ~10 million people along the Andes, with ~40,000 km of roads and knotted-cord records (quipu).
+- **1450s:** Johannes Gutenberg's printing press in Europe; millions of books by 1500. (Korea printed with metal type by 1377.)
+- **1453:** the **Ottoman Empire** (1299–1922) takes Constantinople, ending the Byzantine Empire.
+- **1517:** Martin Luther's protest starts the **Protestant Reformation**. Wars of religion follow; the Thirty Years' War (1618–48) kills perhaps 4–8 million.
+- **1526–1857:** the **Mughal Empire** rules most of South Asia; around 1700 it is among the world's largest economies. **1501–1736:** the Safavids make Shia Islam Iran's state religion.
 - **1543–1687:** the **Scientific Revolution** in Europe (see 3.3).
-- **~1450–1750:** European witch hunts execute ~40,000–60,000 people.
 - **1603–1868:** Tokugawa Japan, largely closed to foreign trade from the 1630s.
-- **1639:** Russian expansion across Siberia reaches the Pacific.
-- **1644:** the Ming fall to the Manchu **Qing dynasty** amid famine and rebellion during a cold period (the "Little Ice Age").
+- **1644:** Ming China falls to the Manchu **Qing dynasty** amid famine during a cold period (the "Little Ice Age").
 
-Slavery existed throughout. The trans-Saharan, Red Sea, and Indian Ocean slave trades carried several million Africans to North Africa, the Middle East, and Asia over many centuries [totals Contested]. Slavery and serfdom were common in Europe, Asia, and the Americas.
+Slavery existed throughout. Trans-Saharan, Red Sea, and Indian Ocean trades carried several million enslaved Africans to North Africa, the Middle East, and Asia over many centuries [totals Contested]. European witch hunts (~1450–1750) executed ~40,000–60,000 people.
 
-**How it developed (how humans learned this):** Sources multiply: chronicles in Arabic, Chinese, Persian, Latin, and Ge'ez; Ibn Khaldun's *Muqaddimah* (1377), a theory of the rise and fall of dynasties; travel accounts like Ibn Battuta's (1350s). For the Americas and sub-Saharan Africa, archaeology, oral traditions, and later European accounts must fill gaps.
+**How it developed (how humans learned this):** Written sources multiply in Arabic, Chinese, Persian, Latin, and Ge'ez, including Ibn Khaldun's *Muqaddimah* (1377) and Ibn Battuta's travels (1350s). For the Americas and much of Africa, archaeology and oral tradition fill gaps.
 
-**Effects on human life and society:** World population rose from ~200–250 million (~500) to ~750–800 million (~1750), despite plague and war. Islam (now ~2 billion followers) spread across Afro-Eurasia. Most humans remained peasant farmers. Printing made books cheap, helped spread both the Reformation and science, and made literacy possible for far more people. The map of world religions largely took its current form.
+**Effects on human life and society:** World population rose from ~200–250 million (~500) to ~750–800 million (~1750). Islam (now ~2 billion followers) spread across Afro-Eurasia, and the world map of religions largely took its present form. Most humans remained peasant farmers. Printing made books cheap and spread both the Reformation and science.
 
 **Major ideas, schools, or ideologies:**
-- **"Dark Ages"?** The old label for early medieval Europe is now largely rejected by historians [Established that the term is misleading]. Whether there was real material decline in the West after 500 is [Contested].
-- **Why Europe, a minor region in 1000, later rose:** competition among small states, institutions, printing, Atlantic access, or later colonial resources (see 4.5) [Contested].
-- **The Black Death's long-run effects:** labor shortages raised wages and weakened serfdom in western Europe [Refining].
+- **"Dark Ages":** historians largely reject this old label for early medieval Europe. How much material decline occurred after 500 is [Contested].
+- **Why Europe, peripheral in 1000, later rose:** competition among small states, institutions, printing, Atlantic access, or colonial resources (see 4.5) [Contested].
+- **Black Death effects:** labor shortages raised wages and weakened serfdom in western Europe [Refining].
+- **Westphalia (1648):** often called the origin of the modern sovereign-state system [Contested].
 
 **Key works and figures:**
 - Muhammad (~570–632): founder figure of Islam (see 10.2).
-- Ibn Khaldun, *Muqaddimah* (1377): early social theory of history.
 - Genghis Khan (~1162–1227): founder of the Mongol Empire.
 - Mansa Musa (r. ~1312–1337): ruler of Mali at its height.
-- Johannes Gutenberg (~1400–1468): European printing.
-- Martin Luther (1483–1546): began the Protestant Reformation.
+- Ibn Khaldun, *Muqaddimah* (1377): early social theory of history.
+- Gutenberg and Luther: printing and the Reformation.
 
 **What is established vs. debated:**
-- Established: the rise of Islam and its empires; the Mongol conquests; the Black Death's scale in Europe; the timeline of printing, Reformation, and Scientific Revolution.
-- Debated: death tolls of the Mongol conquests and early plagues; feudalism as a concept; why scientific and industrial breakthroughs came in Europe.
-- Matters of belief or value: the religious claims of Islam, Christianity, and other faiths; judgments about the Crusades and conquests.
+- Established: the rise of Islamic empires; Mongol conquests; the Black Death's scale in Europe; the sequence of printing, Reformation, and Scientific Revolution.
+- Debated: Mongol and early-plague death tolls; feudalism as a concept; why scientific and industrial breakthroughs came in Europe.
+- Matters of belief or value: the religious claims of Islam, Christianity, and other faiths; judgments of crusades and conquests.
 
-**Open questions:** Population sizes in the Americas and Africa before 1500. The full extent of trade connections across Africa and the Indian Ocean. How climate shifts (the Medieval Warm Period, the Little Ice Age) drove political crises.
+**Open questions:** Population sizes in the Americas and Africa before 1500. How far trade networks reached inside Africa. How climate shifts drove political crises.
 
-**See also:** 10.2 The Abrahamic Religions; 10.3 Religions of South and East Asia; 1.6 Health, Disease, and Medicine; 13.2 Writing and Literacy; 3.3 The Scientific Method; 6.2 Forms of Government; 8.4 Social Class and Mobility.
+**See also:** 10.2 The Abrahamic Religions; 10.3 Religions of South and East Asia; 1.6 Health, Disease, and Medicine; 13.2 Writing and Literacy; 3.3 The Scientific Method; 8.4 Social Class and Mobility.
 
 ---
 
 ### 4.5 Colonialism, Revolutions, and Industry (~1500–1914)
 
-**In one sentence:** European states conquered or dominated most of the world, enslaved and transported millions of Africans, triggered population collapse in the Americas, and, through revolutions and industrialization, created the modern ideas of rights, nations, and machine-powered economic growth.
+**In one sentence:** European states conquered or dominated most of the world, enslaved and shipped millions of Africans, presided over population collapse in the Americas, and, through revolutions and industrialization, created modern ideas of rights and nations and machine-powered growth.
 
-**What an alien needs to know first:** **Colonialism** is one country's rule over another territory and its people, often with settlers. **Imperialism** is the broader pursuit of power over other lands, including by economic or indirect control. **Chattel slavery** treats humans as property that can be bought, sold, and inherited, including their children. A **revolution** is a rapid, often violent overthrow of a political order. **Industrialization** is the shift from muscle-, wind-, and water-powered handwork to machines powered by fossil fuels, in factories. A **nation** is a group that sees itself as a people sharing language, culture, or history. **Nationalism** is the belief that each nation should have its own state.
+**What an alien needs to know first:** **Colonialism** is one country's rule over another territory and its people, often with settlers. **Imperialism** is the broader pursuit of power over other lands, including by economic or indirect control. **Chattel slavery** treats humans, and their children, as property to be bought and sold. A **revolution** is a rapid, often violent overthrow of a political order. **Industrialization** is the shift from hand and animal labor to fossil-fuel-powered machines in factories. **Nationalism** is the belief that each **nation** (a people who see themselves as sharing language, culture, or history) should have its own state.
 
 **What happened:**
-- **1488–1522:** Portuguese sailors round southern Africa (1488) and reach India (1498). Christopher Columbus, sailing for Spain, reaches the Caribbean in 1492. Magellan's expedition circles the globe (1519–1522).
-- **1519–1533:** Spanish forces, with many Indigenous allies, conquer the Aztec (1521) and Inca (1532–33) empires.
-- **The American population collapse:** the Indigenous population of the Americas, perhaps ~50–60 million in 1492 [Contested; estimates range ~8–110 million], fell by roughly 90% within about a century. The main killers were Eurasian diseases (smallpox, measles, influenza) to which Americans had no prior exposure. These combined with war, massacres, enslavement, forced labor (such as in the silver mines of Potosí, Bolivia), and famine. Caribbean peoples such as the Taíno were nearly destroyed within decades.
-- **The Columbian Exchange:** maize, potatoes, and cassava spread to Afro-Eurasia, eventually feeding hundreds of millions. Horses, cattle, wheat, and diseases came to the Americas. American silver flowed to China.
-- **1501–1866: the Atlantic slave trade.** About **12.5 million** Africans were forced onto European ships; about **10.7 million** survived the crossing (the "Middle Passage"), and roughly 1.8 million died at sea. An unknown number, possibly millions, died during capture and march to the coast. About 40% went to Brazil, a similar share to the Caribbean, and ~4% to North America. Enslaved people grew sugar, tobacco, cotton, and coffee under brutal conditions; on Caribbean sugar plantations, deaths often exceeded births. By 1860, the US held ~4 million enslaved people.
-- **1600–1602:** the English and Dutch East India Companies, private firms with armies, are founded. After the Battle of Plassey (1757), the British company controls Bengal, and British rule spreads across India.
-- **~1760–1840:** the **Industrial Revolution** begins in Britain: coal-fired steam engines (James Watt's improvements, 1770s), mechanized textile mills, and railways (from 1825–1830). A second wave (~1870–1914) brings steel, electricity, chemicals, and internal-combustion engines to Germany, the US, and later Japan. Industrial workers, including children, labored 12–14-hour days in dangerous conditions. Labor movements and socialism arose in response (see 9.4).
-- **1775–1783:** the American Revolution. The 1776 Declaration of Independence proclaims that "all men are created equal" while slavery continues.
-- **1789–1799:** the French Revolution abolishes feudal privileges and proclaims the Rights of Man. The Terror (1793–94) executes ~17,000 people officially, and many more die in repression. The Napoleonic Wars (1803–1815) kill perhaps 3–6 million.
-- **1791–1804:** the **Haitian Revolution**. Enslaved Africans overthrow French rule and found the first state created by formerly enslaved people. In 1825 France forces Haiti, under threat of invasion, to pay a large indemnity to former slaveholders, a debt Haiti paid off over many decades.
-- **1808–1826:** most of Spanish America wins independence (Simón Bolívar, José de San Martín). Brazil becomes independent in 1822.
-- **Abolition:** Britain bans the slave trade (1807) and slavery in its colonies (1833), paying £20 million in compensation to slaveholders, not to the enslaved. Russia frees its serfs (1861). The US abolishes slavery (1865) after a civil war killing ~620,000–750,000. Brazil is last in the Americas (1888).
-- **1830s–1890:** the US forcibly removes Native nations from their lands (e.g., the "Trail of Tears"), and wars and disease reduce the Native population in the US to ~250,000 by 1900. Aboriginal Australians suffer massacres, dispossession, and disease after British settlement (1788).
-- **1839–1860:** Britain wins two **Opium Wars** against Qing China, forcing it to accept opium imports and "unequal treaties." The **Taiping Rebellion** (1850–1864) kills roughly 20–30 million [range Contested].
-- **1857–1858:** a major Indian uprising is crushed; the British Crown rules India directly. Famines in British India and in China (1876–1902) kill tens of millions. The role of colonial policy is [Contested].
-- **1868:** Japan's **Meiji Restoration** launches rapid industrialization. Japan defeats China (1895) and Russia (1905) and annexes Korea (1910).
-- **1861–1871:** Italy and Germany unify as nation-states.
-- **1884–1914:** the **"Scramble for Africa."** European control rises from ~10% of Africa (1870) to ~90% (1914). Only Ethiopia (which defeated Italy at Adwa, 1896) and Liberia stay independent. In the **Congo Free State** (1885–1908), personally owned by Belgium's King Leopold II, forced rubber collection, mutilation, famine, and disease caused deaths in the millions [toll Contested; often cited up to ~10 million]. In German South West Africa (Namibia), the **Herero and Nama genocide** (1904–1908) killed roughly 65,000 Herero (~80% of them) and ~10,000 Nama (~half).
-- **1815–1914:** ~50 million Europeans emigrate, mostly to the Americas. After abolition, ~1–2 million indentured laborers from India and China are shipped to plantations worldwide.
+- **1488–1522:** Portuguese ships round Africa and reach India (1498). Columbus, sailing for Spain, reaches the Caribbean (1492). Magellan's expedition circles the globe.
+- **1519–1533:** Spanish forces, with many Indigenous allies, conquer the Aztec and Inca empires.
+- **The American collapse:** the Indigenous population of the Americas, perhaps ~50–60 million in 1492 [Contested; estimates ~8–110 million], fell by about 90% within a century. Eurasian diseases (smallpox, measles, influenza) were the main killers, compounded by war, massacre, enslavement, forced labor (e.g., the Potosí silver mines), and famine. Caribbean peoples such as the Taíno were nearly destroyed within decades.
+- **The Columbian Exchange:** American maize, potatoes, and cassava spread worldwide; Eurasian livestock, wheat, and diseases reached the Americas.
+- **1501–1866: the Atlantic slave trade.** About **12.5 million** Africans were forced onto ships; ~**10.7 million** survived the crossing and ~1.8 million died at sea. Unknown numbers, possibly millions, died during capture and march to the coast. About 40% went to Brazil, a similar share to the Caribbean, ~4% to North America. By 1860 the US held ~4 million enslaved people.
+- **1600–1858:** English and Dutch East India Companies, private firms with armies, build trading empires; from 1757 the British company conquers most of India.
+- **~1760–1840:** the **Industrial Revolution** in Britain: coal-fired steam engines, mechanized textile mills, railways (from 1825). A second wave (~1870–1914) brings steel, electricity, chemicals, and engines to Germany, the US, and Japan. Workers, including children, often labored 12–14-hour days.
+- **1775–1783:** the American Revolution. The 1776 Declaration of Independence proclaims "all men are created equal" while slavery continues.
+- **1789–1815:** the French Revolution abolishes feudal privileges and proclaims the Rights of Man; the Terror (1793–94) officially executes ~17,000. The Napoleonic Wars kill perhaps 3–6 million.
+- **1791–1804:** the **Haitian Revolution**: enslaved Africans overthrow French rule and found the first state created by formerly enslaved people. In 1825 France forces Haiti, under threat of invasion, to pay an indemnity to former slaveholders, paid off over many decades.
+- **1808–1826:** most of Latin America wins independence.
+- **Abolition:** Britain bans the slave trade (1807) and colonial slavery (1833), paying £20 million compensation to slaveholders, nothing to the enslaved. Russia frees its serfs (1861). The US abolishes slavery (1865) after a civil war killing ~620,000–750,000. Brazil is last in the Americas (1888).
+- **1830s–1890:** the US forcibly removes Native nations from their lands; wars and disease reduce the Native population in the US to ~250,000 by 1900. Aboriginal Australians suffer massacres, dispossession, and disease after British settlement (1788).
+- **1839–1864:** Britain wins the **Opium Wars**, forcing China to accept opium and "unequal treaties." The Taiping Rebellion kills roughly 20–30 million [Contested range].
+- **1876–1902:** famines in British India and in China kill tens of millions [colonial policy's role Contested].
+- **1868:** Japan's **Meiji Restoration** begins rapid industrialization; Japan annexes Korea in 1910. **1861–1871:** Italy and Germany unify.
+- **1884–1914:** the **"Scramble for Africa":** European control rises from ~10% of Africa (1870) to ~90% (1914); only Ethiopia (victorious over Italy at Adwa, 1896) and Liberia remain independent. In the **Congo Free State** (1885–1908), owned by Belgium's King Leopold II, forced rubber collection, mutilation, famine, and disease killed millions [toll Contested; often cited up to ~10 million]. Germany's **Herero and Nama genocide** in Namibia (1904–08) killed ~65,000 Herero (~80%) and ~10,000 Nama (~half).
+- **1815–1914:** ~50 million Europeans emigrate, mostly to the Americas.
 
-**How it developed (how humans learned this):** Colonial archives long dominated the record and often recorded the colonizers' view. Since the mid-20th century, historians have used shipping records (compiled in the Trans-Atlantic Slave Trade Database), oral histories, and records from colonized societies to give fuller accounts.
+**How it developed (how humans learned this):** Colonizers' archives long dominated. Since the mid-1900s, shipping records (the Trans-Atlantic Slave Trade Database), oral histories, and colonized societies' own sources have widened the picture.
 
-**Effects on human life and society:** World population rose from ~1 billion (~1800) to ~1.8 billion (1914). Industrial economies grew faster than any before: the "**Great Divergence**" in which western Europe and its settler offshoots pulled far ahead of China and India, which together had produced perhaps half of world output around 1700 [Refining]. Modern borders in Africa, the Middle East, and Asia, the global spread of English, Spanish, French, and Portuguese, and the racial hierarchies of the Americas all trace to this era. So do the ideas of universal rights and popular sovereignty, and the ideologies of Domain 9.
+**Effects on human life and society:** World population rose from ~1 billion (1800) to ~1.8 billion (1914). The "**Great Divergence**" opened: western Europe and its settler offshoots pulled far ahead of China and India, which together produced perhaps half of world output around 1700 [Refining]. Today's borders in Africa and Asia, the reach of European languages, and racial hierarchies in the Americas trace to this era, as do ideas of universal rights.
 
 **Major ideas, schools, or ideologies:**
-- **Why Britain industrialized first:** cheap coal and high wages (Robert Allen); institutions and property rights (Douglass North); a culture of useful knowledge (Joel Mokyr); colonial land and resources (Kenneth Pomeranz) [Contested].
-- **Slavery and capitalism:** Eric Williams (1944) argued that slave-trade profits helped finance industrialization. The size of that contribution is [Contested].
-- **Colonialism's economic legacy:** many economists find that extractive colonial institutions harmed long-run development (Acemoglu, Johnson, and Robinson, 2001). Others argue colonies also brought infrastructure and markets. The empirical balance is [Contested]. Whether colonialism was justified is [Belief/Value], but its violence is [Established].
-- **Scientific racism**, now discredited, served as a justification at the time (see 3.5).
+- **Why Britain industrialized first:** cheap coal and high wages (Robert Allen); institutions (Douglass North); a culture of useful knowledge (Joel Mokyr); colonial land and resources (Kenneth Pomeranz) [Contested].
+- **Slavery and capitalism:** Eric Williams (1944) argued slavery's profits helped finance industrialization; the size of that contribution is [Contested].
+- **Colonial legacy:** many economists find extractive colonial institutions harmed long-run development (Acemoglu, Johnson, and Robinson, 2001); others credit colonies with infrastructure and markets [Contested]. Colonial violence itself is [Established]; whether colonialism was justified is [Belief/Value].
 
 **Key works and figures:**
-- Adam Smith, *The Wealth of Nations* (1776): theory of markets and division of labor.
-- The US Declaration of Independence (1776) and the Declaration of the Rights of Man (1789): founding documents of rights-based politics.
+- The Declaration of Independence (1776) and Rights of Man (1789): founding texts of rights-based politics.
 - Toussaint Louverture (~1743–1803): leader of the Haitian Revolution.
 - Olaudah Equiano, *The Interesting Narrative* (1789): a formerly enslaved man's account that fed abolitionism.
-- Karl Marx and Friedrich Engels, *The Communist Manifesto* (1848): response to industrial capitalism.
-- Kenneth Pomeranz, *The Great Divergence* (2000): comparative explanation of Europe's economic rise.
+- Marx and Engels, *The Communist Manifesto* (1848): a response to industrial capitalism.
 
 **What is established vs. debated:**
-- Established: the scale of the Atlantic slave trade; the Indigenous population collapse in the Americas; the Congo and Herero-Nama atrocities; the timeline of industrialization and revolutions.
-- Debated: pre-1492 American population; famine death tolls and causes; the economic contribution of slavery and colonies to industrialization.
-- Matters of belief or value: whether and how descendants of the enslaved and colonized should receive **reparations**; how to judge historical figures.
+- Established: the scale of the Atlantic slave trade; the Indigenous collapse in the Americas; the Congo and Herero-Nama atrocities.
+- Debated: the pre-1492 American population; famine tolls and causes; slavery's and colonies' economic contribution to industrialization.
+- Matters of belief or value: whether descendants of the enslaved and colonized should receive **reparations**; how to judge historical figures.
 
-**Open questions:** How many people died in Africa because of the slave trades. Exact demographic histories of the Americas, Australia, and the Pacific. Why industrialization spread quickly to some regions and slowly to others.
+**Open questions:** How many died inside Africa because of the slave trades. Exact population histories of the Americas and Pacific. Why industrialization spread fast to some regions and slowly to others.
 
-**See also:** 5.4 Growth, Development, and Poverty; 8.3 Race, Ethnicity, and Identity; 9.6 Nationalism; 6.7 Revolutions, Protest, and Political Change; 12.3 Energy; 7.2 Constitutions and Rights; 1.6 Health, Disease, and Medicine.
+**See also:** 5.4 Growth, Development, and Poverty; 8.3 Race, Ethnicity, and Identity; 9.6 Nationalism; 6.7 Revolutions, Protest, and Political Change; 12.3 Energy; 7.2 Constitutions and Rights.

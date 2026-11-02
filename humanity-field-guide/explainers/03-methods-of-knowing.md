@@ -245,7 +245,7 @@ Scale today: roughly 9 million full-time-equivalent researchers worldwide, over 
 **What an alien needs to know first:** **Pseudoscience** is a set of claims presented as scientific but not produced or supported by scientific methods. A **conspiracy theory** explains events as the secret work of powerful groups, usually without good evidence. Some conspiracies are real; the term refers to unsupported ones. **Motivated reasoning** is the tendency to judge evidence by whether one wants its conclusion to be true. **Confirmation bias** is seeking or remembering evidence that fits existing beliefs. **Misinformation** is false information. **Disinformation** is false information spread on purpose. A **retraction** is the formal withdrawal of a published scientific paper.
 
 **How it works:** Errors arise at several levels:
-1. **Individual minds.** Human cognition takes shortcuts (see 15.3). People see patterns in noise, overweight vivid stories, remember hits and forget misses, and trust their own group. Repeating a false claim makes it feel more true (the "illusory truth effect").
+1. **Individual minds.** Human cognition takes shortcuts (see 15.3). People see patterns in noise, overweight vivid stories, and remember hits but forget misses. Repetition makes a false claim feel truer.
 2. **Social identity.** When a belief marks group membership (political, religious, national), rejecting it can cost a person socially. Then more knowledge can *increase* polarization rather than reduce it [Refining].
 3. **Incentives.** Scientists are rewarded for new, positive, striking results. Companies and governments may benefit from certain conclusions. Examples: tobacco companies funded campaigns from the 1950s onward to cast doubt on the link between smoking and cancer. Some fossil-fuel interests did the same on climate science.
 4. **Institutions.** Whole fields can share a mistaken assumption for decades.
@@ -255,7 +255,7 @@ Scale today: roughly 9 million full-time-equivalent researchers worldwide, over 
 **Documented cases of error and harm:**
 - **Witch hunts (Europe, ~1450–1750):** about 40,000–60,000 people, most of them women, were executed on the belief that they caused harm through magic. Similar accusations still lead to killings in parts of Africa, South Asia, and Papua New Guinea.
 - **Scientific racism and eugenics (~1850–1945):** claims of biological racial hierarchy, presented as science, justified slavery, colonialism, and genocide. The United States forcibly sterilized roughly 60,000–70,000 people; Nazi Germany about 400,000.
-- **Lysenkoism (USSR, ~1930s–1960s):** state-backed rejection of genetics damaged Soviet agriculture, and dissenting scientists were imprisoned or killed.
+- **Lysenkoism (USSR, ~1930s–1960s):** state-backed rejection of genetics damaged agriculture; dissenting scientists were imprisoned or killed.
 - **Thalidomide (1957–61):** an inadequately tested sedative caused severe birth defects in roughly 10,000 children. This led to stricter drug-approval laws.
 - **The 1998 MMR-autism paper:** a fraudulent study linking a childhood vaccine to autism was retracted in 2010. It nonetheless fed lasting vaccine hesitancy and measles outbreaks.
 
@@ -275,7 +275,6 @@ Unsupported practices remain widespread, such as astrology and homeopathy (remed
 - Francis Bacon, *Novum Organum* (1620): the "idols" of human error.
 - John Ioannidis, "Why Most Published Research Findings Are False" (2005): a statistical argument that sparked reform.
 - Open Science Collaboration (2015): the large psychology replication project.
-- Daniel Kahneman, *Thinking, Fast and Slow* (2011): popular account of cognitive biases (some studies it cites later failed to replicate, as the author acknowledged).
 - Naomi Oreskes and Erik Conway, *Merchants of Doubt* (2010): how industries manufactured doubt about science.
 
 **What is established vs. debated:**
@@ -283,6 +282,6 @@ Unsupported practices remain widespread, such as astrology and homeopathy (remed
 - Debated: how large and widespread the replication problem is; whether misinformation is rising or merely more visible; which interventions (fact-checking, education, platform rules) work best.
 - Matters of belief or value: who should decide what counts as misinformation; how to balance free speech against harm.
 
-**Open questions:** How to design institutions that correct errors faster. Whether social media and AI-generated content are making human knowledge less reliable. Why some false beliefs persist for centuries while others vanish quickly.
+**Open questions:** How to build institutions that correct errors faster. Whether social media and AI-generated content are making shared knowledge less reliable. Why some false beliefs last centuries while others vanish quickly.
 
 **See also:** 3.3 The Scientific Method; 3.4 Statistics, Probability, and Measurement; 15.3 Cognitive Biases and Decision-Making; 13.5 Propaganda, Persuasion, and Misinformation; 8.3 Race, Ethnicity, and Identity; 1.6 Health, Disease, and Medicine.
