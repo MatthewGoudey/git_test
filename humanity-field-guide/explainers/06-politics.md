@@ -12,14 +12,14 @@ Politics is the activity through which humans decide who gets to make binding de
 - **Legitimacy** is the belief, among the people being ruled, that a ruler's power is rightful. Accepted power is called **authority**. Legitimacy is cheaper than force: a state most people obey willingly needs far fewer police.
 - **Borders** are lines, agreed on or disputed by neighboring states, marking the edge of a state's **territory**. They are mostly invisible on the ground and enforced at crossing points.
 - **Sovereignty** is a state's claim to be the highest authority inside its territory and to be free from outside control.
-- A **nation** is a group of people who see themselves as sharing a culture, language, history, or destiny. A **state** is a governing organization. They often do not line up. The Kurds (roughly 30–40 million people) see themselves as a nation but have no state of their own. India is one state containing hundreds of language and ethnic groups.
+- A **nation** is a group of people who see themselves as sharing a culture, language, or history; a **state** is a governing organization. They often do not line up: the Kurds (roughly 30–40 million people) have no state of their own, while India is one state containing hundreds of language groups.
 - A **government** is the set of people currently running a state. Governments come and go; the state persists.
 - **Citizenship** is legal membership in a state, bringing rights (to live there, often to vote) and duties (taxes, sometimes military service).
 
 **How it works:**
-The sociologist Max Weber (1919) gave the most-quoted definition: a state is a community that successfully claims a **monopoly on the legitimate use of physical force** within a territory. Other groups may use force, but only the state's use is officially allowed.
+The sociologist Max Weber (1919) gave the most-quoted definition: a state successfully claims a **monopoly on the legitimate use of physical force** within a territory.
 
-States do a common core of jobs: defense, policing, courts, taxes, money, and records of who lives where. Most also build infrastructure, run schools, and pay pensions. To pay for this, governments in rich countries collect roughly 30–45% of their country's total income (GDP) in taxes; many low-income states collect only 10–15%. The work is done by a **bureaucracy**, a hierarchy of salaried officials following written rules. In many rich countries, about one worker in five is employed by the government.
+States do a common core of jobs: defense, policing, courts, taxes, money, and records of who lives where. Most also build infrastructure, run schools, and pay pensions. To pay for this, governments in rich countries collect roughly 30–45% of their country's total income (GDP) in taxes; many low-income states collect only 10–15%. The work is done by a **bureaucracy**, a hierarchy of salaried officials following written rules; in many rich countries, about one worker in five is a government employee.
 
 There are about **195 sovereign states**; 193 belong to the United Nations, and the Vatican and Palestine are UN observers. They range from India and China (~1.4 billion people each) to Tuvalu (~11,000) and Vatican City (~800). Statehood partly depends on other states agreeing that you are one. Some entities govern themselves but lack wide recognition. **Taiwan** (~23 million people) governs itself, but the People's Republic of China claims it, and only about a dozen states formally recognize it. **Kosovo** and **Palestine** are recognized by some states and not others.
 
@@ -28,7 +28,7 @@ Citizenship is usually acquired at birth: by being born on the territory (most o
 **State capacity** is a state's practical ability to carry out its decisions: to collect taxes, enforce laws, and deliver services everywhere it claims to rule. Where capacity collapses, observers speak of **fragile** or **failed states**. Somalia had no effective central government for most of the 1990s and 2000s. Libya has had rival governments since 2014. In Haiti, armed gangs controlled most of the capital by 2024–25. There, militias, clans, and gangs take over the state's jobs, including taxing and policing.
 
 **How it developed:**
-For most of the ~300,000 years of their existence, humans lived in bands of a few dozen people without any state. The first states appeared about **5,000–5,500 years ago** in Mesopotamia (modern Iraq) and Egypt, and later, independently, in the Indus Valley, China, Mesoamerica, and the Andes. They grew out of farming, which produced storable surpluses (especially grain) that rulers could count and tax. Early writing was largely used for this accounting.
+For most of their ~300,000 years, humans lived in stateless bands of a few dozen. The first states appeared about **5,000–5,500 years ago** in Mesopotamia (modern Iraq) and Egypt, and later, independently, in the Indus Valley, China, Mesoamerica, and the Andes. They grew out of farming, whose storable surpluses (especially grain) rulers could count and tax; early writing was largely used for this accounting.
 
 The modern system of sovereign, bordered states is usually traced to Europe's **Peace of Westphalia (1648)** [Refining: historians call this origin story simplified]. Charles Tilly summarized the European pattern as "war made the state, and the state made war": rulers built tax systems and bureaucracies to pay for armies. Colonial empires spread this model worldwide and then broke up: the UN had 51 founding members in 1945 and has 193 today (the newest, South Sudan, joined in 2011). Government spending in rich countries rose from about 10% of GDP around 1900 to about 40% today.
 
@@ -39,13 +39,11 @@ The modern system of sovereign, bordered states is usually traced to Europe's **
 
 **Major ideas, schools, or ideologies:**
 - **Social contract theory** holds that states are justified because people would agree to them. Thomas Hobbes (1651) argued that without a state, life would be "solitary, poor, nasty, brutish, and short." John Locke (1689) argued a state exists to protect rights and loses legitimacy if it violates them. [Belief/Value]
-- **Marxism** sees the state as a tool by which an economic class rules others, and predicted it would "wither away" under communism. No communist state has withered away.
-- **Anarchism** holds that states are unnecessary and harmful. [Belief/Value]
+- **Marxism** sees the state as a tool of class rule that would "wither away" under communism; no communist state has done so. **Anarchism** holds that states are unnecessary and harmful [Belief/Value].
 - **Chinese tradition** linked legitimacy to the **Mandate of Heaven**: a ruler governs rightly only while governing well [Belief/Value].
 
 **Key works and figures:**
 - *Arthashastra* (attributed to Kautilya, India, ~300 BCE–300 CE): a detailed manual on running a state, taxing, and spying.
-- *Muqaddimah* (Ibn Khaldun, 1377): a theory of dynasties rising and falling as group solidarity strengthens and decays.
 - *Leviathan* (Thomas Hobbes, 1651): the classic case for a powerful state as the cure for chaos.
 - "Politics as a Vocation" (Max Weber, 1919): the monopoly-on-force definition.
 - *Coercion, Capital, and European States* (Charles Tilly, 1990): how war built states.
@@ -154,7 +152,7 @@ The scale is large. **2024** was the biggest election year in human history: nat
 How many humans live in democracies depends on the measure. The three most-cited rating systems (V-Dem, Freedom House, and the Economist Intelligence Unit) broadly agree on the extremes but differ in the middle. By V-Dem's count, roughly 70% of humans lived in autocracies in the mid-2020s, and autocracies slightly outnumbered democracies for the first time in about two decades [Refining]. A large reason is that India, with about 18% of humanity, has been classed by V-Dem since 2018 as an "electoral autocracy," a rating the Indian government rejects [Contested].
 
 **How it developed:**
-Athens practiced direct democracy from about 508 BCE, but only for free adult males. Councils and assemblies existed in many societies, from Icelandic and Germanic assemblies to the Haudenosaunee (Iroquois) Confederacy in North America. The English Parliament gradually gained power over the monarch, especially after 1689. The American (1776) and French (1789) revolutions spread the principle of popular sovereignty. Suffrage then widened step by step: property requirements were dropped; New Zealand was the first self-governing country to let women vote in national elections (1893); Switzerland did so only in 1971. Racial exclusions ended in the US South after 1965 and in South Africa in 1994.
+Athens practiced direct democracy from about 508 BCE, but only for free adult males. Assemblies and councils existed in many societies, from Iceland to the Haudenosaunee (Iroquois) Confederacy in North America. The English Parliament gained power over the monarch, especially after 1689, and the American (1776) and French (1789) revolutions spread the principle that authority comes from the people. Suffrage then widened step by step: property requirements were dropped; New Zealand was the first self-governing country to let women vote in national elections (1893); Switzerland did so only in 1971. Racial exclusions ended in the US South after 1965 and in South Africa in 1994.
 
 Political scientist Samuel Huntington described three **waves of democratization**: about 1828–1926, 1943–1962, and from 1974 (Portugal) through the collapse of communism in Eastern Europe (1989–91). Since about 2010, many researchers describe a **wave of autocratization** [Refining].
 
@@ -168,10 +166,9 @@ Political scientist Samuel Huntington described three **waves of democratization
 - **Minimalist view:** Joseph Schumpeter (1942) defined democracy simply as competition among elites for votes. Its virtue is peaceful removal of rulers.
 - **Liberal view:** elections are not enough; rights, courts, and a free press are essential to prevent "tyranny of the majority" (Tocqueville, J.S. Mill).
 - **Participatory/deliberative view:** citizens should take part directly, through referendums (as in Switzerland, which holds several national votes a year) or randomly selected **citizens' assemblies** (used in Ireland on abortion and same-sex marriage).
-- **Critiques:** Plato argued ordinary citizens lack the knowledge to rule. Modern critics point to low voter knowledge; defenders reply that groups can decide well even when individuals are poorly informed [Contested].
+- **Critiques:** Plato argued ordinary citizens lack the knowledge to rule; modern critics cite low voter knowledge, and defenders reply that groups can decide well even when individuals are poorly informed [Contested].
 
 **Key works and figures:**
-- Pericles' Funeral Oration (recorded by Thucydides, ~431 BCE): an early statement of democratic ideals.
 - *Democracy in America* (Alexis de Tocqueville, 1835/1840): how civil society sustains democracy.
 - *Capitalism, Socialism and Democracy* (Joseph Schumpeter, 1942).
 - *The Third Wave* (Samuel Huntington, 1991).
@@ -271,7 +268,7 @@ States also cooperate through **international organizations**:
 |---|---|---|---|
 | United Nations (UN) | 1945 | 193 | Forum for all states; peacekeeping; humanitarian and development agencies. Its **Security Council** can authorize force and binding sanctions, but any of its five permanent members (US, UK, France, Russia, China) can veto a decision. |
 | NATO | 1949 | 32 | Military alliance of North American and European states; an attack on one is treated as an attack on all. Finland (2023) and Sweden (2024) joined after Russia's 2022 invasion of Ukraine. |
-| European Union (EU) | 1993 (roots 1951) | 27 | Unusually deep union: a shared market, shared laws, and for 20 members a shared currency (the euro). |
+| European Union (EU) | 1993 (roots 1951) | 27 | Unusually deep union: a shared market, shared laws, and for 21 members a shared currency (the euro). |
 | African Union | 2002 | 55 | Continental body for Africa; suspends members after coups. |
 | ASEAN | 1967 | 11 | Southeast Asian cooperation; Timor-Leste joined in 2025. |
 | G20 / BRICS | 1999 / 2009 | ~20 / ~10 | Forums of large economies; BRICS (Brazil, Russia, India, China, South Africa, plus newer members) presents itself as a voice for non-Western states. |
@@ -281,7 +278,7 @@ Sanctions are now a primary tool. After 2022, Western states froze roughly US$30
 Major present-day tensions include rivalry between the US and China over trade, technology, and military power in Asia; the confrontation between Russia and NATO states over Ukraine; and the status of Taiwan, which the People's Republic of China says is part of its territory and which governs itself, while the US keeps its position on defending Taiwan deliberately vague. Many states in Africa, Asia, and Latin America (often called the **Global South**) avoid picking sides.
 
 **How it developed:**
-Diplomacy is ancient: one of the oldest surviving peace treaties, between Egypt and the Hittite empire, dates to about 1259 BCE. Permanent embassies spread from Renaissance Italy in the 1400s. The Congress of Vienna (1815) created a system of regular consultation among European great powers. After World War I, the **League of Nations** (1920) tried to make war illegal and failed to prevent World War II. The UN (1945) and financial institutions such as the IMF and World Bank (1944) followed. The Cold War (about 1947–1991) divided the world between US- and Soviet-led blocs. The US was the single dominant power after 1991; since the 2010s, many analysts describe a shift toward a more **multipolar** world [Refining].
+Diplomacy is ancient: one of the oldest surviving peace treaties, between Egypt and the Hittite empire, dates to about 1259 BCE. Permanent embassies spread from Italy in the 1400s, and the Congress of Vienna (1815) began regular consultation among European great powers. After World War I, the **League of Nations** (1920) tried to make war illegal and failed to prevent World War II. The UN (1945) and financial institutions such as the IMF and World Bank (1944) followed. The Cold War (about 1947–1991) divided the world between US- and Soviet-led blocs. The US was the single dominant power after 1991; since the 2010s, many analysts describe a shift toward a more **multipolar** world [Refining].
 
 **Effects on human life and society:**
 International politics decides whether wars start, whether trade flows, and whether global problems such as climate change and pandemics get coordinated responses. UN agencies feed and vaccinate hundreds of millions of people. The UN has deployed peacekeepers in over 70 missions since 1948. Security Council vetoes have also blocked action in many crises, including Syria and Ukraine.
@@ -302,7 +299,6 @@ Most specialists treat these as lenses, each useful for some questions [Conteste
 - *Perpetual Peace* (Immanuel Kant, 1795): the idea that republics and trade could end war.
 - *Politics Among Nations* (Hans Morgenthau, 1948): founding text of modern realism.
 - *Theory of International Politics* (Kenneth Waltz, 1979).
-- *Power and Interdependence* (Robert Keohane and Joseph Nye, 1977).
 - "Anarchy Is What States Make of It" (Alexander Wendt, 1992): the constructivist challenge.
 
 **What is established vs. debated:**
@@ -336,7 +332,7 @@ Deaths are hard to count. Battle deaths worldwide ranged from tens of thousands 
 **How it developed:**
 Archaeological evidence of group violence goes back at least 10,000 years, and war became more organized with states. Gunpowder (invented in China, ~9th century) transformed it over centuries. Industrialization made war vastly deadlier: **World War I** (1914–18) killed roughly 15–20 million people; **World War II** (1939–45) killed roughly 70–85 million, about 3% of all humans alive, including some 6 million Jews murdered in the Holocaust. Nuclear weapons were used twice, on Hiroshima and Nagasaki, Japan, in 1945, killing perhaps 110,000–210,000 people by the end of that year. Since 1945 there has been no direct war between great powers, a period some call the **Long Peace**. Wars since have mostly been civil wars or wars involving smaller states, and drones and cyberattacks have added new forms of fighting. In Ukraine, small cheap drones have become one of the main causes of battlefield casualties [Refining].
 
-Other forms of mass violence: the Rwandan genocide (1994) killed roughly 500,000–800,000 people, mostly Tutsi, in about 100 days. Terrorism killed roughly 8,000 people in 2024, down from a peak above 30,000 around 2014–15 when the group known as ISIS was strongest; the deadliest region is now Africa's Sahel. The attacks on the United States on 11 September 2001 killed nearly 3,000 people and led to wars in Afghanistan and Iraq in which several hundred thousand people died.
+Other forms of mass violence: the Rwandan genocide (1994) killed roughly 500,000–800,000 people, mostly Tutsi, in about 100 days. Terrorism killed roughly 8,000 people in 2024, down from a peak in the mid-2010s when the group known as ISIS was strongest (estimates of that peak range from about 10,000 to over 30,000 deaths a year, depending on definitions); the deadliest region is now Africa's Sahel. The attacks on the United States on 11 September 2001 killed nearly 3,000 people and led to wars in Afghanistan and Iraq in which several hundred thousand people died.
 
 **Effects on human life and society:**
 War destroys lives, cities, and economies; a civil war is estimated to set a country's development back by decades [Refining]. It has also driven state formation, taxation, technology (radar, jet engines, computers, and the internet all had military origins), and the redrawing of borders. Survivors often carry long-term psychological trauma.

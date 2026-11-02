@@ -35,7 +35,7 @@ Access to justice is limited for many. A 2019 international estimate found about
 The oldest surviving law code, from the city of Ur (Mesopotamia), dates to about 2100 BCE. The **Code of Hammurabi** (~1754 BCE) set out 282 laws, including "eye for an eye" punishments that varied by social class. Rome's **Twelve Tables** (~450 BCE) began a legal tradition later compiled by the emperor Justinian (529–534 CE), which became the base of civil law. China's imperial codes, notably the Tang Code (653 CE), shaped East Asian law for over a thousand years. Islamic jurisprudence (**fiqh**) developed between the 8th and 10th centuries into several schools that still operate. English common law grew from royal courts after 1066. The French **Napoleonic Code** (1804) spread across Europe and, through conquest and colonization, to Latin America, Africa, and the Middle East.
 
 **Effects on human life and society:**
-Legal systems decide how disputes are settled, who owns what, and how predictable life and business are. Economists find that reliable courts and enforcement of contracts are associated with higher incomes [Refining on causation]. Corruption and slow courts impose large costs; in some countries, civil cases routinely take a decade or more.
+Legal systems decide how disputes are settled, who owns what, and how predictable life and business are. Reliable courts and contract enforcement are associated with higher incomes [Refining on causation]; in some countries, civil cases routinely take a decade or more.
 
 **Major ideas, schools, or ideologies:**
 - **Natural law:** valid law must conform to moral principles that exist independently of humans (sometimes attributed to God or reason) [Belief/Value].
@@ -44,7 +44,6 @@ Legal systems decide how disputes are settled, who owns what, and how predictabl
 - **Law and economics:** legal rules can be judged by whether they produce efficient outcomes (Richard Posner) [Contested as a normative guide].
 
 **Key works and figures:**
-- Code of Hammurabi (~1754 BCE): an early public law code carved in stone.
 - *Corpus Juris Civilis* (Justinian, 529–534): the foundation of civil law.
 - *Al-Risala* (al-Shafi'i, ~820): founding text on the method of Islamic jurisprudence.
 - *Commentaries on the Laws of England* (William Blackstone, 1765–69): spread common law to the American colonies.
@@ -89,7 +88,7 @@ Most states now give courts some power of judicial review. Some (the US) let ord
 **Magna Carta** (England, 1215), forced on a king by his barons, established that the ruler was subject to law, though it protected mainly the elite. England's Bill of Rights (1689) limited the monarch further. The US Constitution (1787) and Bill of Rights (1791) and France's Declaration of the Rights of Man and of the Citizen (1789) set models for written rights, while both countries kept slavery or colonies. Haiti's 1805 constitution abolished slavery outright. Mexico's 1917 constitution was the first to guarantee social rights such as land and labor protections. After World War II, Germany's Basic Law (1949) began with "Human dignity shall be inviolable." India's constitution (1950), drafted under B.R. Ambedkar, banned "untouchability." South Africa's (1996), written after apartheid, is often cited for its broad, court-enforced social rights.
 
 **Effects on human life and society:**
-Constitutions shape how power transfers and how disputes between branches are resolved. Court rulings under them have ended legal racial segregation (US, 1954), expanded or limited abortion access, and recognized same-sex marriage (in about 35–40 countries by the mid-2020s, often through courts). Research suggests written rights protect people best when backed by independent courts and organized citizens [Refining].
+Constitutions shape how power transfers and how disputes between branches are resolved. Court rulings under them have struck down racial segregation in US public schools (1954), expanded or limited abortion access, and recognized same-sex marriage (in about 35–40 countries by the mid-2020s, often through courts). Research suggests written rights protect people best when backed by independent courts and organized citizens [Refining].
 
 **Major ideas, schools, or ideologies:**
 - **Judicial review vs. majority rule:** critics ask why unelected judges should overrule elected legislatures (the "counter-majoritarian difficulty"). Defenders reply that rights must be protected from majorities [Contested; Belief/Value].
@@ -120,10 +119,8 @@ Constitutions shape how power transfers and how disputes between branches are re
 **In one sentence:** Crime is behavior a state has forbidden and will punish, and the criminal justice system is the chain of police, prosecutors, courts, and prisons that enforces those prohibitions.
 
 **What an alien needs to know first:**
-- A **crime** is an act the law defines as an offense against society, such as murder, theft, or fraud. What counts as a crime varies by place and time. Same-sex relations are criminal in roughly 60–65 countries and legal in the rest; some states criminalize blasphemy, adultery, or criticism of the ruler.
-- **Police** are state employees authorized to investigate crime, keep order, and arrest people, using force if needed.
-- A **trial** is a court proceeding that decides guilt. In many systems, the accused is presumed innocent until proven guilty.
-- A **sentence** is the punishment imposed: a fine, supervision in the community, imprisonment, or, in some states, death.
+- A **crime** is an act the law defines as an offense against society, such as murder, theft, or fraud. What counts varies by place and time. Same-sex relations are criminal in roughly 60–65 countries and legal in the rest; some states criminalize blasphemy, adultery, or criticism of the ruler.
+- **Police** are state employees authorized to investigate crime and arrest people, using force if needed. A **trial** decides guilt (in many systems the accused is presumed innocent until proven guilty); a **sentence** is the punishment: a fine, supervision, prison, or, in some states, death.
 - **Homicide** is the killing of one person by another; it is the most reliably counted crime, so it is often used to compare countries.
 
 **How it works:**
@@ -134,10 +131,10 @@ About **11–12 million people** are in prison worldwide, about a third of them 
 About 55 countries still use the **death penalty**; around 145 have abolished it in law or practice. Over 1,500 executions were recorded in 2024, mostly in Iran, Saudi Arabia, and Iraq. China is believed to execute thousands a year but keeps the number secret.
 
 **How it developed:**
-For most of history, punishment was public and physical (whipping, mutilation, execution) or took the form of compensation paid to victims' families. Private revenge and feuds were common. Italian jurist Cesare Beccaria (1764) argued that punishment should be certain, proportionate, and aimed at prevention, and opposed torture and the death penalty. Prisons as the main punishment spread in the 1800s. London's Metropolitan Police (1829) became a model for professional, uniformed police. Many rich countries saw large drops in crime from the early 1990s; US violent crime roughly halved between 1991 and 2019, rose sharply in 2020, and fell again after 2022.
+For most of history, punishment was public and physical (whipping, mutilation, execution) or took the form of compensation paid to victims' families, and private feuds were common. Italian jurist Cesare Beccaria (1764) argued that punishment should be certain, proportionate, and aimed at prevention, and opposed torture and the death penalty. Prisons as the main punishment spread in the 1800s. London's Metropolitan Police (1829) became a model for professional, uniformed police. Many rich countries saw large drops in crime from the early 1990s; US violent crime roughly halved between 1991 and 2019, rose sharply in 2020, and fell again after 2022.
 
 **Effects on human life and society:**
-Crime causes death, injury, fear, and economic losses; organized crime (drug cartels, gangs, mafias) controls territory in parts of Latin America, Africa, and Asia. Mexico has recorded over 400,000 homicides since its government launched a military campaign against drug cartels in 2006. Punishment also has costs. Imprisonment can lower people's later earnings and harm their families [Refining]. Justice systems often fall unequally: in the US, Black Americans are imprisoned at about five times the rate of white Americans, and Indigenous Australians make up about a third of Australia's prisoners while being about 4% of its population [causes Contested]. Wrongful convictions occur everywhere; the US alone has recorded over 3,500 **exonerations** (convictions later overturned on evidence of innocence) since 1989.
+Organized crime (drug cartels, gangs, mafias) controls territory in parts of Latin America, Africa, and Asia; Mexico has recorded over 400,000 homicides since its government launched a military campaign against drug cartels in 2006. Punishment also has costs: imprisonment can lower people's later earnings and harm their families [Refining]. Justice systems often fall unequally: in the US, Black Americans are imprisoned at about five times the rate of white Americans, and Indigenous Australians make up about a third of Australia's prisoners while being about 4% of its population [causes Contested]. Wrongful convictions occur everywhere; the US alone has recorded over 3,500 **exonerations** (convictions later overturned on evidence of innocence) since 1989.
 
 **Major ideas, schools, or ideologies:**
 Humans give five main justifications for punishment, which often conflict [Belief/Value]:
@@ -222,39 +219,36 @@ Secure property and enforceable contracts are strongly associated with investmen
 **In one sentence:** International law is the body of rules that states accept as binding in their dealings with each other, including rules on war and on how governments must treat people, enforced without any world police.
 
 **What an alien needs to know first:**
-- International law comes mainly from **treaties** (written agreements states sign and **ratify**, that is, formally approve) and **customary international law** (consistent state practice accepted as legally required).
-- **Jurisdiction** is a court's authority to hear a case.
+- International law comes mainly from **treaties** (written agreements states sign and **ratify**, that is, formally approve) and **customary international law** (consistent state practice accepted as legally required). **Jurisdiction** is a court's authority to hear a case.
 - **Human rights** are rights humans are said to hold simply by being human, regardless of nationality. Their existence as moral facts is [Belief/Value]; their existence in treaties is [Established].
 - **International humanitarian law** (the laws of war) limits how wars are fought. Its core principles are **distinction** (do not target civilians), **proportionality** (civilian harm must not be excessive relative to military gain), and **precaution**.
 - **War crimes** are serious violations of these laws. **Crimes against humanity** are widespread or systematic attacks on civilians. **Genocide** is the attempt to destroy a national, ethnic, racial, or religious group.
 
 **How it works:**
-There is no world legislature, compulsory court, or police. Compliance rests on reciprocity, reputation, domestic courts, sanctions, and the interests states have in predictable rules. Most international law, on trade, aviation, postal services, and borders, is obeyed routinely. It is most often broken where stakes are highest: war and the treatment of a government's own opponents.
+There is no world legislature, compulsory court, or police. Compliance rests on reciprocity, reputation, domestic courts, sanctions, and states' interest in predictable rules. Routine international law (trade, aviation, mail, borders) is mostly obeyed; it is most often broken where stakes are highest: war and the treatment of a government's own opponents.
 
 | Institution | Founded | What it does | Limits |
 |---|---|---|---|
 | International Court of Justice (The Hague) | 1945 | Settles disputes between states; gives advisory opinions | States must consent to its jurisdiction; enforcement depends on the UN Security Council, where vetoes apply |
-| International Criminal Court (The Hague) | 1998 treaty, active 2002 | Tries individuals for genocide, crimes against humanity, war crimes, aggression | About 125 member states; the US, China, Russia, and India are not members; it has no police and relies on states to arrest suspects |
-| UN Human Rights Council and treaty bodies | 2006 / various | Review states' human rights records | Mostly reports and recommendations |
+| International Criminal Court (The Hague) | 1998 treaty, active 2002 | Tries individuals for genocide, crimes against humanity, war crimes, aggression | About 120 member states (several announced withdrawals in 2025); the US, China, Russia, and India are not members; it has no police and relies on states to arrest suspects |
 | Regional courts (European, Inter-American, African) | 1959 onward | Hear cases brought by individuals against states | Compliance varies; the European court is the strongest |
 
-Recent high-profile cases show both reach and limits. The ICC issued arrest warrants for Russian President Vladimir Putin (2023) over the deportation of Ukrainian children, and for Israeli Prime Minister Benjamin Netanyahu, his former defense minister, and Hamas leaders (2024). Russia and Israel reject the court's jurisdiction, and the US has sanctioned ICC officials. In 2025, former Philippine president Rodrigo Duterte was arrested and sent to the ICC over killings in his anti-drug campaign. At the ICJ, South Africa brought a genocide case against Israel (2023), which Israel rejects as baseless; the case continues.
+Recent high-profile cases show both reach and limits. The ICC issued arrest warrants for Russian President Vladimir Putin (2023) over the deportation of Ukrainian children, and for Israeli Prime Minister Benjamin Netanyahu, his former defense minister, and a Hamas military commander (2024). Russia and Israel reject the court's jurisdiction, and the US has sanctioned ICC officials. In 2025, former Philippine president Rodrigo Duterte was arrested and sent to the ICC over killings in his anti-drug campaign. At the ICJ, South Africa brought a genocide case against Israel (2023), which Israel rejects as baseless; the case continues.
 
 **How it developed:**
-Hugo Grotius's *On the Law of War and Peace* (1625) is often called the founding text. The Hague Conventions (1899, 1907) and the first Geneva Convention (1864) began codifying the laws of war. After World War II, the **Nuremberg trials** (1945–46) tried Nazi leaders and established that individuals, not just states, can be punished for international crimes. The **UN Charter** (1945) banned the use of force between states except in self-defense or with Security Council authorization. The **Universal Declaration of Human Rights** (1948) was adopted with 48 votes in favor, none against, and 8 abstentions. It was not itself binding, but was followed by binding treaties: the Genocide Convention (1948, a word coined by lawyer Raphael Lemkin in 1944), the four **Geneva Conventions** (1949, ratified by every state), the Refugee Convention (1951), and the two International Covenants on rights (1966). UN tribunals for the former Yugoslavia (1993) and Rwanda (1994) led to the permanent ICC.
+Hugo Grotius's *On the Law of War and Peace* (1625) is often called the founding text. The first Geneva Convention (1864) and the Hague Conventions (1899, 1907) began codifying the laws of war. The **Nuremberg trials** (1945–46) of Nazi leaders established that individuals, not just states, can be punished for international crimes. The **UN Charter** (1945) banned the use of force between states except in self-defense or with Security Council authorization. The **Universal Declaration of Human Rights** (1948) was adopted with 48 votes in favor, none against, and 8 abstentions. It was not itself binding, but binding treaties followed: the Genocide Convention (1948; the word was coined by lawyer Raphael Lemkin in 1944), the four **Geneva Conventions** (1949, ratified by every state), the Refugee Convention (1951), and the two International Covenants on rights (1966). UN tribunals for the former Yugoslavia (1993) and Rwanda (1994) paved the way for the permanent ICC.
 
 **Effects on human life and society:**
-Treaties have eliminated or limited entire categories of harm: the chemical weapons ban (1993) has over 190 parties, and the ozone treaty (1987) phased out most ozone-destroying chemicals. The Refugee Convention protects tens of millions from being forced back to persecution. Yet violations are widespread: civilians are routinely targeted in war, and ICC prosecutions remain few (dozens of cases in over 20 years).
+Treaties have sharply limited some harms: the chemical weapons ban (1993) has over 190 parties, and the ozone treaty (1987) phased out most ozone-destroying chemicals. The Refugee Convention bars returning refugees to persecution. Yet violations are widespread: civilians are routinely targeted in war, and ICC prosecutions remain few (a few dozen cases in over 20 years).
 
 **Major ideas, schools, or ideologies:**
 - **Realist skepticism:** international law reflects power and is obeyed only when convenient.
 - **Institutionalist view:** law shapes behavior by setting expectations and raising the cost of violations. Lawyer Louis Henkin (1968) observed that "almost all nations observe almost all principles of international law… almost all of the time."
 - **Do human rights treaties work?** Some studies found ratification alone changes little; others (Beth Simmons, 2009) found treaties help domestic activists push for change [Contested].
-- **Selectivity critique:** the ICC's early cases focused almost entirely on Africa, leading some African governments to accuse it of bias; supporters note several cases were referred by African governments themselves [Contested].
-- **Intervention:** whether outside force is justified to stop atrocities (the 2005 "Responsibility to Protect" doctrine) versus respect for sovereignty [Belief/Value].
+- **Selectivity critique:** the ICC's early cases were almost all African, leading some African governments to accuse it of bias; supporters note several were referred by African governments themselves [Contested].
+- **Intervention:** whether outside force may be used to stop atrocities (the 2005 "Responsibility to Protect" doctrine) or sovereignty must come first [Belief/Value].
 
 **Key works and figures:**
-- *On the Law of War and Peace* (Hugo Grotius, 1625).
 - UN Charter (1945): the basic rules on the use of force.
 - Universal Declaration of Human Rights (1948), drafted under the leadership of Eleanor Roosevelt, with key roles for René Cassin, P.C. Chang, and Charles Malik.
 - Geneva Conventions (1949): the core of the laws of war.
