@@ -98,13 +98,12 @@ Key events:
 
 **Major ideas, schools, or ideologies:**
 - **Why farming began:** climate stabilization after the ice age; population pressure; or social and religious motives such as feasting (suggested by Göbekli Tepe) [Contested].
-- **Was it an improvement?** The traditional view is that farming was progress. Jared Diamond (1987) called it "the worst mistake in the history of the human race" for ordinary people's health and equality. The answer depends on what is measured [Belief/Value in part].
-- **How states formed:** to manage irrigation (Karl Wittfogel); through war when land was hemmed in (Robert Carneiro, 1970); through coercion and grain taxation (James C. Scott, 2017). Others argue early societies experimented with many political forms, including egalitarian cities (Graeber and Wengrow, 2021) [Contested].
+- **Was it an improvement?** The traditional view says yes. Jared Diamond (1987) called it "the worst mistake in the history of the human race" for ordinary people's health and equality. The answer depends on what is measured [Belief/Value in part].
+- **How states formed:** to manage irrigation (Karl Wittfogel); through war when land was hemmed in (Robert Carneiro, 1970); through coercion and grain taxes (James C. Scott). Others stress early experiments with many political forms (Graeber and Wengrow) [Contested].
 
 **Key works and figures:**
 - The Code of Hammurabi (~1754 BCE): early written law and social hierarchy.
 - *Epic of Gilgamesh* (~2100–1200 BCE): among the oldest surviving literature.
-- V. Gordon Childe, *Man Makes Himself* (1936): framed the "Neolithic Revolution."
 - James C. Scott, *Against the Grain* (2017): critique of early states.
 - David Graeber and David Wengrow, *The Dawn of Everything* (2021): argues for variety in early social forms [Contested].
 
@@ -113,7 +112,7 @@ Key events:
 - Debated: why farming started; why states arose; the meaning of the Indus script; the causes of the Bronze Age collapse (drought, invasions, systems failure).
 - Matters of belief or value: whether "civilization" was progress. The Mandate of Heaven and the divine status claimed by pharaohs were beliefs held at the time.
 
-**Open questions:** What the Indus Valley people wrote and how they were governed. How much early cities were egalitarian versus hierarchical. How and when slavery first became institutionalized.
+**Open questions:** What the Indus Valley people wrote and how they were governed. How egalitarian early cities were. When slavery first became institutionalized.
 
 **See also:** 12.2 Agriculture and Food Systems; 13.2 Writing and Literacy; 7.1 Legal Systems; 6.1 The State; 8.4 Social Class and Mobility; 10.2 The Abrahamic Religions; 1.6 Health, Disease, and Medicine.
 
