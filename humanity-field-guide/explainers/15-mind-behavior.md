@@ -13,30 +13,28 @@ A note on evidence: from about 2011, psychologists began systematically re-runni
 **What an alien needs to know first:** Humans gather information through senses (vision, hearing, touch, taste, smell, balance, body position; see 1.3). Signals travel through nerve cells (**neurons**) to the brain, about 86 billion neurons with roughly 100 trillion connections (see 1.4). **Attention** is the selection of a small part of available information for processing. **Memory** is the storage and retrieval of information. **Learning** is a lasting change in behavior or knowledge from experience. **Intelligence** is, roughly, general ability to reason, solve problems, and learn.
 
 **How it works:**
-- **Perception is constructed, not recorded.** The brain combines sensory input with expectations to make a best guess. This is why **optical illusions** work: two lines of equal length can look unequal because of the arrows at their ends (the Müller-Lyer illusion).
-- **Attention is narrow.** In a well-known 1999 study, about half of viewers who were counting basketball passes failed to notice a person in a gorilla suit walking through the scene (**inattentional blindness**).
-- **Working memory** (what you can hold in mind right now) is small, about 4 chunks of information for most adults (older estimates said "7 ± 2"). **Long-term memory** is very large and has types: **episodic** (personal events), **semantic** (facts), and **procedural** (skills like riding a bicycle).
-- **Memory is reconstructive.** Each recall rebuilds the memory and can alter it. Experiments since the 1970s show that misleading questions can implant false details and even false events. Mistaken eyewitness identification played a part in roughly 70% of US convictions later overturned by DNA evidence.
-- **Learning** occurs through association (**classical conditioning**, e.g., Pavlov's dogs salivating at a bell), through consequences (**operant conditioning**: rewarded behaviors increase), and through watching others (**social learning**). Two reliable study techniques are spacing practice over time and testing oneself.
-- **Intelligence** test scores (**IQ**, scaled so the average is 100) predict school performance, job performance, income, and health moderately well. Scores rose about 3 points per decade across much of the 20th century (the **Flynn effect**), which is too fast to be genetic. That rise has stalled or reversed in some rich countries since the 1990s.
+- **Perception is constructed, not recorded.** The brain combines sensory input with expectations to make a best guess. This is why **optical illusions** work.
+- **Attention is narrow.** In a 1999 study, about half of viewers counting basketball passes failed to notice a person in a gorilla suit walking through the scene (**inattentional blindness**).
+- **Working memory** (what you can hold in mind right now) is small, about 4 chunks of information (older estimates said "7 ± 2"). **Long-term memory** is very large and has types: **episodic** (personal events), **semantic** (facts), and **procedural** (skills).
+- **Memory is reconstructive.** Each recall rebuilds the memory and can alter it. Misleading questions can implant false details and even false events. Mistaken eyewitness identification played a part in roughly 70% of US convictions later overturned by DNA evidence.
+- **Learning** occurs through association (**classical conditioning**, e.g., Pavlov's dogs salivating at a bell), through consequences (**operant conditioning**: rewarded behaviors increase), and through watching others (**social learning**). Spacing practice over time and self-testing reliably improve learning.
+- **Intelligence** test scores (**IQ**, scaled to average 100) moderately predict school and job performance, income, and health. Scores rose about 3 points per decade across much of the 20th century (the **Flynn effect**), too fast to be genetic. The rise has stalled or reversed in some rich countries since the 1990s.
 
-**How it developed:** Philosophers debated mind for millennia (see 11.2). Laboratory psychology began with Wilhelm Wundt in Leipzig in 1879. **Behaviorism** (~1913–1950s) studied only observable behavior. The **cognitive revolution** (1950s–60s) treated the mind as an information processor, partly inspired by early computers. Since the 1990s, brain scanning (e.g., fMRI, which tracks blood flow) has linked cognition to brain activity.
+**How it developed:** Laboratory psychology began with Wilhelm Wundt in Leipzig in 1879. **Behaviorism** (~1913–1950s) studied only observable behavior. The **cognitive revolution** (1950s–60s) treated the mind as an information processor, inspired partly by early computers. Since the 1990s, brain scanning (e.g., fMRI) has linked cognition to brain activity.
 
-**Effects on human life and society:** Understanding of memory reshaped police lineup and interview procedures in some countries. Intelligence testing is used in schooling, the military, and hiring, and was historically misused to justify forced sterilization (the eugenics movements of the early 1900s, which affected tens of thousands of people in the US alone). Knowledge of attention limits informs road safety (phone use while driving) and interface design.
+**Effects on human life and society:** Memory research reshaped police lineup and interview procedures in some countries. Intelligence testing is used in schooling, the military, and hiring, and was misused in the early 1900s to justify forced sterilization (eugenics), which affected tens of thousands of people in the US alone. Attention research informs road safety (phone use while driving).
 
 **Major ideas, schools, or ideologies:**
-- **General intelligence ("g")**: performance on different mental tests correlates, suggesting one general factor. Strongly supported statistically.
-- **Multiple intelligences** (Gardner, 1983): many separate intelligences. Popular in education but with weak empirical support [Contested].
-- **"Learning styles"** (teaching to visual or auditory learners improves results): widely believed by teachers, but not supported by controlled studies.
-- **Predictive processing**: the brain as a prediction machine [Refining].
+- **General intelligence ("g")**: scores on different mental tests correlate, suggesting one general factor. Strongly supported statistically.
+- **Multiple intelligences** (Gardner, 1983): popular in education, weak empirical support [Contested].
+- **"Learning styles"** (matching teaching to "visual" or "auditory" learners): widely believed by teachers, not supported by controlled studies.
 
 **Key works and figures:**
 - Hermann Ebbinghaus, *Memory* (1885): first experimental measurements of forgetting.
 - William James, *The Principles of Psychology* (1890): founding overview of the field.
-- Ivan Pavlov (1890s–1900s) and B. F. Skinner (1930s–50s): conditioning.
-- Jean Piaget: stages of children's thinking (see 15.4).
+- Ivan Pavlov and B. F. Skinner: conditioning.
 - Elizabeth Loftus (1970s on): false memory and eyewitness error.
-- Patient H.M. (Henry Molaison, surgery 1953): showed that forming new memories depends on specific brain structures (the hippocampus).
+- Patient H.M. (Henry Molaison, surgery 1953): showed that forming new memories depends on the hippocampus.
 
 **What is established vs. debated:**
 - Established: perception and memory are constructive and fallible; working memory is limited; IQ scores predict many life outcomes; heritability of adult IQ in rich countries is substantial (roughly 50%, range ~40–80%).
@@ -57,32 +55,32 @@ A note on evidence: from about 2011, psychologists began systematically re-runni
 
 **How it works:**
 - **Emotions** combine physical changes (heart rate, sweating, muscle tension), facial and vocal expressions, feelings, and urges to act. Fear prepares flight or freezing. Disgust drives avoidance of contamination.
-- **Stress response:** when a threat is perceived, a hormone chain from the brain to the adrenal glands (the HPA axis) releases cortisol and adrenaline, raising energy and alertness. Short-term this helps. Long-lasting stress is linked to worse physical and mental health [Established for the link; details of mechanisms Refining].
-- **Reward and learning:** dopamine neurons fire more when a reward is better than expected and less when it is worse (a **reward prediction error**). This helps explain habit formation and the pull of drugs, gambling, and some apps designed to be engaging.
-- **Hedonic adaptation:** after good or bad events, people's reported happiness tends to drift partly back toward a previous level. The return is incomplete for some events, such as long-term unemployment or disability.
-- **Motivation** includes basic drives (hunger, thirst, sex, sleep), social needs (belonging, status), and goals. **Intrinsic motivation** (doing a thing because it is interesting) and **extrinsic motivation** (doing it for pay or praise) behave differently. In some conditions, adding rewards can reduce intrinsic interest [Refining].
+- **Stress response:** when a threat is perceived, a hormone chain from the brain to the adrenal glands (the HPA axis) releases cortisol and adrenaline, raising energy and alertness. Short-term this helps. Long-lasting stress is linked to worse physical and mental health [mechanisms Refining].
+- **Reward and learning:** dopamine neurons fire more when a reward is better than expected and less when it is worse (a **reward prediction error**). This helps explain habit formation and the pull of drugs and gambling.
+- **Hedonic adaptation:** after good or bad events, reported happiness tends to drift partly back toward its previous level, though not fully after events such as long-term unemployment.
+- **Motivation** includes basic drives (hunger, thirst, sex, sleep), social needs (belonging, status), and goals. **Intrinsic motivation** (interest in the task itself) and **extrinsic motivation** (pay or praise) behave differently. Adding rewards can sometimes reduce intrinsic interest [Refining].
 
-**How it developed:** Charles Darwin's *The Expression of the Emotions in Man and Animals* (1872) argued emotions evolved and are shared with other animals. William James (1884) proposed that feelings follow bodily changes. In the 1960s–70s Paul Ekman reported that a small set of facial expressions were recognized across cultures, including an isolated group in Papua New Guinea. Neuroscience since the 1990s mapped reward and fear circuits.
+**How it developed:** Charles Darwin (1872) argued emotions evolved and are shared with other animals. William James (1884) proposed that feelings follow bodily changes. In the 1960s–70s Paul Ekman reported that a small set of facial expressions were recognized across cultures, including by an isolated group in Papua New Guinea. Neuroscience since the 1990s mapped reward and fear circuits.
 
-**Effects on human life and society:** Emotions drive voting, buying, and conflict. Advertising and political messaging target fear, anger, and pride (see 13.5). Chronic stress and poor sleep are linked to lower productivity and higher disease risk. The design of slot machines and social media feeds uses unpredictable rewards, which are especially effective at sustaining behavior.
+**Effects on human life and society:** Emotions drive voting, buying, and conflict. Advertising and political messaging target fear, anger, and pride (see 13.5). Slot machines and social media feeds use unpredictable rewards, which are especially effective at sustaining behavior.
 
 **Major ideas, schools, or ideologies:**
 - **Basic emotions theory** (Ekman): a handful of universal, biologically distinct emotions. Supported by cross-cultural recognition studies.
 - **Constructed emotion theory** (Lisa Feldman Barrett): emotions are built by the brain from general ingredients plus learned concepts, and vary across cultures more than Ekman claimed. The dispute between these views is active [Contested].
 - **Maslow's hierarchy of needs** (1943): needs are met in order, from physical to "self-actualization." Very widely taught, but evidence for a strict order is weak.
 - **Self-determination theory** (Deci and Ryan): people need autonomy, competence, and relatedness. Fairly well supported [Refining].
-- **Replication failures:** **ego depletion**, the idea that self-control draws on a limited resource that runs out (1998), failed in a 23-lab replication in 2016 that found an effect near zero. **Power posing**, the claim that standing in expansive postures for two minutes raises testosterone and risk-taking (2010), failed to replicate. One of the original authors publicly disavowed the effect in 2016. Effects of facial expression on mood ("facial feedback") appear real but small [Refining].
+- **Replication failures:** **ego depletion**, the idea that self-control draws on a limited resource that runs out (1998), found an effect near zero in a 23-lab replication in 2016. **Power posing**, the claim that two minutes in expansive postures raises testosterone and risk-taking (2010), failed to replicate, and one original author disavowed it in 2016.
 
 **Key works and figures:**
-- Charles Darwin, *The Expression of the Emotions in Man and Animals* (1872).
-- Walter Cannon and Hans Selye (1910s–1950s): the fight-or-flight response and stress.
+- Charles Darwin, *The Expression of the Emotions in Man and Animals* (1872): emotions as evolved.
+- Walter Cannon and Hans Selye (1910s–1950s): fight-or-flight and stress.
 - Paul Ekman (1960s–70s): cross-cultural facial expressions.
 - Wolfram Schultz (1990s): dopamine as a reward prediction signal.
 - Lisa Feldman Barrett, *How Emotions Are Made* (2017): the main challenge to basic emotions theory.
 
 **What is established vs. debated:**
 - Established: emotions have bodily components and evolved functions; dopamine is central to reward learning; chronic stress is harmful.
-- Debated: whether there are discrete "basic" emotions; how culture shapes emotional experience; how money affects happiness above moderate incomes (studies point both ways; recent work finds happiness keeps rising with income for most people [Refining]).
+- Debated: whether there are discrete "basic" emotions; how culture shapes emotional experience; whether happiness keeps rising with income above moderate levels (recent work suggests it does for most people [Refining]).
 - Matters of belief or value: which emotions people *should* express, and how societies should weigh happiness against other goals.
 
 **Open questions:** How do physical brain states become felt emotions? Do other animals feel emotions as humans do? What makes some people more resilient to stress than others?
@@ -97,7 +95,7 @@ A note on evidence: from about 2011, psychologists began systematically re-runni
 
 **What an alien needs to know first:** A **heuristic** is a mental rule of thumb. A **bias** here means a consistent tilt in judgment away from what logic, probability, or a person's own goals would recommend. It is not the same as prejudice (see 15.6), though prejudice can result. **Rational choice theory**, long used in economics, assumes people choose consistently to get the most of what they want. **Behavioral economics** studies where real people depart from that assumption.
 
-**How it works:** A common framing (popularized by Daniel Kahneman) divides thinking into **System 1**, fast, automatic, and intuitive, and **System 2**, slow, effortful, and deliberate. Most daily decisions use System 1. This framing is a useful simplification, not a literal map of brain parts. Well-documented biases include:
+**How it works:** A common framing (popularized by Daniel Kahneman) divides thinking into **System 1** (fast, automatic, intuitive) and **System 2** (slow, effortful, deliberate). It is a useful simplification, not a map of brain parts. Well-documented biases include:
 
 | Bias | What happens | Reliability |
 |---|---|---|
@@ -110,33 +108,32 @@ A note on evidence: from about 2011, psychologists began systematically re-runni
 | **Present bias** | Overvaluing immediate rewards relative to later ones (e.g., under-saving) | Established |
 | **Dunning–Kruger effect** | The least skilled overrate themselves most | [Contested]: part of the pattern is a statistical artifact |
 
-**How it developed:** Economists from the 1700s–1900s modeled people as rational calculators. In the 1950s Herbert Simon argued humans have **bounded rationality**: they settle for "good enough" because time and information are limited. From 1971 to 1979, Amos Tversky and Daniel Kahneman published experiments cataloguing heuristics and biases, culminating in **prospect theory** (1979), a model of choice under risk built around loss aversion. Kahneman received the Nobel Memorial Prize in Economics in 2002, and Richard Thaler in 2017. From 2008, governments set up "nudge units" applying these findings to policy.
+**How it developed:** Economists long modeled people as rational calculators. In the 1950s Herbert Simon argued humans have **bounded rationality**: they settle for "good enough" because time and information are limited. In the 1970s Amos Tversky and Daniel Kahneman catalogued heuristics and biases, culminating in **prospect theory** (1979), a model of risky choice built around loss aversion. Kahneman received the Nobel Memorial Prize in Economics in 2002, and Richard Thaler in 2017. From 2010 (the UK first), governments set up "nudge units" to apply these findings.
 
 **Effects on human life and society:**
-- **Policy:** making retirement savings automatic unless people opt out (instead of opt in) raised participation in some US firms from roughly half to around 90%. Organ-donation rates differ greatly between countries with opt-in and opt-out defaults.
-- **Finance:** biases help explain asset bubbles, under-saving, and over-trading by individual investors (see 5.8).
-- **Politics and information:** confirmation bias and motivated reasoning help explain why corrections of false claims often have limited effect and why partisans interpret the same facts differently (see 13.5).
-- **Medicine and law:** diagnostic errors, and sentencing influenced by irrelevant anchors, are documented [effect sizes in individual studies vary; some Contested].
+- **Policy:** enrolling workers in retirement savings automatically (they can opt out) raised participation in some US firms from roughly half to around 90%. Organ-donor registration differs sharply between opt-in and opt-out countries.
+- **Finance:** biases help explain bubbles, under-saving, and over-trading (see 5.8).
+- **Politics:** confirmation bias and motivated reasoning help explain why corrections of false claims often fail and why partisans read the same facts differently (see 13.5).
 
 **Major ideas, schools, or ideologies:**
 - **Heuristics-and-biases school** (Kahneman, Tversky, Thaler): emphasizes errors and supports gentle corrective policy ("libertarian paternalism").
 - **Ecological rationality** (Gerd Gigerenzer): heuristics are often smart adaptations to real environments, and lab tasks exaggerate errors. Both views have substantial evidence; they differ mainly in emphasis.
-- **Critics of nudging** argue effects are small once publication bias is corrected. A 2022 re-analysis suggested average nudge effects may be close to zero after correction, while defaults remain robust [Contested].
-- **Replication failures:** many **social priming** findings (e.g., that reading words about old age makes people walk more slowly, 1996) failed to replicate. Kahneman himself publicly warned of a "train wreck" in this area in 2012.
+- **Nudge skeptics:** a 2022 re-analysis suggested average nudge effects may be near zero after correcting for publication bias, though defaults remain robust [Contested].
+- **Replication failures:** many **social priming** findings (e.g., that reading words about old age makes people walk more slowly, 1996) failed to replicate. Kahneman warned of a "train wreck" in this area in 2012.
 
 **Key works and figures:**
 - Herbert Simon (1950s): bounded rationality.
-- Tversky and Kahneman, "Judgment under Uncertainty: Heuristics and Biases" (1974) and "Prospect Theory" (1979).
-- Daniel Kahneman, *Thinking, Fast and Slow* (2011): the standard popular account (it cites some priming studies that later failed).
-- Richard Thaler and Cass Sunstein, *Nudge* (2008): policy applications.
-- Gerd Gigerenzer, *Simple Heuristics That Make Us Smart* (1999): the counter-view.
+- Tversky and Kahneman, "Judgment under Uncertainty" (1974) and "Prospect Theory" (1979).
+- Kahneman, *Thinking, Fast and Slow* (2011): the standard popular account (it cites some priming studies that later failed).
+- Thaler and Sunstein, *Nudge* (2008): policy applications.
+- Gigerenzer, *Simple Heuristics That Make Us Smart* (1999): the counter-view.
 
 **What is established vs. debated:**
 - Established: humans deviate from strict rationality in systematic, predictable ways; defaults strongly shape choices.
 - Debated: how large and general many biases are outside the lab; whether biases are "errors" or sensible adaptations; how effective nudges are at scale.
 - Matters of belief or value: whether governments *should* steer choices (paternalism versus autonomy).
 
-**Open questions:** Can people be trained to reduce their own biases durably? (Evidence suggests limited transfer from training [Refining].) How do biases combine in groups and markets, where some errors cancel and others amplify?
+**Open questions:** Can people be trained to reduce their own biases durably (evidence suggests limited transfer [Refining])? How do biases combine in groups and markets, where some errors cancel and others amplify?
 
 **See also:** 3.5 How Humans Get Things Wrong; 3.4 Statistics, Probability, and Measurement; 5.1 Scarcity, Trade, and Markets; 5.8 Economic Crises; 13.5 Propaganda, Persuasion, and Misinformation.
 
@@ -149,27 +146,26 @@ A note on evidence: from about 2011, psychologists began systematically re-runni
 **What an alien needs to know first:** Human infants are born unusually helpless and depend on adults for many years (see 1.5). The brain keeps developing into the mid-20s. A **trait** is a stable tendency (e.g., talkativeness). **Heritability** is the share of *differences between people* in a population that is associated with genetic differences. It does not say how much of one person's trait "comes from" genes, and it can change when environments change. **Twin studies** compare identical twins (who share nearly all genes) with fraternal twins (who share about half) to estimate heritability.
 
 **How it works:**
-- **Child development:** infants rapidly learn faces, language (most children speak in sentences by ~2–3 years), and the understanding that others have different beliefs ("theory of mind," typically by ~4–5 years). Jean Piaget described development in stages. Later research found children are capable earlier than he thought and that development is more gradual [Refining].
-- **Attachment:** infants form strong bonds to caregivers. Studies classify children as securely or insecurely attached. Secure attachment is moderately associated with later social functioning, but the links are weaker than early theorists expected [Refining].
-- **The Big Five:** the best-supported personality model describes five broad traits: **Openness** to experience, **Conscientiousness**, **Extraversion**, **Agreeableness**, and **Neuroticism** (tendency toward negative emotion), often abbreviated **OCEAN**. The five traits emerge from statistical analysis of how people describe themselves and others, and appear (with some variation) across many cultures. Traits are moderately stable in adulthood. On average people become more conscientious and agreeable, and less neurotic, with age. Conscientiousness predicts job and school performance. Neuroticism predicts mental-health problems.
-- **Nature and nurture:** twin and adoption studies find that most measured psychological traits are partly heritable. A 2015 review of 50 years of twin studies (covering ~14.5 million twin pairs) found an average heritability around 50% across all traits studied. Personality traits are typically ~40–50% heritable. Surprisingly, the shared family environment (growing up in the same home) explains little of adult personality differences. Much variation comes from non-shared experiences and chance.
+- **Child development:** infants rapidly learn faces, language (most speak in sentences by ~2–3 years), and that others hold different beliefs ("theory of mind," typically by ~4–5 years). Jean Piaget described development in stages. Later research found children capable earlier than he thought, and development more gradual [Refining].
+- **Attachment:** infants form strong bonds to caregivers. Secure attachment is moderately associated with later social functioning, though the links are weaker than early theorists expected [Refining].
+- **The Big Five:** the best-supported personality model has five broad traits: **Openness** to experience, **Conscientiousness**, **Extraversion**, **Agreeableness**, and **Neuroticism** (tendency toward negative emotion), or **OCEAN**. They emerge from statistical analysis of how people describe themselves and others, and appear, with some variation, across many cultures. Traits are moderately stable in adulthood. On average people grow more conscientious and agreeable, and less neurotic, with age. Conscientiousness predicts job and school performance. Neuroticism predicts mental-health problems.
+- **Nature and nurture:** a 2015 review of 50 years of twin studies (~14.5 million twin pairs) found average heritability around 50% across all traits studied. Personality traits are typically ~40–50% heritable. Surprisingly, growing up in the same home explains little of adult personality differences. Much variation comes from non-shared experiences and chance.
 
-**How it developed:** Sigmund Freud (1890s–1930s) proposed that personality is shaped by unconscious drives and early childhood conflicts, and founded **psychoanalysis**. His ideas were enormously influential in 20th-century culture, therapy, and art, but most of his specific claims (e.g., the Oedipus complex, psychosexual stages) are untestable or unsupported [Freudian theory: historically influential, largely unsupported]. Some broad themes, such as that much mental processing is unconscious, are supported in a different form by modern research. Harry Harlow's monkey studies (1950s) showed infant monkeys sought comfort over food. John Bowlby (1969) and Mary Ainsworth (1970s) built attachment theory. The Big Five emerged from the 1960s–1990s.
+**How it developed:** Sigmund Freud (1890s–1930s) founded **psychoanalysis**, which held that personality is shaped by unconscious drives and early childhood conflicts. It was enormously influential in 20th-century culture, therapy, and art, but most of its specific claims (e.g., the Oedipus complex, psychosexual stages) are untestable or unsupported [historically influential, largely unsupported]. The broad idea that much mental processing is unconscious is supported, in a different form, by modern research. Harry Harlow's monkey studies (1950s) showed infants sought comfort over food. John Bowlby (1969) and Mary Ainsworth (1970s) built attachment theory. The Big Five emerged from the 1960s–1990s.
 
-**Effects on human life and society:** Developmental findings shaped parenting advice, childcare policy, the closing of large orphanages (after studies, e.g., of Romanian orphanages after 1989, showed severe neglect harms development), and early-education programs. Personality tests are used in hiring. The most popular commercial test, the Myers-Briggs Type Indicator, sorts people into 16 types and has weak scientific support compared with the Big Five.
+**Effects on human life and society:** Developmental findings shaped parenting advice, childcare policy, and early-education programs. Studies of Romanian orphanages after 1989 showed that severe neglect harms development, which informed shifts toward foster care in several countries. Personality tests are used in hiring. The most popular commercial test, the Myers-Briggs Type Indicator (16 "types"), has weak scientific support compared with the Big Five.
 
 **Major ideas, schools, or ideologies:**
-- **Trait theories** (Big Five, HEXACO, which adds an honesty–humility trait): strongly supported.
+- **Trait theories** (Big Five; HEXACO adds honesty–humility): strongly supported.
 - **Psychoanalytic theories** (Freud, Jung): historically influential, weakly supported.
-- **Behavioral genetics** versus **environmental** emphasis: the evidence supports both. The debate is about how genes and environments interact [Refining].
-- **The "marshmallow test"** (1970s; children who waited longer for a treat later had better outcomes): a larger 2018 study found the link much weaker once family background was accounted for.
+- **Genes versus environment:** evidence supports both. The live question is how they interact [Refining].
+- **The "marshmallow test"** (1970s; children who waited longer for a treat later did better): a larger 2018 study found the link much weaker after accounting for family background.
 
 **Key works and figures:**
 - Sigmund Freud, *The Interpretation of Dreams* (1899): historically influential, largely unsupported.
-- Jean Piaget, *The Origins of Intelligence in Children* (1936): stage theory of cognitive development.
-- John Bowlby, *Attachment* (1969) and Mary Ainsworth's "Strange Situation" studies (1970s).
+- Jean Piaget, *The Origins of Intelligence in Children* (1936): stage theory of development.
+- John Bowlby, *Attachment* (1969), and Mary Ainsworth's "Strange Situation" studies (1970s).
 - Lev Vygotsky (1920s–30s): learning as social and cultural.
-- Paul Costa and Robert McCrae (1980s–90s): Big Five measurement.
 - Polderman et al. (2015): meta-analysis of twin studies.
 
 **What is established vs. debated:**
@@ -199,35 +195,34 @@ A note on evidence: from about 2011, psychologists began systematically re-runni
 | **Schizophrenia** | Psychosis: hallucinations, delusions, disorganized thinking | ~24 million (about 1 in 300) |
 | **Substance use disorders** | Compulsive use of alcohol or drugs despite harm | Alcohol alone ~400 million with use disorders (WHO, 2024 report) |
 
-In total, about **1 in 8 humans** (~970 million) were living with a mental disorder in 2019. About **700,000–750,000** people die by suicide each year. Disorders arise from a mix of genetic risk, brain biology, life stress, trauma, poverty, and substance use, and the mix differs by disorder [Refining]. Schizophrenia and bipolar disorder are highly heritable (~60–80%).
+In total, about **1 in 8 humans** (~970 million) were living with a mental disorder in 2019. About **700,000–750,000** people die by suicide each year. Disorders arise from a mix of genetic risk, brain biology, stress, trauma, poverty, and substance use, and the mix differs by disorder [Refining]. Schizophrenia and bipolar disorder are highly heritable (~60–80%).
 
 **Treatments:**
-- **Psychotherapy:** **cognitive behavioral therapy** (CBT; 1960s on) teaches people to change unhelpful thoughts and behaviors. It is effective for anxiety and depression in many trials.
-- **Medication:** antipsychotics (from the 1950s) reduce psychosis. Antidepressants such as SSRIs (from the late 1980s) outperform placebo on average, but the average advantage is modest [Contested how clinically meaningful]. The popular explanation that depression is simply a "chemical imbalance" of serotonin is not supported by current evidence. Lithium is effective for bipolar disorder.
-- **Other:** electroconvulsive therapy (effective for severe depression, despite its reputation), and newer approaches such as ketamine and psychedelic-assisted therapy [Refining/Contested].
+- **Psychotherapy:** **cognitive behavioral therapy** (CBT; 1960s on) teaches people to change unhelpful thoughts and behaviors, and is effective for anxiety and depression in many trials.
+- **Medication:** antipsychotics (from the 1950s) reduce psychosis. Lithium helps bipolar disorder. Antidepressants such as SSRIs (from the late 1980s) outperform placebo on average, but modestly [Contested how clinically meaningful]. The popular idea that depression is simply a serotonin "chemical imbalance" is not supported by current evidence.
+- **Other:** electroconvulsive therapy (effective for severe depression, despite its reputation); ketamine and psychedelic-assisted therapy [Refining/Contested].
 
-**How it developed:** Many societies explained mental illness as spirit possession or moral failing, and some still do. Large asylums spread in Europe and North America in the 1800s. In the 1950s–80s many countries closed them (**deinstitutionalization**), helped by new drugs, though community care was often underfunded. The DSM was first published in 1952. Homosexuality was classified as a disorder until 1973 (DSM) and 1990 (ICD), a sign that diagnoses reflect social values as well as science. Freud's psychoanalysis dominated psychiatry in some countries (notably the US) until the 1970s. It is historically influential but its core theory is largely unsupported, and evidence-based therapies largely replaced it.
+**How it developed:** Many societies explained mental illness as spirit possession or moral failing, and some still do. Large asylums spread in Europe and North America in the 1800s. From the 1950s–80s many countries closed them (**deinstitutionalization**), helped by new drugs, though community care was often underfunded. The DSM was first published in 1952. Homosexuality was listed as a disorder until 1973 (DSM) and 1990 (ICD), showing that diagnoses reflect social values as well as science. Freud's psychoanalysis dominated US psychiatry until the 1970s. Its core theory is largely unsupported, and evidence-based therapies have mostly replaced it.
 
-**Effects on human life and society:** Mental disorders are a leading cause of disability worldwide. Depression and anxiety alone are estimated to cost the world economy around US$1 trillion a year in lost productivity (WHO estimate). The **treatment gap** is huge. In low- and middle-income countries, most people with depression receive no treatment at all. Stigma reduces help-seeking. People with serious mental illness die roughly 10–20 years earlier on average, mostly from physical illness. Prisons hold many people with mental illness in some countries (see 7.3). Whether reported rates of youth anxiety and depression rose sharply from ~2012, and whether smartphones and social media are a major cause, is actively debated [Contested].
+**Effects on human life and society:** Mental disorders are a leading cause of disability worldwide. The WHO estimates that depression and anxiety cost the world economy about US$1 trillion a year in lost productivity. The **treatment gap** is huge: in low- and middle-income countries, most people with depression receive no treatment. People with serious mental illness die roughly 10–20 years earlier on average, mostly from physical illness. Whether youth anxiety and depression rose sharply from ~2012, and whether smartphones and social media are a major cause, is actively debated [Contested].
 
 **Major ideas, schools, or ideologies:**
 - **Biomedical model:** mental illness as brain disease. Useful for severe disorders, but no single biological cause has been found for most.
 - **Biopsychosocial model:** biology, psychology, and social conditions all contribute. The mainstream position.
-- **Critical and "anti-psychiatry" views** (from the 1960s): diagnoses medicalize normal distress or social problems. Parts of this critique are taken seriously (e.g., over-diagnosis concerns). The claim that serious mental illness is not real is rejected by most researchers.
-- **Dimensional versus categorical diagnosis:** many researchers argue disorders are extremes on continuous spectra, not separate boxes [Refining].
+- **Critical and "anti-psychiatry" views** (from the 1960s): diagnoses medicalize normal distress or social problems. Over-diagnosis concerns are taken seriously. The claim that serious mental illness is not real is rejected by most researchers.
+- **Dimensional diagnosis:** disorders as extremes on continuous spectra, not separate boxes [Refining].
 
 **Key works and figures:**
 - Emil Kraepelin (1890s): first systematic classification of psychoses.
 - Sigmund Freud: founded psychoanalysis (historically influential, largely unsupported).
-- Aaron Beck (1960s): developed cognitive therapy, foundation of CBT.
+- Aaron Beck (1960s): developed cognitive therapy, the basis of CBT.
 - The DSM (1952–2022) and ICD-11 (2022): the classification systems.
-- Thomas Insel and the NIMH "Research Domain Criteria" (2009 on): push toward biology-based categories.
 - WHO, *World Mental Health Report* (2022): global prevalence and treatment-gap figures.
 
 **What is established vs. debated:**
 - Established: mental disorders are common, disabling, and often treatable; CBT and several medications help many people; suicide is a leading cause of death among young people.
 - Debated: exact causes of most disorders; how large antidepressant benefits are; whether youth mental health has declined and why.
-- Matters of belief or value: where the line between distress and disorder should be drawn; involuntary treatment; how to balance autonomy and protection.
+- Matters of belief or value: where to draw the line between distress and disorder; involuntary treatment.
 
 **Open questions:** What are the biological mechanisms of depression and schizophrenia? Can reliable biological tests be developed? Why do treatments work for some people and not others?
 
