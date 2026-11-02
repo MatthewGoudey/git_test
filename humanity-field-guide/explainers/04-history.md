@@ -8,7 +8,7 @@ History is the study of the human past. Strictly, it covers the ~5,000 years sin
 
 **In one sentence:** For over 95% of the time that humans and their close relatives have existed, they lived in small mobile groups that gathered plants and hunted animals, and in that time they spread from Africa to every continent except Antarctica.
 
-**What an alien needs to know first:** **Archaeology** reconstructs the past from physical remains (tools, bones, hearths, art). **Radiocarbon dating** measures the decay of a carbon isotope in once-living material and works back to about 50,000 years. Older material is dated by other radioactive or geological methods. **Ancient DNA**, recovered from bones since the 2010s, now reveals past migrations and mixing. **Hominins** are humans and their extinct relatives after the split from the chimpanzee lineage. **Hunter-gatherers** (or **foragers**) get food from wild plants and animals rather than farming. The **Paleolithic** ("Old Stone Age") is the period of chipped-stone tools before farming.
+**What an alien needs to know first:** **Archaeology** reconstructs the past from physical remains (tools, bones, hearths, art). **Radiocarbon dating** measures the decay of a form of carbon in once-living material and reaches back ~50,000 years; older material is dated by other methods. **Ancient DNA** from bones now reveals past migrations. **Hominins** are humans and their extinct relatives after the split from the chimpanzee lineage. **Hunter-gatherers** (or **foragers**) get food from wild plants and animals rather than farming. The **Paleolithic** ("Old Stone Age") is the period of chipped-stone tools before farming.
 
 **What happened:**
 - **~7–6 million years ago:** the human lineage separates from the chimpanzee lineage in Africa.
@@ -19,9 +19,8 @@ History is the study of the human past. Strictly, it covers the ~5,000 years sin
 - **~100,000–70,000 years ago:** shell beads and engraved ochre in southern Africa, early evidence of symbolic behavior.
 - **~70,000–50,000 years ago:** the main dispersal of *Homo sapiens* out of Africa. Non-African humans today carry about 1–2% Neanderthal DNA. Some Pacific populations carry several percent from Denisovans, another extinct group.
 - **~65,000–50,000 years ago:** humans reach Australia, requiring sea crossings [date range Contested].
-- **~51,000–40,000 years ago:** the oldest known figurative cave paintings (Sulawesi, Indonesia), then carved figurines and bone flutes (Germany, ~40,000 years ago).
-- **~40,000 years ago:** Neanderthals disappear. Other hominin species are extinct soon after.
-- **~36,000 and ~17,000 years ago:** major painted caves in France (Chauvet, Lascaux).
+- **~51,000–17,000 years ago:** figurative cave art (Sulawesi, Indonesia, ~51,000 years ago; Chauvet and Lascaux, France, ~36,000 and ~17,000), carved figurines, and bone flutes.
+- **~40,000 years ago:** Neanderthals disappear; other hominin species are extinct soon after.
 - **~26,000–19,000 years ago:** the **Last Glacial Maximum**, the coldest part of the last ice age. Sea levels are ~120 m lower than today, joining Siberia to Alaska.
 - **~16,000 years ago at the latest:** humans are in the Americas. Footprints in New Mexico suggest ~21,000–23,000 years ago [Contested].
 - **~15,000 years ago or earlier:** dogs are domesticated from wolves, the first domestic animal.
@@ -29,21 +28,20 @@ History is the study of the human past. Strictly, it covers the ~5,000 years sin
 
 Throughout this period, many large animals ("**megafauna**") disappeared: giant marsupials in Australia (~45,000 years ago), and mammoths, giant ground sloths, and native horses in the Americas (~13,000–11,000 years ago).
 
-**How it developed (how humans learned this):** Europeans long assumed the Earth was a few thousand years old, based on readings of the Bible. Stone tools found alongside extinct animals were accepted as evidence of deep human antiquity in 1859. Fossils from Africa from the 1920s onward, radiocarbon dating (1949), and ancient-DNA studies (2010 onward, e.g., the Neanderthal genome) transformed the picture. Each new technique has pushed key dates earlier.
+**How it developed (how humans learned this):** Many Europeans long believed, from readings of the Bible, that Earth was a few thousand years old. Deep human antiquity was accepted in 1859, when stone tools were found with extinct animals. African fossils (1920s onward), radiocarbon dating (1949), and ancient DNA (2010 onward) transformed the picture, each pushing key dates earlier.
 
-**Effects on human life and society:** Human bodies and minds evolved mostly under forager conditions, a fact often used (sometimes loosely) to explain modern tastes for sugar and fat, fear responses, and group loyalty [Contested in specifics]. World population at the end of this period was small, perhaps 1–10 million people. Language, art, music, long-distance exchange networks, and probably religious belief all appear in this era. Today only a few hundred thousand people live mainly by foraging.
+**Effects on human life and society:** Human bodies and minds evolved mostly under forager conditions, which is often used (sometimes loosely) to explain modern tastes for sugar and fat and strong group loyalty [Contested in specifics]. World population by 10,000 BCE was perhaps 1–10 million. Language, art, music, long-distance exchange, and probably religious belief all appear in this era. Today only a few hundred thousand people live mainly by foraging.
 
 **Major ideas, schools, or ideologies:**
 - **Forager social life:** studies of recent foragers show small bands (~25–50 people) inside wider networks of hundreds, food sharing, and relatively little inherited inequality [Refining]. How far recent foragers resemble ancient ones is [Contested].
 - **Violence:** one view holds prehistoric death rates from violence were high (Steven Pinker and others). Another holds that organized war was rare before farming (Douglas Fry and others) [Contested].
 - **Megafauna extinctions:** human hunting, climate change, or both [Contested; human impact is strongly supported in Australia and the Americas].
 - **Origin of language:** estimates range from ~50,000 to over 200,000 years ago [Contested].
-- **"Original affluent society"** (Marshall Sahlins, 1966): foragers worked fewer hours than farmers. This is partly supported and partly disputed.
+- **"Original affluent society"** (Marshall Sahlins, 1966, in *Stone Age Economics*, 1972): foragers worked fewer hours than farmers [Contested].
 
 **Key works and figures:**
 - Louis and Mary Leakey: East African fossil and tool discoveries (1930s–1970s).
 - Svante Pääbo: ancient DNA and the Neanderthal genome (2010; Nobel Prize 2022).
-- Marshall Sahlins, *Stone Age Economics* (1972): forager economics.
 - David Reich, *Who We Are and How We Got Here* (2018): ancient-DNA history of migrations.
 - The cave art of Sulawesi, Chauvet, and Lascaux: direct evidence of the prehistoric imagination.
 
@@ -52,7 +50,7 @@ Throughout this period, many large animals ("**megafauna**") disappeared: giant 
 - Debated: exact dates for Australia and the Americas; causes of megafauna loss; when language and modern cognition arose; forager violence rates.
 - Matters of belief or value: whether forager life was "better" or "worse" than later life. Many religious traditions hold their own creation accounts, which their followers believe on faith.
 
-**Open questions:** Why *Homo sapiens* outlasted other hominins. When and how language began. How many separate migrations peopled the Americas. What prehistoric people believed. Their art suggests rich symbolic lives that cannot be read directly.
+**Open questions:** Why *Homo sapiens* outlasted other hominins. When language began. How many migrations peopled the Americas. What prehistoric people believed; their art suggests rich symbolic lives that cannot be read directly.
 
 **See also:** 1.1 Evolution and Human Origins; 2.5 Climate and Atmosphere; 4.2 Farming and the First Civilizations; 10.1 What Religion Is and Why Humans Have It; 13.1 Language; 14.4 Visual Arts and Architecture.
 
@@ -62,7 +60,7 @@ Throughout this period, many large animals ("**megafauna**") disappeared: giant 
 
 **In one sentence:** Humans in several regions independently began farming, which allowed far larger populations, permanent villages, then cities, states, writing, kings, organized religion, and large-scale inequality.
 
-**What an alien needs to know first:** **Domestication** is the breeding of plants and animals over generations until they depend on humans and serve human needs (e.g., wheat whose seeds stay on the stalk for harvesting). **Agriculture** is producing food by farming crops and raising animals. A **surplus** is food beyond what producers need, which can feed non-farmers. A **state** is an organization that rules a territory, taxes it, and claims the right to use force. In historians' technical usage, a **civilization** is a society with cities, specialized occupations, a state, monumental building, and usually writing. The word implies no ranking above other societies. The **Bronze Age** (~3300–1200 BCE in the Near East) is when tools and weapons were made of bronze (copper plus tin). The **Iron Age** follows.
+**What an alien needs to know first:** **Domestication** is breeding plants and animals over generations until they serve human needs and depend on humans (e.g., wheat whose seeds stay on the stalk for harvest). **Agriculture** is farming crops and raising animals. A **surplus** is food beyond what producers need, which can feed non-farmers. A **state** is an organization that rules a territory, taxes it, and claims the right to use force. In historians' usage, a **civilization** is a society with cities, specialized occupations, a state, monumental building, and usually writing; the word implies no ranking. The **Bronze Age** (~3300–1200 BCE in the Near East) is when tools were made of bronze (copper plus tin); the **Iron Age** follows.
 
 **What happened:**
 Farming began independently in at least 7–11 regions [Refining on exact count]:
@@ -178,3 +176,125 @@ Key events:
 **Open questions:** How much contact and influence flowed between Rome, India, and China. How Teotihuacan was governed. How much climate shifts and epidemics drove the crises of the 3rd and 6th centuries.
 
 **See also:** 10.2 The Abrahamic Religions; 10.3 Religions of South and East Asia; 11.5 World Philosophical Traditions; 6.2 Forms of Government; 7.1 Legal Systems; 5.7 International Trade and the Global Economy.
+
+---
+
+### 4.4 The Medieval and Early Modern World (~500–1750)
+
+**In one sentence:** Over these twelve centuries, Islam and new empires reshaped much of Afro-Eurasia, Mongol conquest briefly linked it, plague killed a large share of its people, and late in the period printing, religious upheaval, and the Scientific Revolution transformed Europe.
+
+**What an alien needs to know first:** "**Medieval**" (the "Middle Ages") is a European label for the period between the fall of the western Roman Empire (~500) and the **Renaissance** (~1400s–1500s). It fits Europe better than other regions, which had their own turning points. **Feudalism** describes a system in which landholders granted land to followers in exchange for military service, while peasants (often **serfs**, legally bound to the land) farmed it. It is used mainly for Europe and Japan, and many historians consider the term too tidy. A **caliphate** is a state led by a **caliph**, a ruler claiming succession to the Prophet Muhammad as leader of the Muslim community. **Islam** is the religion based on what Muslims believe were revelations from God (Allah) to Muhammad.
+
+**What happened:**
+- **541–~750:** the **Plague of Justinian**, caused by the same bacterium as the later Black Death (confirmed by ancient DNA), recurs around the Mediterranean. Its death toll is [Contested].
+- **610–632:** Muhammad, in Arabia, preaches Islam. By 750, Arab-Muslim armies have built a caliphate from Spain to Central Asia and the Indus. The **Abbasid** caliphate (750–1258) makes Baghdad a center of science, translation, and trade.
+- **618–907:** the Tang dynasty in China. Civil-service examinations grow into the main route to office.
+- **~800:** Charlemagne is crowned emperor in western Europe. The Khmer Empire (Cambodia) begins (~802); Angkor Wat is built in the early 1100s.
+- **~300–1200:** the Ghana Empire in West Africa grows rich on trans-Saharan gold trade. The **Mali Empire** (~1235–1600) follows. Its ruler Mansa Musa's pilgrimage to Mecca in 1324 was famous for its gold. Timbuktu becomes a center of Islamic scholarship.
+- **~1000–1300:** Polynesian navigators settle Hawaii, Rapa Nui (Easter Island), and finally New Zealand (~1250–1300), the last major land masses reached by humans.
+- **960–1279:** the **Song dynasty** in China: woodblock and movable-type printing, paper money, the compass in navigation, gunpowder weapons, and a population of ~100 million.
+- **1054:** Christianity splits into Eastern Orthodox and Roman Catholic churches.
+- **1095–1291:** the **Crusades**, European Christian military campaigns to take and hold Jerusalem and surrounding lands, with massacres by several sides.
+- **~1050–1350:** Cahokia (near today's St. Louis, USA), a city of perhaps 10,000–20,000 people.
+- **~1100–1450:** Great Zimbabwe, a stone-walled capital in southern Africa. Swahili city-states trade across the Indian Ocean.
+- **1206–1368:** the **Mongol Empire**, founded by Genghis Khan, becomes the largest contiguous land empire in history (~24 million km²). Its conquests killed millions. Estimates in the tens of millions are often cited but are [Contested]. Baghdad is sacked in 1258. Afterward, the "Pax Mongolica" eases trade across Eurasia.
+- **1206–1526:** the Delhi Sultanate in north India; Vijayanagara (1336–1646) in the south.
+- **1347–1351:** the **Black Death**, a plague pandemic, kills roughly one-third to one-half of Europe's population (~25–50 million), with heavy losses in the Middle East and North Africa. Jewish communities in Europe were massacred by people who blamed them for the plague.
+- **1368–1644:** the Ming dynasty. Admiral Zheng He's fleets (1405–1433), with up to ~27,000 men, sail as far as East Africa.
+- **1325–1521:** the Mexica (Aztec) capital Tenochtitlan grows to perhaps 200,000 people. The Aztec Empire collects tribute and practices large-scale human sacrifice; the numbers are [Contested]. **1438–1533:** the **Inca Empire** rules ~10 million people along the Andes, keeping records on knotted cords (quipu) and building ~40,000 km of roads.
+- **~1440s–1450s:** Johannes Gutenberg develops movable-type printing in Europe. Millions of books are printed by 1500. (Korea had printed with metal type by 1377.)
+- **1453:** the **Ottoman Empire** (1299–1922) captures Constantinople, ending the Byzantine Empire. It rules southeastern Europe, the Middle East, and North Africa for centuries.
+- **~1400–1600:** the Italian Renaissance revives Greek and Roman learning and art.
+- **1492 onward:** European voyages to the Americas (see 4.5).
+- **1501–1736:** the Safavid Empire makes Shia Islam the state religion of Iran.
+- **1517:** Martin Luther's protest begins the **Protestant Reformation**. Europe's wars of religion follow. The Thirty Years' War (1618–1648) kills perhaps 4–8 million. The Peace of Westphalia (1648) is often cited as the origin of the modern system of sovereign states [Contested].
+- **1526–1857:** the **Mughal Empire** rules most of South Asia; around 1700 it is among the world's largest economies.
+- **1543–1687:** the **Scientific Revolution** in Europe (see 3.3).
+- **~1450–1750:** European witch hunts execute ~40,000–60,000 people.
+- **1603–1868:** Tokugawa Japan, largely closed to foreign trade from the 1630s.
+- **1639:** Russian expansion across Siberia reaches the Pacific.
+- **1644:** the Ming fall to the Manchu **Qing dynasty** amid famine and rebellion during a cold period (the "Little Ice Age").
+
+Slavery existed throughout. The trans-Saharan, Red Sea, and Indian Ocean slave trades carried several million Africans to North Africa, the Middle East, and Asia over many centuries [totals Contested]. Slavery and serfdom were common in Europe, Asia, and the Americas.
+
+**How it developed (how humans learned this):** Sources multiply: chronicles in Arabic, Chinese, Persian, Latin, and Ge'ez; Ibn Khaldun's *Muqaddimah* (1377), a theory of the rise and fall of dynasties; travel accounts like Ibn Battuta's (1350s). For the Americas and sub-Saharan Africa, archaeology, oral traditions, and later European accounts must fill gaps.
+
+**Effects on human life and society:** World population rose from ~200–250 million (~500) to ~750–800 million (~1750), despite plague and war. Islam (now ~2 billion followers) spread across Afro-Eurasia. Most humans remained peasant farmers. Printing made books cheap, helped spread both the Reformation and science, and made literacy possible for far more people. The map of world religions largely took its current form.
+
+**Major ideas, schools, or ideologies:**
+- **"Dark Ages"?** The old label for early medieval Europe is now largely rejected by historians [Established that the term is misleading]. Whether there was real material decline in the West after 500 is [Contested].
+- **Why Europe, a minor region in 1000, later rose:** competition among small states, institutions, printing, Atlantic access, or later colonial resources (see 4.5) [Contested].
+- **The Black Death's long-run effects:** labor shortages raised wages and weakened serfdom in western Europe [Refining].
+
+**Key works and figures:**
+- Muhammad (~570–632): founder figure of Islam (see 10.2).
+- Ibn Khaldun, *Muqaddimah* (1377): early social theory of history.
+- Genghis Khan (~1162–1227): founder of the Mongol Empire.
+- Mansa Musa (r. ~1312–1337): ruler of Mali at its height.
+- Johannes Gutenberg (~1400–1468): European printing.
+- Martin Luther (1483–1546): began the Protestant Reformation.
+
+**What is established vs. debated:**
+- Established: the rise of Islam and its empires; the Mongol conquests; the Black Death's scale in Europe; the timeline of printing, Reformation, and Scientific Revolution.
+- Debated: death tolls of the Mongol conquests and early plagues; feudalism as a concept; why scientific and industrial breakthroughs came in Europe.
+- Matters of belief or value: the religious claims of Islam, Christianity, and other faiths; judgments about the Crusades and conquests.
+
+**Open questions:** Population sizes in the Americas and Africa before 1500. The full extent of trade connections across Africa and the Indian Ocean. How climate shifts (the Medieval Warm Period, the Little Ice Age) drove political crises.
+
+**See also:** 10.2 The Abrahamic Religions; 10.3 Religions of South and East Asia; 1.6 Health, Disease, and Medicine; 13.2 Writing and Literacy; 3.3 The Scientific Method; 6.2 Forms of Government; 8.4 Social Class and Mobility.
+
+---
+
+### 4.5 Colonialism, Revolutions, and Industry (~1500–1914)
+
+**In one sentence:** European states conquered or dominated most of the world, enslaved and transported millions of Africans, triggered population collapse in the Americas, and, through revolutions and industrialization, created the modern ideas of rights, nations, and machine-powered economic growth.
+
+**What an alien needs to know first:** **Colonialism** is one country's rule over another territory and its people, often with settlers. **Imperialism** is the broader pursuit of power over other lands, including by economic or indirect control. **Chattel slavery** treats humans as property that can be bought, sold, and inherited, including their children. A **revolution** is a rapid, often violent overthrow of a political order. **Industrialization** is the shift from muscle-, wind-, and water-powered handwork to machines powered by fossil fuels, in factories. A **nation** is a group that sees itself as a people sharing language, culture, or history. **Nationalism** is the belief that each nation should have its own state.
+
+**What happened:**
+- **1488–1522:** Portuguese sailors round southern Africa (1488) and reach India (1498). Christopher Columbus, sailing for Spain, reaches the Caribbean in 1492. Magellan's expedition circles the globe (1519–1522).
+- **1519–1533:** Spanish forces, with many Indigenous allies, conquer the Aztec (1521) and Inca (1532–33) empires.
+- **The American population collapse:** the Indigenous population of the Americas, perhaps ~50–60 million in 1492 [Contested; estimates range ~8–110 million], fell by roughly 90% within about a century. The main killers were Eurasian diseases (smallpox, measles, influenza) to which Americans had no prior exposure. These combined with war, massacres, enslavement, forced labor (such as in the silver mines of Potosí, Bolivia), and famine. Caribbean peoples such as the Taíno were nearly destroyed within decades.
+- **The Columbian Exchange:** maize, potatoes, and cassava spread to Afro-Eurasia, eventually feeding hundreds of millions. Horses, cattle, wheat, and diseases came to the Americas. American silver flowed to China.
+- **1501–1866: the Atlantic slave trade.** About **12.5 million** Africans were forced onto European ships; about **10.7 million** survived the crossing (the "Middle Passage"), and roughly 1.8 million died at sea. An unknown number, possibly millions, died during capture and march to the coast. About 40% went to Brazil, a similar share to the Caribbean, and ~4% to North America. Enslaved people grew sugar, tobacco, cotton, and coffee under brutal conditions; on Caribbean sugar plantations, deaths often exceeded births. By 1860, the US held ~4 million enslaved people.
+- **1600–1602:** the English and Dutch East India Companies, private firms with armies, are founded. After the Battle of Plassey (1757), the British company controls Bengal, and British rule spreads across India.
+- **~1760–1840:** the **Industrial Revolution** begins in Britain: coal-fired steam engines (James Watt's improvements, 1770s), mechanized textile mills, and railways (from 1825–1830). A second wave (~1870–1914) brings steel, electricity, chemicals, and internal-combustion engines to Germany, the US, and later Japan. Industrial workers, including children, labored 12–14-hour days in dangerous conditions. Labor movements and socialism arose in response (see 9.4).
+- **1775–1783:** the American Revolution. The 1776 Declaration of Independence proclaims that "all men are created equal" while slavery continues.
+- **1789–1799:** the French Revolution abolishes feudal privileges and proclaims the Rights of Man. The Terror (1793–94) executes ~17,000 people officially, and many more die in repression. The Napoleonic Wars (1803–1815) kill perhaps 3–6 million.
+- **1791–1804:** the **Haitian Revolution**. Enslaved Africans overthrow French rule and found the first state created by formerly enslaved people. In 1825 France forces Haiti, under threat of invasion, to pay a large indemnity to former slaveholders, a debt Haiti paid off over many decades.
+- **1808–1826:** most of Spanish America wins independence (Simón Bolívar, José de San Martín). Brazil becomes independent in 1822.
+- **Abolition:** Britain bans the slave trade (1807) and slavery in its colonies (1833), paying £20 million in compensation to slaveholders, not to the enslaved. Russia frees its serfs (1861). The US abolishes slavery (1865) after a civil war killing ~620,000–750,000. Brazil is last in the Americas (1888).
+- **1830s–1890:** the US forcibly removes Native nations from their lands (e.g., the "Trail of Tears"), and wars and disease reduce the Native population in the US to ~250,000 by 1900. Aboriginal Australians suffer massacres, dispossession, and disease after British settlement (1788).
+- **1839–1860:** Britain wins two **Opium Wars** against Qing China, forcing it to accept opium imports and "unequal treaties." The **Taiping Rebellion** (1850–1864) kills roughly 20–30 million [range Contested].
+- **1857–1858:** a major Indian uprising is crushed; the British Crown rules India directly. Famines in British India and in China (1876–1902) kill tens of millions. The role of colonial policy is [Contested].
+- **1868:** Japan's **Meiji Restoration** launches rapid industrialization. Japan defeats China (1895) and Russia (1905) and annexes Korea (1910).
+- **1861–1871:** Italy and Germany unify as nation-states.
+- **1884–1914:** the **"Scramble for Africa."** European control rises from ~10% of Africa (1870) to ~90% (1914). Only Ethiopia (which defeated Italy at Adwa, 1896) and Liberia stay independent. In the **Congo Free State** (1885–1908), personally owned by Belgium's King Leopold II, forced rubber collection, mutilation, famine, and disease caused deaths in the millions [toll Contested; often cited up to ~10 million]. In German South West Africa (Namibia), the **Herero and Nama genocide** (1904–1908) killed roughly 65,000 Herero (~80% of them) and ~10,000 Nama (~half).
+- **1815–1914:** ~50 million Europeans emigrate, mostly to the Americas. After abolition, ~1–2 million indentured laborers from India and China are shipped to plantations worldwide.
+
+**How it developed (how humans learned this):** Colonial archives long dominated the record and often recorded the colonizers' view. Since the mid-20th century, historians have used shipping records (compiled in the Trans-Atlantic Slave Trade Database), oral histories, and records from colonized societies to give fuller accounts.
+
+**Effects on human life and society:** World population rose from ~1 billion (~1800) to ~1.8 billion (1914). Industrial economies grew faster than any before: the "**Great Divergence**" in which western Europe and its settler offshoots pulled far ahead of China and India, which together had produced perhaps half of world output around 1700 [Refining]. Modern borders in Africa, the Middle East, and Asia, the global spread of English, Spanish, French, and Portuguese, and the racial hierarchies of the Americas all trace to this era. So do the ideas of universal rights and popular sovereignty, and the ideologies of Domain 9.
+
+**Major ideas, schools, or ideologies:**
+- **Why Britain industrialized first:** cheap coal and high wages (Robert Allen); institutions and property rights (Douglass North); a culture of useful knowledge (Joel Mokyr); colonial land and resources (Kenneth Pomeranz) [Contested].
+- **Slavery and capitalism:** Eric Williams (1944) argued that slave-trade profits helped finance industrialization. The size of that contribution is [Contested].
+- **Colonialism's economic legacy:** many economists find that extractive colonial institutions harmed long-run development (Acemoglu, Johnson, and Robinson, 2001). Others argue colonies also brought infrastructure and markets. The empirical balance is [Contested]. Whether colonialism was justified is [Belief/Value], but its violence is [Established].
+- **Scientific racism**, now discredited, served as a justification at the time (see 3.5).
+
+**Key works and figures:**
+- Adam Smith, *The Wealth of Nations* (1776): theory of markets and division of labor.
+- The US Declaration of Independence (1776) and the Declaration of the Rights of Man (1789): founding documents of rights-based politics.
+- Toussaint Louverture (~1743–1803): leader of the Haitian Revolution.
+- Olaudah Equiano, *The Interesting Narrative* (1789): a formerly enslaved man's account that fed abolitionism.
+- Karl Marx and Friedrich Engels, *The Communist Manifesto* (1848): response to industrial capitalism.
+- Kenneth Pomeranz, *The Great Divergence* (2000): comparative explanation of Europe's economic rise.
+
+**What is established vs. debated:**
+- Established: the scale of the Atlantic slave trade; the Indigenous population collapse in the Americas; the Congo and Herero-Nama atrocities; the timeline of industrialization and revolutions.
+- Debated: pre-1492 American population; famine death tolls and causes; the economic contribution of slavery and colonies to industrialization.
+- Matters of belief or value: whether and how descendants of the enslaved and colonized should receive **reparations**; how to judge historical figures.
+
+**Open questions:** How many people died in Africa because of the slave trades. Exact demographic histories of the Americas, Australia, and the Pacific. Why industrialization spread quickly to some regions and slowly to others.
+
+**See also:** 5.4 Growth, Development, and Poverty; 8.3 Race, Ethnicity, and Identity; 9.6 Nationalism; 6.7 Revolutions, Protest, and Political Change; 12.3 Energy; 7.2 Constitutions and Rights; 1.6 Health, Disease, and Medicine.

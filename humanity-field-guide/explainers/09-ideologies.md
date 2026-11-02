@@ -242,4 +242,155 @@ The word "ideology" was coined in France in 1796 by Antoine Destutt de Tracy. Ka
 
 **See also:** 5.1 Scarcity, Trade, and Markets; 5.4 Growth, Development, and Poverty; 5.5 Inequality; 5.8 Economic Crises; 9.2 Liberalism; 9.4 Socialism and Communism.
 
-<!-- CONTINUE -->
+---
+
+### 9.6 Nationalism
+
+**In one sentence:** Nationalism is the belief that humanity is divided into nations, that each person owes primary political loyalty to their nation, and that each nation should govern itself, ideally in its own state.
+
+**What an alien needs to know first:** A **state** is a government with control over a territory (see 6.1). A **nation** is a large group of people who see themselves as sharing a common identity, usually based on language, culture, history, religion, or ancestry. The two do not always match. Kurds (~30–40 million) are a nation without a state. Switzerland is a state with four official languages. A **nation-state** is a state whose people largely see themselves as one nation. **Self-determination** is the principle that peoples should choose their own government.
+
+**Core values [Belief/Value]:** loyalty to the nation; national independence and sovereignty; preservation of national culture and identity; the nation as a community of mutual obligation.
+
+**How it works:** Nationalism binds strangers into a community that most members will never meet. Benedict Anderson called this an "imagined community." States build it through a shared language, mass schooling, national histories, flags, anthems, conscription, and media. Scholars distinguish:
+- **Civic nationalism**: membership is based on citizenship and shared political values. The United States and France are often cited.
+- **Ethnic nationalism**: membership is based on ancestry, language, or religion.
+
+The distinction is useful but blurry in practice [Contested].
+
+**How it developed:** Scholars disagree on origins. **Modernists** (Ernest Gellner, Benedict Anderson, Eric Hobsbawm) argue nations are largely products of the last ~250 years, created by printing, industrialization, and mass education. **Ethno-symbolists** (Anthony D. Smith) stress older ethnic roots [Contested]. Key moments:
+- The American (1776) and French (1789) revolutions made "the people" or "the nation" sovereign. France introduced the mass conscription of citizens in 1793.
+- German and Italian nationalists unified their countries (Italy 1861, Germany 1871).
+- Collapsing empires after World War I produced new nation-states. US President Woodrow Wilson promoted "self-determination" in 1918.
+- Anti-colonial nationalism drove **decolonization**. UN membership grew from 51 states in 1945 to 193 today.
+
+**Where applied, and documented outcomes:**
+- **Building states and solidarity.** Nationalism underpinned mass literacy, standardized languages, and welfare states (shared identity can increase willingness to pay taxes for strangers [Refining]). A well-known comparison: Tanzania's deliberate nation-building, using a common language and suppressing ethnic politics, is associated with better local cooperation on public goods than in neighboring Kenya [Refining].
+- **Independence.** Anti-colonial movements in India (independent 1947), Indonesia, Ghana, Algeria, and elsewhere ended European rule over hundreds of millions of people.
+- **War and ethnic violence.** Nationalism helped drive World War I (~15–20 million dead). The **Partition of India** (1947) killed roughly 200,000–2 million people and displaced ~15 million. The Yugoslav wars (1991–2001) killed ~130,000–140,000, including the Srebrenica genocide (1995, ~8,000 Bosniak men and boys). Studies find wars become more likely when nation-states form out of empires [Refining]. Extreme ethnic nationalism fed the Armenian genocide and Nazism (see 9.7).
+- **Today.** Nationalist themes are central to many 2010s–2020s movements and governments, from Britain's vote to leave the European Union (2016) to Chinese "national rejuvenation," Russian claims over Ukraine, India's Hindu nationalism, and anti-immigration parties across Europe.
+
+**Major ideas, schools, or ideologies:**
+- **Strongest case for:** Democracy and welfare states require a shared identity and trust ("we" must decide together and share). National self-determination freed colonized peoples. Nations give individuals meaning and belonging. Liberal nationalists such as David Miller and Yael Tamir argue nationhood and liberal rights are compatible.
+- **Strongest criticisms:** Nationalism excludes or persecutes minorities, inflames conflict over mixed territories, and has justified ethnic cleansing and genocide. Cosmopolitans argue that moral obligations should not stop at borders [Belief/Value].
+- **What the evidence shows:** Nationalism has been central both to the building of functioning states and to many of the deadliest conflicts of the last two centuries. Its effects depend heavily on whether it is inclusive or exclusionary, and on how borders and minorities are handled.
+
+**Key works and figures:**
+- Johann Gottfried Herder (1770s–1790s): the nation as a cultural-linguistic community.
+- Giuseppe Mazzini (1830s–1860s): liberal nationalism and Italian unification.
+- Ernest Renan, "What Is a Nation?" (1882): the nation as a "daily plebiscite."
+- Hans Kohn, *The Idea of Nationalism* (1944): the civic/ethnic distinction.
+- Ernest Gellner, *Nations and Nationalism* (1983), and Benedict Anderson, *Imagined Communities* (1983): modernist theories.
+- Frantz Fanon, *The Wretched of the Earth* (1961): anti-colonial nationalism.
+
+**What is established vs. debated:**
+- Established: Most of today's states were formed or reshaped by nationalism since 1800. Nationalist conflict has caused mass violence.
+- Debated: How old nations are. Whether civic nationalism is truly distinct. Whether national identity is necessary for welfare states.
+- Matters of belief or value: the moral weight of compatriots versus foreigners; whether nations have a right to their own state.
+
+**Open questions:** Will globalization weaken national identities or provoke stronger ones? How can multi-ethnic states hold together without coercion?
+
+**See also:** 4.5 Colonialism, Revolutions, and Industry; 6.1 The State; 6.6 War and Organized Violence; 8.3 Race, Ethnicity, and Identity; 9.7 Fascism and Totalitarianism.
+
+---
+
+### 9.7 Fascism and Totalitarianism
+
+**In one sentence:** Fascism is a 20th-century ideology of extreme nationalism that rejected democracy, liberalism, and Marxism in favor of a single-party state led by an all-powerful leader, glorified violence and war, and in its Nazi form organized genocide. Totalitarianism is a term for regimes, of left or right, that seek total control over society and individual life.
+
+**What an alien needs to know first:** After World War I (1914–18), much of Europe faced economic ruin, fear of communist revolution, humiliating peace terms (especially for Germany), and weak new democracies. The **Holocaust** is the name for Nazi Germany's systematic murder of European Jews. **Genocide** is the deliberate destruction of a national, ethnic, racial, or religious group.
+
+**Core values of fascism, as stated by its adherents [Belief/Value]:** the nation (or, in Nazism, the "race") is supreme and the individual is subordinate to it; the nation must be reborn from decadence; unity under one leader and one party; war and struggle are ennobling; class conflict is to be replaced by national unity, with employers and workers organized under the state (**corporatism**); liberal democracy and communism are enemies. **Nazism** added biological racism, extreme **antisemitism** (hostility to Jews), and a demand for "living space" (*Lebensraum*) in Eastern Europe.
+
+**How it developed:**
+- **Italy.** Benito Mussolini founded the Fascist movement in 1919. He took power after the "March on Rome" in 1922 and built a dictatorship by 1925–26.
+- **Germany.** Adolf Hitler's National Socialist (Nazi) party won about 37% of the vote in July 1932, its peak in a free election. Hitler was appointed chancellor in January 1933, and the Enabling Act (March 1933) let him rule without parliament. Within months, other parties were banned, opponents were sent to concentration camps, and Jews were excluded from public life. Jews were stripped of citizenship by the Nuremberg Laws of 1935, and the state-organized "Kristallnacht" pogrom followed in November 1938.
+- **Related regimes.** Similar or allied regimes arose in Spain (Franco, 1939–1975, after a civil war that killed roughly 500,000), Croatia (Ustaše), Romania, Hungary, and elsewhere. Imperial Japan, a militarist-nationalist state allied with Germany and Italy, is classed as fascist by some scholars and not by others [Contested].
+
+**Documented outcomes:**
+- **War.** Germany invaded Poland on 1 September 1939, starting World War II in Europe. Japan had been at war in China since 1937. The war killed roughly 70–85 million people, about 3% of the world's population, most of them civilians.
+- **The Holocaust.** About **6 million Jews**, roughly two-thirds of Europe's Jews, were murdered by Nazi Germany and its collaborators. They were killed by mass shooting, in ghettos, and in extermination camps such as Auschwitz-Birkenau, where about 1 million Jews were killed.
+- **Other victims of Nazi Germany:** roughly 200,000–500,000 Roma; roughly 250,000–300,000 disabled people murdered in "euthanasia" programs; about 3 million Soviet prisoners of war, mostly through deliberate starvation; and millions of Polish and other Slavic civilians.
+- **Fascist Italy** used poison gas in its 1935–36 conquest of Ethiopia.
+- **Imperial Japan** killed millions of civilians in China and Southeast Asia, including the Nanjing massacre of 1937–38 (tens of thousands to ~300,000 killed [range Contested]).
+- **Economy.** Nazi Germany cut unemployment from about 6 million in 1932 to near zero by 1938, largely through rearmament and deficit spending. Historians such as Adam Tooze argue the economy was organized for a war of conquest and was unsustainable without it.
+- **End.** Fascist Italy and Nazi Germany were destroyed by military defeat in 1945. Leading Nazis were tried at Nuremberg (1945–46), which helped found modern international criminal law (see 7.5). Fascist parties remain banned or restricted in Germany, Italy, and other countries.
+
+**Totalitarianism:** Hannah Arendt (1951) and others grouped Nazi Germany with Stalin's USSR as **totalitarian**: regimes with an official ideology, a single mass party, terror police, a monopoly on media and weapons, and central control of the economy. The term is also applied to Mao's China and North Korea. Critics argue the concept was shaped by Cold War politics and overstates how completely these regimes controlled society [Contested].
+
+**Major ideas, schools, or ideologies:**
+- **Why it attracted followers:** Supporters at the time claimed fascism would restore national pride after defeat, end class conflict and political chaos, defeat communism, and deliver jobs and order. Many conservatives and business leaders backed it as a bulwark against the left.
+- **What the record shows:** In both major cases, fascism produced dictatorship, wars of aggression, genocide, and national destruction. No major scholarly school defends it today. Scholars debate the definition, for example Roger Griffin's "palingenetic ultranationalism" (ultranationalism built on national rebirth) and Robert Paxton's focus on what fascists *did*. They also debate whether any contemporary far-right movements should be called fascist [Contested].
+
+**Key works and figures:**
+- Benito Mussolini and Giovanni Gentile, "The Doctrine of Fascism" (1932): official statement of fascist ideology.
+- Adolf Hitler, *Mein Kampf* (1925): Hitler's racial and expansionist program, studied as a historical document.
+- Hannah Arendt, *The Origins of Totalitarianism* (1951).
+- Raul Hilberg, *The Destruction of the European Jews* (1961): foundational Holocaust history.
+- Primo Levi, *If This Is a Man* (1947): survivor's account of Auschwitz.
+- Robert Paxton, *The Anatomy of Fascism* (2004); Adam Tooze, *The Wages of Destruction* (2006).
+
+**What is established vs. debated:**
+- Established: The Holocaust and the scale of Nazi crimes are among the most thoroughly documented events in history. Holocaust denial contradicts overwhelming evidence, including Nazi Germany's own records.
+- Debated: The precise definition of fascism, the usefulness of "totalitarianism" as a category, and the causes of fascism's rise (economic crisis, nationalism, fear of communism, institutional failure).
+- Matters of belief or value: fascism's core values themselves.
+
+**Open questions:** Which conditions allow democracies to fall to extremist movements, and which safeguards reliably stop them?
+
+**See also:** 4.6 The World Wars and the Cold War; 6.4 Authoritarianism; 6.6 War and Organized Violence; 7.5 International Law and Human Rights; 9.6 Nationalism; 13.5 Propaganda, Persuasion, and Misinformation.
+
+---
+
+### 9.8 Other Movements
+
+**In one sentence:** Beyond the major ideologies above, several movements have shaped politics on particular questions: the state itself (anarchism), the status of women (feminism), the natural environment (environmentalism), the people versus elites (populism), and the role of religion in government (religious political movements).
+
+**What an alien needs to know first:** These are not all full ideologies. Populism, for example, is usually described as a "thin" ideology that attaches itself to left or right programs. Each has many internal strands that disagree with one another.
+
+**Anarchism**
+- **Core values [Belief/Value]:** all coercive hierarchy, especially the state, is illegitimate. Society should be organized through voluntary cooperation.
+- **Origins and thinkers:** Pierre-Joseph Proudhon (*What Is Property?*, 1840), Mikhail Bakunin, Peter Kropotkin (*Mutual Aid*, 1902), Emma Goldman.
+- **Where tried:** Revolutionary Catalonia in Spain (1936–39), the Makhnovist territory in Ukraine (1918–21), the Zapatista areas of Chiapas, Mexico (1994–), and Kurdish-led northeast Syria (from ~2012, influenced by Murray Bookchin).
+- **Outcomes:** These experiments were mostly small or short-lived, and most were ended by military force.
+- **Case for:** Humans lived without states for most of their history. Elinor Ostrom showed that communities often manage shared resources well without central control.
+- **Case against:** No large, durable stateless society has existed in the modern world. Stateless areas are vulnerable to armed groups and neighboring states.
+
+**Feminism**
+- **Core values [Belief/Value]:** women and men should have equal rights and status.
+- **History:** Often described in "waves":
+  - First wave (c. 1848–1920): votes and property rights.
+  - Second wave (1960s–80s): work, reproduction, and family law.
+  - Third and fourth waves (1990s–): diversity, sexual harassment, online activism.
+- **Strands:** liberal feminism (equal legal rights); socialist feminism (links to class); radical feminism (patriarchy as the root system); intersectional feminism (Kimberlé Crenshaw, 1989: overlapping disadvantages, e.g., of race and sex).
+- **Outcomes:** Women's suffrage is now near-universal, and girls' schooling has reached parity in most countries (see 8.2).
+- **Disputes:** Within feminism, debates continue over sex work and over sex versus gender identity. From outside, religious and traditionalist critics argue it undermines family and natural roles [Belief/Value]. Others argue that remaining gaps reflect choices more than discrimination [Contested].
+
+**Environmentalism**
+- **Core values [Belief/Value]:** protection of nature, either for human wellbeing or for its own sake.
+- **History:** Rachel Carson's *Silent Spring* (1962), the first Earth Day (1970), and Green parties (Germany's from 1980, later in coalition governments).
+- **Outcomes:** The Montreal Protocol (1987) phased out most ozone-destroying chemicals, and the ozone layer is recovering [Established]. Clean-air laws sharply cut urban air pollution in rich countries. The Paris Agreement (2015) set climate goals, but global CO₂ emissions were still at record highs in the mid-2020s.
+- **Strands:** These range from "eco-modernists" (technology, including nuclear power, will decouple growth from damage) to "degrowth" advocates (rich economies must shrink) [Contested].
+
+**Populism**
+- **Definition:** In political science, populism (Cas Mudde, 2004) is the view that society is split between a virtuous "pure people" and a "corrupt elite," and that politics should express the people's will directly.
+- **Examples:** Left-wing populists include Hugo Chávez (Venezuela) and Syriza (Greece). Right-wing populists include Viktor Orbán (Hungary), Donald Trump (United States), and Jair Bolsonaro (Brazil).
+- **Case for:** Supporters argue it gives voice to citizens ignored by technocratic elites.
+- **Case against:** Critics argue it weakens courts, media, and minority rights. One cross-country study (2023) found populist governments associated with GDP per person about 10% lower after 15 years, and with erosion of judicial independence and press freedom [Refining/Contested].
+
+**Religious political movements**
+- **Core values [Belief/Value]:** law and government should follow religious principles or protect a religious identity.
+- **Islamism.** This is the project of organizing politics around Islam and Islamic law. It ranges from electoral parties, such as Tunisia's Ennahda and the Muslim Brotherhood (founded in Egypt, 1928), to Iran's clerical state (since the 1979 revolution), the Taliban (ruling Afghanistan 1996–2001 and again since 2021), and the Islamic State. At its 2014–15 peak, the Islamic State controlled territory with roughly 8–10 million people and carried out mass killings, including genocide against the Yazidis.
+- **Hindu nationalism.** Hindu nationalism (*Hindutva*) is the view that India is fundamentally a Hindu nation (V.D. Savarkar, 1923; the volunteer organization RSS, founded 1925). Its party, the BJP, has led India's government since 2014. Supporters credit it with development and national confidence. Critics cite rising pressure on India's ~200 million Muslims [Contested].
+- **Christian nationalism** seeks to make national identity and law explicitly Christian, with influence in the United States and parts of Eastern Europe and Latin America. **Christian democracy** is a moderate, pro-democratic tradition (see 9.3).
+- **Buddhist nationalism** has been linked to persecution of Myanmar's Rohingya Muslims, more than 700,000 of whom fled in 2017. **Liberation theology** (Latin America, 1960s–) combined Catholicism with socialist ideas.
+
+**Key works and figures:** Kropotkin, *Mutual Aid* (1902); Simone de Beauvoir, *The Second Sex* (1949); Carson, *Silent Spring* (1962); Sayyid Qutb, *Milestones* (1964), an influential radical Islamist text; Elinor Ostrom, *Governing the Commons* (1990); Cas Mudde and Cristóbal Rovira Kaltwasser, *Populism: A Very Short Introduction* (2017).
+
+**What is established vs. debated:**
+- Established: The ozone recovery, the expansion of women's rights, and the documented mass killings by the Islamic State.
+- Debated: Whether anarchism can scale. The economic effects of populism. The best path for climate policy. Whether particular parties should be labeled populist, Islamist, or nationalist.
+- Matters of belief or value: the core goals of every movement listed here.
+
+**Open questions:** Will climate change produce new mass political movements? Is the 2010s–2020s rise of populism and religious nationalism a lasting realignment?
+
+**See also:** 6.7 Revolutions, Protest, and Political Change; 8.2 Sex, Gender, and Sexuality in Society; 10.6 Secularism, Atheism, and Religious Change; 10.7 Religion's Effects on Society; 16.1 Climate Change; 16.2 Biodiversity and Environmental Degradation.

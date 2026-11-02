@@ -14,7 +14,7 @@ Humans do not only survive. They also tell stories, sing, decorate, dance, play,
 
 **How it developed:** Simple traditions (tool-making styles) exist in other primates and in human ancestors over a million years ago. Rapid cultural accumulation in *Homo sapiens* is clear by ~100,000–50,000 years ago (beads, pigments, varied tools) [Refining]. The scientific study of culture began in the 1800s.
 
-**Effects on human life and society:** Culture shapes what people eat, whom they marry, how they raise children, and how they treat outsiders. Since ~1950, trade, migration, film, and the internet have spread some cultural products worldwide, such as American films, Japanese animation, Korean pop music, and Indian cinema. Governments treat cultural appeal as influence, which Joseph Nye called **soft power** (1990).
+**Effects on human life and society:** Culture shapes what people eat, whom they marry, how they raise children, and how they treat outsiders. Since ~1950, trade, migration, and media have spread American films, Japanese animation, Korean pop music, and Indian cinema worldwide. Governments treat cultural appeal as influence, which Joseph Nye called **soft power** (1990).
 
 **Major ideas, schools, or ideologies:**
 - **Cultural relativism** (Franz Boas, early 1900s): describe each culture on its own terms. As a research method it is widely used. As a moral claim that no culture can be judged, it is [Belief/Value] and disputed.
@@ -29,10 +29,10 @@ Humans do not only survive. They also tell stories, sing, decorate, dance, play,
 
 **What is established vs. debated:**
 - Established: culture is learned, not inherited genetically; it varies widely and changes over time.
-- Debated: how far culture explains economic and political differences between countries; whether globalization flattens diversity.
+- Debated: whether globalization flattens diversity.
 - Matters of belief or value: whether any culture is better than another; cultural "appropriation" and who may use another group's traditions.
 
-**Open questions:** Why did cumulative culture take off in humans and not in other species? How do individual choices aggregate into lasting cultural change?
+**Open questions:** Why did cumulative culture take off in humans and not in other species? How much does culture, versus institutions or geography, explain differences between societies?
 
 **See also:** 1.1 Evolution and Human Origins; 13.1 Language; 8.1 Family and Kinship; 10.1 What Religion Is and Why Humans Have It; 15.6 Cooperation, Conflict, and Group Behavior.
 
@@ -187,7 +187,7 @@ Humans do not only survive. They also tell stories, sing, decorate, dance, play,
 
 **In one sentence:** Cuisines, dress, greetings, holidays, and calendars are the everyday shared practices that structure daily life and mark group identity.
 
-**What an alien needs to know first:** A **cuisine** is a group's characteristic way of choosing, preparing, and eating food. A **taboo** is a strong prohibition, often religious or moral. A **holiday** is a day set aside for celebration or remembrance. A **calendar** is a system for dividing time into days, months, and years, based on the Sun, the Moon, or both.
+**What an alien needs to know first:** A **cuisine** is a group's characteristic way of choosing, preparing, and eating food. A **taboo** is a strong prohibition, often religious. A **holiday** is a day set aside for celebration or remembrance. A **calendar** divides time into days, months, and years, based on the Sun, the Moon, or both.
 
 **How it works:** Cuisines are built from local crops and animals, trade, religion, and technology. Rice is central in much of Asia, wheat in Europe, the Middle East, and North Africa, maize in Mesoamerica, and cassava and sorghum in parts of Africa (see 12.2). Cooking is universal among humans. Religious food rules affect billions: Judaism and Islam forbid pork, many Hindus avoid beef, and Jains avoid harming even small creatures. Dress signals gender, status, religion, and occupation. The global clothing industry is roughly US$1.5–2 trillion a year. Greetings vary (bows, handshakes, cheek kisses). Most of the world uses the solar **Gregorian calendar** (introduced 1582) for business, while also keeping others. The Islamic calendar is lunar (~354 days a year). The Chinese and Hebrew calendars are lunisolar (lunar months adjusted to the solar year).
 
@@ -204,6 +204,6 @@ Humans do not only survive. They also tell stories, sing, decorate, dance, play,
 - Debated: the origins of specific taboos; when cooking began.
 - Matters of belief or value: what is proper, polite, or ethical to eat and wear.
 
-**Open questions:** How will rising meat consumption, climate change, and lab-grown foods reshape cuisines? Will global brands keep displacing local customs, or will local foods hold?
+**Open questions:** How will rising meat consumption, climate change, and lab-grown foods reshape cuisines? Will global brands keep displacing local customs?
 
 **See also:** 12.2 Agriculture and Food Systems; 10.5 Spirituality, Ritual, and Religious Experience; 1.6 Health, Disease, and Medicine; 8.5 Population and Migration; 16.7 Resources: Food, Water, and Materials.

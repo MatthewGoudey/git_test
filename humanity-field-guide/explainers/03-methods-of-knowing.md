@@ -140,7 +140,7 @@ Humans are not natural logicians. In a well-known test (the Wason selection task
 5. Publish methods and results so others can check and repeat them.
 6. Revise, reject, or provisionally accept the hypothesis.
 
-Real science is messier. Much of it is observational (astronomy, geology, epidemiology) rather than experimental. Scientists also use models, simulations, and statistics (see 3.4). The method's strength is **collective and self-correcting**: individual scientists have biases, but a community that rewards finding others' errors tends to correct them over time.
+Real science is messier, and much of it (astronomy, geology, epidemiology) is observational rather than experimental. Its strength is **collective and self-correcting**: individual scientists have biases, but a community that rewards finding others' errors tends to correct them over time.
 
 Consensus changes when evidence accumulates. Examples:
 - **Continental drift** was proposed in 1912 and widely rejected. It was accepted in the 1960s once seafloor evidence explained the mechanism (plate tectonics).
@@ -151,10 +151,8 @@ Scale today: roughly 9 million full-time-equivalent researchers worldwide, over 
 **How it developed:**
 - **Antiquity:** systematic observation in Babylonian astronomy, Greek natural philosophy (Aristotle), Chinese astronomy and medicine, and Indian mathematics and medicine.
 - **~1011–1021:** Ibn al-Haytham (Cairo) uses controlled experiments in his *Book of Optics* and insists claims be tested.
-- **1543–1687:** the **Scientific Revolution** in Europe: Copernicus, Galileo (experiments and telescope observations), Kepler, and Newton's *Principia* (1687).
-- **1620:** Francis Bacon promotes systematic, experiment-based induction.
-- **1660–1665:** the Royal Society (London) is founded, and the first scientific journals appear.
-- **1800s:** science becomes a profession, with university laboratories and specialized disciplines.
+- **1543–1687:** the **Scientific Revolution** in Europe: Copernicus, Galileo, Kepler, Francis Bacon's program of experiment (1620), and Newton's *Principia* (1687). The first scientific journals appear in 1665.
+- **1800s:** science becomes a paid profession with university laboratories.
 - **1934:** Karl Popper argues that falsifiability is what separates science from non-science.
 - **1962:** Thomas Kuhn argues that science alternates between "normal science" and occasional **paradigm shifts** (revolutions in basic framework).
 - **Mid-1900s:** formal peer review becomes standard at major journals.
@@ -168,7 +166,7 @@ Scale today: roughly 9 million full-time-equivalent researchers worldwide, over 
 - **Paradigms (Kuhn):** science is shaped by shared frameworks and community judgment, not by pure logic.
 - **Bayesianism:** belief in a hypothesis should be updated in proportion to evidence, using probability (see 3.4).
 - **Realism vs. instrumentalism:** do theories describe reality, or just predict well? [Contested]
-- **Sociology of science and feminist and postcolonial critiques:** funding, power, and who does science shape which questions get asked. The evidence that this happens is strong. How far it affects the content of results is [Contested].
+- **Social critiques:** funding, power, and who does science shape which questions get asked (well documented). How far they shape the results is [Contested].
 
 **Key works and figures:**
 - Ibn al-Haytham, *Book of Optics* (~1021): early experimental method.
@@ -176,7 +174,6 @@ Scale today: roughly 9 million full-time-equivalent researchers worldwide, over 
 - Isaac Newton, *Principia* (1687): the model of mathematical physical science.
 - Karl Popper, *The Logic of Scientific Discovery* (1934): falsifiability.
 - Thomas Kuhn, *The Structure of Scientific Revolutions* (1962): paradigms.
-- Robert K. Merton (1942): described science's social norms (shared results, organized skepticism).
 
 **What is established vs. debated:**
 - Established: scientific methods have produced reliable, cumulative, technologically useful knowledge; consensus has repeatedly changed in response to evidence.
@@ -210,16 +207,14 @@ Scale today: roughly 9 million full-time-equivalent researchers worldwide, over 
 **How it developed:**
 - **Ancient times:** censuses count people for taxes and armies. Han China recorded ~58 million people in 2 CE.
 - **1654:** Blaise Pascal and Pierre de Fermat work out the mathematics of probability through gambling problems.
-- **1662:** John Graunt analyzes London death records, an early form of demography.
 - **1713, 1763:** Jacob Bernoulli's law of large numbers; Thomas Bayes's rule for updating probabilities.
 - **1795–1875:** France creates the metric system; the 1875 Metre Convention makes it international. SI is adopted in 1960.
 - **~1809:** Carl Friedrich Gauss describes the **normal distribution** (the "bell curve").
 - **1880s–1930s:** Francis Galton and Karl Pearson develop correlation and regression. Ronald Fisher develops randomization, significance testing, and experimental design. Note: Galton, Pearson, and Fisher were all prominent supporters of **eugenics**, a movement to "improve" human heredity that led to forced sterilizations (see 3.5).
 - **1948:** a British trial of the antibiotic streptomycin for tuberculosis becomes a model for the modern RCT.
 - **1950–54:** Richard Doll and Austin Bradford Hill show statistically that smoking causes lung cancer.
-- **1990s–present:** "evidence-based medicine," large datasets, and machine learning.
 
-**Effects on human life and society:** Governments run on statistics: census counts allocate seats and money; unemployment, inflation, and GDP figures (see 5.4) steer policy. Insurance, a global industry worth several trillion dollars a year in premiums, prices risk using probability. Every approved medicine passes clinical trials. Opinion polls shape elections. Bad statistics also cause harm, from misleading drug marketing to wrongful convictions based on misused probability.
+**Effects on human life and society:** Governments run on statistics: census counts allocate seats and money, and unemployment, inflation, and GDP figures (see 5.4) steer policy. Insurance, with several trillion dollars a year in premiums, prices risk using probability. Every approved medicine passes clinical trials. Misused statistics also cause harm, from misleading drug marketing to wrongful convictions.
 
 **Major ideas, schools, or ideologies:**
 - **Frequentist statistics:** probability is the long-run frequency of an event. This is dominant in 20th-century science.
@@ -231,7 +226,6 @@ Scale today: roughly 9 million full-time-equivalent researchers worldwide, over 
 - Thomas Bayes (published 1763): the rule for updating beliefs on evidence.
 - Ronald Fisher, *Statistical Methods for Research Workers* (1925) and *The Design of Experiments* (1935): randomization and significance testing.
 - Doll and Hill (1950s): statistical proof of smoking's harm.
-- Bureau International des Poids et Mesures (founded 1875): keeper of the SI.
 
 **What is established vs. debated:**
 - Established: the mathematics of probability; that randomization and representative sampling reduce bias; that correlation alone does not prove causation.
@@ -264,23 +258,21 @@ Scale today: roughly 9 million full-time-equivalent researchers worldwide, over 
 - **Lysenkoism (USSR, ~1930s–1960s):** state-backed rejection of genetics damaged Soviet agriculture, and dissenting scientists were imprisoned or killed.
 - **Thalidomide (1957–61):** an inadequately tested sedative caused severe birth defects in roughly 10,000 children. This led to stricter drug-approval laws.
 - **The 1998 MMR-autism paper:** a fraudulent study linking a childhood vaccine to autism was retracted in 2010. It nonetheless fed lasting vaccine hesitancy and measles outbreaks.
-- **Piltdown Man (1912–1953):** a forged "human ancestor" fossil misled anthropologists for four decades.
 
-Pseudoscientific and unsupported practices remain widespread. Examples include astrology (believed by a sizable minority in many countries) and homeopathy (remedies diluted until typically no molecule of the original substance remains; large reviews find no effect beyond placebo).
+Unsupported practices remain widespread, such as astrology and homeopathy (remedies diluted until typically no molecule of the original substance remains; large reviews find no effect beyond placebo).
 
-**How it developed:** Awareness of error is ancient. Greek skeptics, Buddhist and Jain logicians, and Islamic hadith scholars all built methods for weighing reports and sources. Francis Bacon (1620) listed "idols of the mind," the sources of human error. Formal fraud detection, retraction, and research-integrity offices grew in the late 20th century. Since ~2011, the "open science" movement has pushed preregistration (stating a study's plan before collecting data), data sharing, and large replication projects.
+**How it developed:** Greek skeptics, Indian logicians, and Islamic hadith scholars all built methods for weighing reports and sources. Francis Bacon (1620) listed "idols of the mind," the sources of human error. Retractions and research-integrity offices grew in the late 20th century. Since ~2011, the "open science" movement has pushed preregistration (stating a study's plan before collecting data), data sharing, and replication projects.
 
-**Effects on human life and society:** False beliefs about health cost lives. Vaccine refusal contributed to measles resurgence in the 2010s, and misinformation complicated the COVID-19 response [Refining: the size of the effect is debated]. Conspiracy beliefs are associated with lower trust in institutions and, in some cases, with political violence. Wrongful criminal convictions are often traced to flawed forensic science or eyewitness error. In the US, DNA evidence has exonerated several hundred people since 1989.
+**Effects on human life and society:** Vaccine refusal contributed to measles resurgence in the 2010s, and misinformation complicated the COVID-19 response [Refining: size of effect debated]. Conspiracy beliefs are associated with lower trust in institutions and sometimes with political violence. In the US, DNA evidence has exonerated several hundred wrongly convicted people since 1989, many convicted on flawed forensics or eyewitness error.
 
 **Major ideas, schools, or ideologies:**
 - **Deficit model:** people err mainly from lack of information, so education fixes it. Evidence suggests this is only partly true.
 - **Identity-protective cognition** (Dan Kahan and others): people process evidence to protect their group identity [Refining].
 - **Bounded rationality** (Herbert Simon): errors come from limited time and information, not stupidity.
-- **Postmodern and relativist critiques:** all knowledge claims reflect power. This was influential in some humanities fields. Critics argue it undermines the ability to correct real errors [Contested].
+- **Relativist critiques:** all knowledge claims reflect power. Critics reply that this undermines correcting real errors [Contested].
 
 **Key works and figures:**
 - Francis Bacon, *Novum Organum* (1620): the "idols" of human error.
-- Charles Mackay, *Extraordinary Popular Delusions and the Madness of Crowds* (1841): an early popular catalog of mass errors (not always accurate itself).
 - John Ioannidis, "Why Most Published Research Findings Are False" (2005): a statistical argument that sparked reform.
 - Open Science Collaboration (2015): the large psychology replication project.
 - Daniel Kahneman, *Thinking, Fast and Slow* (2011): popular account of cognitive biases (some studies it cites later failed to replicate, as the author acknowledged).

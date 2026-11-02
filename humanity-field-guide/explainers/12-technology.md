@@ -230,7 +230,7 @@ Four materials underpin modern physical life (Vaclav Smil's "four pillars"):
 
 Making cement and steel releases roughly **7–8%** of human CO2 emissions each, mainly from coal and from chemical reactions. Only about **10% of plastic** ever made has been recycled. Most is buried, burned, or lost into the environment.
 
-Modern factories are highly automated. About **4 million industrial robots** are in use, over half of them in China, Japan, and South Korea. Advanced chips are the most demanding product humans make. A single chip factory can cost US$20 billion or more. The most advanced chips are made almost entirely in **Taiwan** (mainly by the company TSMC), using machines from a single Dutch firm (ASML). This concentration is a major strategic concern for governments.
+About **4 million industrial robots** work in factories, over half in China, Japan, and South Korea. Advanced chips are the most demanding product humans make: one chip factory can cost US$20 billion or more. The most advanced chips are made almost entirely in **Taiwan** (mainly by TSMC), using machines from one Dutch firm (ASML), a concentration governments treat as a strategic risk.
 
 **How it developed:**
 - **~3300 BCE:** bronze (copper plus tin). **~1200 BCE:** iron working spreads.
@@ -465,42 +465,39 @@ Shipping is extremely cheap per unit. Moving a container across the Pacific adds
 
 **What an alien needs to know first:**
 - A **military** is an organized armed force controlled by a state (see 6.1, 6.6). Non-state armed groups also exist.
-- **Firearms** use a chemical explosion (originally **gunpowder**, a mix of saltpeter, charcoal, and sulfur) to propel a projectile.
-- A **nuclear weapon** releases energy by splitting heavy atoms (**fission**) or by fusing light atoms (**fusion**, in "thermonuclear" or hydrogen bombs). One modern warhead can release energy equal to hundreds of thousands of tonnes of conventional explosive.
-- **Deterrence** is preventing an attack by threatening unacceptable retaliation.
-- A **drone** is an aircraft (or boat or vehicle) without a human on board, controlled remotely or by software. A **cyberweapon** is software designed to damage or disrupt computer systems.
+- **Firearms** use a chemical explosion (originally **gunpowder**: saltpeter, charcoal, and sulfur) to propel a projectile.
+- A **nuclear weapon** releases energy by splitting heavy atoms (**fission**) or fusing light ones (**fusion**, in "hydrogen bombs"). One modern warhead can equal hundreds of thousands of tonnes of conventional explosive.
+- **Deterrence** is preventing attack by threatening unacceptable retaliation.
+- A **drone** is a vehicle with no human aboard, steered remotely or by software. A **cyberweapon** is software built to damage or disrupt computer systems.
 
-**How it works:** World military spending was about **US$2.7 trillion in 2024**, roughly 2.5% of world GDP. The United States accounts for about 37% of that, China for an estimated 12%, and Russia for about 5% [Refining; Chinese and Russian figures are estimates].
+**How it works:** World military spending was about **US$2.7 trillion in 2024**, roughly 2.5% of world GDP. The United States accounts for about 37%, China an estimated 12%, and Russia about 5% [Refining; Chinese and Russian figures are estimates].
 
 | Category | Scale (mid-2020s, approximate) |
 |---|---|
 | Nuclear warheads | ~12,000 held by 9 states; ~90% belong to the US and Russia |
 | Firearms | Over 1 billion worldwide, ~85% held by civilians |
 | Active-duty military personnel | ~20–30 million worldwide |
-| International arms trade | Tens of billions of US dollars a year; the US is the largest exporter |
+| International arms trade | Over US$100 billion a year (estimated); the US is the largest exporter |
 
-In most wars, the deadliest weapons are not the most advanced. **Small arms** (rifles, pistols, machine guns), **artillery**, and **explosives** cause most deaths. Since 2022, the war between Russia and Ukraine has seen both sides use **millions of cheap drones a year**, changing battlefield tactics.
+The deadliest weapons in most wars are not the most advanced: **small arms**, **artillery**, and **explosives** cause most deaths. Since 2022, Russia and Ukraine have each used **millions of cheap drones a year**, changing battlefield tactics.
 
 **How it developed:**
-- **Prehistory:** spears; bows and arrows by at least ~60,000 years ago [Refining]. Evidence of organized group violence appears in some sites from ~10,000+ years ago.
-- **~1700 BCE onward:** bronze and iron weapons, horse-drawn chariots, then cavalry.
-- **9th century CE:** gunpowder invented in China; cannons spread across Eurasia by the 1300s–1400s.
-- **1500s–1800s:** firearms and sailing warships help European states conquer large parts of the world (see 4.5).
-- **1860s–1910s:** industrial weapons: rifled guns, machine guns (Maxim gun, 1884), steel warships. World War I (1914–18) brings tanks, aircraft, submarines, and poison gas; ~15–20 million die.
-- **1939–1945:** World War II, the deadliest war in human history (~70–85 million deaths), with radar, jet aircraft, rockets, and strategic bombing of cities.
-- **August 1945:** the United States drops atomic bombs on **Hiroshima and Nagasaki**, killing roughly 110,000–210,000 people by the end of 1945. These remain the only nuclear weapons used in war.
-- **1952–1960s:** hydrogen bombs; intercontinental ballistic missiles (ICBMs) able to strike across the planet in about 30 minutes. Global nuclear stockpiles peak at ~70,000 warheads around 1986.
-- **1990s–2020s:** precision-guided weapons, satellite navigation, armed drones, and cyberattacks (e.g., the Stuxnet program against Iran's nuclear facilities, discovered 2010). AI is being added to targeting and weapons systems.
+- **Prehistory:** spears; bows and arrows by at least ~60,000 years ago [Refining].
+- **~3000–1000 BCE:** bronze, then iron weapons; horse-drawn chariots, then cavalry.
+- **9th century CE:** gunpowder invented in China; cannons spread across Eurasia by the 1300s–1400s. Firearms and armed sailing ships later help European states conquer much of the world (4.5).
+- **1860s–1918:** industrial weapons: machine guns (Maxim gun, 1884), steel warships. World War I (1914–18) brings tanks, aircraft, submarines, and poison gas; ~15–20 million die.
+- **1939–1945:** World War II, the deadliest war in human history (~70–85 million deaths): radar, jets, rockets, mass bombing of cities.
+- **August 1945:** US atomic bombs on **Hiroshima and Nagasaki** kill roughly 110,000–210,000 people by the end of 1945, the only nuclear weapons used in war.
+- **1952–1960s:** hydrogen bombs; intercontinental ballistic missiles that cross the planet in ~30 minutes. Stockpiles peak at ~70,000 warheads around 1986.
+- **1990s–2020s:** precision-guided weapons, armed drones, cyberattacks (e.g., Stuxnet, which sabotaged Iranian nuclear equipment, discovered 2010), and AI-assisted targeting.
 
-**Effects on human life and society:** Weapons technology shaped which states and empires won and lost (Domain 4). Military research produced or sped up many civilian technologies: jet engines, radar, nuclear power, computers, satellite navigation (GPS), and the internet. Nuclear weapons made all-out war between major powers potentially suicidal for all sides.
-
-The share of humans who die violently is debated. Some researchers argue it has fallen greatly over centuries; others dispute the data and method [Contested; see 6.6].
+**Effects on human life and society:** Weapons shaped which states and empires won and lost (Domain 4). Military research produced or sped up jet engines, radar, nuclear power, computers, GPS satellite navigation, and the internet. Nuclear weapons made all-out war between major powers potentially suicidal for all sides. Whether the share of humans dying violently has fallen over centuries is [Contested] (6.6).
 
 **Major ideas, schools, or ideologies:**
-- **Nuclear deterrence:** the theory that nuclear weapons have prevented war between great powers since 1945 by making it too costly ("mutually assured destruction"). Supporters cite the absence of great-power war since 1945. Critics note several near-misses, such as the Cuban Missile Crisis (1962), and argue the record reflects partly luck [Contested].
-- **Arms control:** treaties limiting weapons, such as the Biological Weapons Convention (1972), the Chemical Weapons Convention (1993), and the Nuclear Non-Proliferation Treaty (1968). Some have been effective; several US–Russia nuclear treaties have lapsed or been suspended.
-- **Autonomous weapons:** whether weapons that select and attack targets without human decisions should be banned [Contested; Belief/Value]. No binding international ban existed as of the mid-2020s.
-- **Just war theory** and pacifism: ethical frameworks for when, if ever, war and weapons are justified [Belief/Value; see 11.3].
+- **Nuclear deterrence:** the theory that nuclear weapons have prevented great-power war since 1945 by making it too costly ("mutually assured destruction"). Critics point to near-misses such as the Cuban Missile Crisis (1962) and argue luck played a part [Contested].
+- **Arms control:** treaties such as the Nuclear Non-Proliferation Treaty (1968), Biological Weapons Convention (1972), and Chemical Weapons Convention (1993). Several US–Russia nuclear treaties have lapsed or been suspended.
+- **Autonomous weapons:** whether weapons that select and attack targets without a human decision should be banned [Contested; Belief/Value]. No binding ban existed in the mid-2020s.
+- **Just war theory and pacifism:** ethical views on when, if ever, war is justified [Belief/Value; see 11.3].
 
 **Key works and figures:**
 - Carl von Clausewitz, *On War* (1832): war as the continuation of politics by other means.

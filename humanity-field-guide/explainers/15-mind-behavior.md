@@ -204,17 +204,15 @@ In total, about **1 in 8 humans** (~970 million) were living with a mental disor
 
 **How it developed:** Many societies explained mental illness as spirit possession or moral failing, and some still do. Large asylums spread in Europe and North America in the 1800s. From the 1950s–80s many countries closed them (**deinstitutionalization**), helped by new drugs, though community care was often underfunded. The DSM was first published in 1952. Homosexuality was listed as a disorder until 1973 (DSM) and 1990 (ICD), showing that diagnoses reflect social values as well as science. Freud's psychoanalysis dominated US psychiatry until the 1970s. Its core theory is largely unsupported, and evidence-based therapies have mostly replaced it.
 
-**Effects on human life and society:** Mental disorders are a leading cause of disability worldwide. The WHO estimates that depression and anxiety cost the world economy about US$1 trillion a year in lost productivity. The **treatment gap** is huge: in low- and middle-income countries, most people with depression receive no treatment. People with serious mental illness die roughly 10–20 years earlier on average, mostly from physical illness. Whether youth anxiety and depression rose sharply from ~2012, and whether smartphones and social media are a major cause, is actively debated [Contested].
+**Effects on human life and society:** Mental disorders are a leading cause of disability worldwide. The WHO estimates that depression and anxiety cost the world economy about US$1 trillion a year in lost productivity. In low- and middle-income countries, most people with depression receive no treatment (the **treatment gap**). People with serious mental illness die roughly 10–20 years earlier on average. Whether youth anxiety and depression rose sharply from ~2012, and whether smartphones and social media are a major cause, is actively debated [Contested].
 
 **Major ideas, schools, or ideologies:**
 - **Biomedical model:** mental illness as brain disease. Useful for severe disorders, but no single biological cause has been found for most.
 - **Biopsychosocial model:** biology, psychology, and social conditions all contribute. The mainstream position.
-- **Critical and "anti-psychiatry" views** (from the 1960s): diagnoses medicalize normal distress or social problems. Over-diagnosis concerns are taken seriously. The claim that serious mental illness is not real is rejected by most researchers.
-- **Dimensional diagnosis:** disorders as extremes on continuous spectra, not separate boxes [Refining].
+- **Critical and "anti-psychiatry" views** (from the 1960s): diagnoses medicalize normal distress. Over-diagnosis concerns are taken seriously, but most researchers reject the claim that serious mental illness is not real.
 
 **Key works and figures:**
 - Emil Kraepelin (1890s): first systematic classification of psychoses.
-- Sigmund Freud: founded psychoanalysis (historically influential, largely unsupported).
 - Aaron Beck (1960s): developed cognitive therapy, the basis of CBT.
 - The DSM (1952–2022) and ICD-11 (2022): the classification systems.
 - WHO, *World Mental Health Report* (2022): global prevalence and treatment-gap figures.
@@ -224,7 +222,7 @@ In total, about **1 in 8 humans** (~970 million) were living with a mental disor
 - Debated: exact causes of most disorders; how large antidepressant benefits are; whether youth mental health has declined and why.
 - Matters of belief or value: where to draw the line between distress and disorder; involuntary treatment.
 
-**Open questions:** What are the biological mechanisms of depression and schizophrenia? Can reliable biological tests be developed? Why do treatments work for some people and not others?
+**Open questions:** What are the biological mechanisms of depression and schizophrenia? Why do treatments work for some people and not others?
 
 **See also:** 1.4 The Brain and Nervous System; 1.6 Health, Disease, and Medicine; 12.7 Public Health and Medical Technology; 13.4 The Internet and Social Media; 15.2 Emotion and Motivation.
 
@@ -237,34 +235,32 @@ In total, about **1 in 8 humans** (~970 million) were living with a mental disor
 **What an alien needs to know first:** **Altruism** is helping others at a cost to oneself. **Reciprocity** is returning help (or harm). An **in-group** is a group a person identifies with. An **out-group** is a group they do not. **Conformity** is changing behavior to match a group. **Obedience** is following orders from an authority. **Prejudice** is a negative attitude toward people because of their group. A **social dilemma** is a situation in which what is best for each individual differs from what is best for the group.
 
 **How it works:**
-- **Cooperation beyond kin.** Evolution favors helping relatives (who share genes; "kin selection," 1964) and helping those who help back ("reciprocal altruism," 1971). Humans go much further, cooperating with strangers in groups of millions, supported by reputation, norms, punishment of cheaters, and institutions such as law and money. In economic games played in 15 small-scale societies (2001), what counted as a "fair" offer varied with local customs, but no society behaved as purely self-interested.
-- **Group identity.** Arbitrary groupings (e.g., assigning people by a coin toss) are enough to make people favor their own group (the **minimal group** finding, 1970s). Humans quickly sort into "us" and "them."
-- **Conformity.** In Solomon Asch's 1951 line-judging experiments, participants gave obviously wrong answers to match a group on about a third of trials, and about three-quarters conformed at least once. The effect is real but varies by culture and era.
-- **Obedience.** In Stanley Milgram's 1963 study, about 65% of participants continued to what they believed was a dangerous 450-volt shock when instructed. Partial replications (e.g., 2009) found similar willingness up to lower levels. Later archive research found the procedures were less standardized than reported and some participants doubted the shocks were real [Refining].
-- **The Stanford Prison Experiment** (1971), in which students assigned as "guards" reportedly became abusive, is widely cited but is **not reliable evidence**. It had no control group, about two dozen participants, and guards were coached toward harshness by the researchers. Its conclusions should not be treated as established.
-- **Reducing prejudice.** Positive contact between groups under supportive conditions reduces prejudice. A 2006 meta-analysis of over 500 studies supports this [Established; size and durability Refining].
-- **Bystanders.** People in groups are sometimes less likely to help (the "bystander effect"). The famous 1964 New York case behind the idea was misreported. A 2019 study of real CCTV footage from three countries found someone intervened in about 90% of public conflicts.
+- **Cooperation beyond kin.** Evolution favors helping relatives, who share genes ("kin selection," 1964), and helping those who help back ("reciprocal altruism," 1971). Humans go much further, cooperating with strangers in groups of millions, supported by reputation, norms, punishment of cheaters, and institutions such as law and money. In economic games played in 15 small-scale societies (2001), what counted as a "fair" offer varied with local custom, but no society behaved as purely self-interested.
+- **Group identity.** Even arbitrary groupings (e.g., by coin toss) make people favor their own group (the **minimal group** finding, 1970s).
+- **Conformity.** In Solomon Asch's 1951 experiments, participants gave obviously wrong answers to match a group on about a third of trials, and about three-quarters conformed at least once. The effect varies by culture and era.
+- **Obedience.** In Stanley Milgram's 1963 study, about 65% of participants continued to what they believed was a dangerous 450-volt shock when instructed. A partial 2009 replication found similar results. Archive research later found the procedures less standardized than reported [Refining].
+- **The Stanford Prison Experiment** (1971), in which students assigned as "guards" reportedly became abusive, is widely cited but is **not reliable evidence**. It had about two dozen participants and no control group, and the researchers coached guards toward harshness.
+- **Reducing prejudice.** Positive contact between groups under supportive conditions reduces prejudice, per a 2006 meta-analysis of over 500 studies [size and durability Refining].
+- **Bystanders.** The "bystander effect" (people in groups help less) rests partly on a misreported 1964 case. A 2019 study of real CCTV footage from three countries found someone intervened in about 90% of public conflicts.
 
-**From individuals to society:** Small individual preferences can produce large collective outcomes. Thomas Schelling's 1971 model showed that even mild preferences for similar neighbors can lead to strong residential segregation. The **tragedy of the commons** (overuse of shared resources such as fisheries) arises when each user gains from taking more. Elinor Ostrom documented many communities that manage shared resources sustainably through local rules (Nobel 2009). Panics, fads, market bubbles, and the spread of norms follow similar feedback dynamics (see 5.8, 13.4).
+**From individuals to society:** Thomas Schelling's 1971 model showed that mild preferences for similar neighbors can produce strong residential segregation. The **tragedy of the commons** (overuse of shared resources such as fisheries) arises when each user gains from taking more, though Elinor Ostrom documented many communities that avoid it through local rules (Nobel 2009). Panics, fads, and bubbles follow similar feedback dynamics (see 5.8, 13.4).
 
-**How it developed:** Social psychology grew rapidly after World War II, driven partly by efforts to understand the Holocaust and fascism (see 9.7). Game theory (from the 1940s) formalized cooperation problems. Since the 1990s, evolutionary and cross-cultural research broadened the field beyond American students.
+**How it developed:** Social psychology grew rapidly after World War II, driven partly by efforts to understand the Holocaust (see 9.7). Since the 1990s, evolutionary and cross-cultural research has broadened it beyond American students.
 
-**Effects on human life and society:** These dynamics underlie war and genocide (dehumanizing out-groups; obedience in bureaucracies), political polarization, ethnic conflict, and also charity, volunteering, and large-scale institutions. Research on contact informed school desegregation and peacebuilding programs. Findings on obedience and conformity shaped research-ethics rules adopted from the 1970s.
+**Effects on human life and society:** These dynamics underlie war and genocide (dehumanizing out-groups, obedience in bureaucracies), polarization, and ethnic conflict, and also charity and large-scale institutions. Contact research informed school desegregation and peacebuilding.
 
 **Major ideas, schools, or ideologies:**
-- **Humans as fundamentally selfish versus fundamentally cooperative:** evidence shows both capacities. Which dominates depends heavily on institutions and context [Contested in emphasis].
-- **Long-run decline of violence** (Pinker, 2011): rates of violent death fell over centuries [Contested in parts, especially regarding war].
-- **Implicit bias tests** (e.g., the Implicit Association Test, 1998) measure fast associations, but they predict individual behavior weakly and are unreliable for individuals [Contested]. **Stereotype threat** (reminders of a stereotype lower test performance) has had mixed replication results [Contested].
-- **Dunbar's number** (~150 stable relationships): popular, but the estimate's basis is disputed [Contested].
+- **Selfish versus cooperative human nature:** evidence shows both capacities. Which dominates depends heavily on institutions and context [Contested in emphasis].
+- **Long-run decline of violence** (Pinker, 2011): violent death rates fell over centuries [Contested in parts, especially regarding war].
+- **Implicit bias tests** (e.g., the Implicit Association Test, 1998) predict individual behavior weakly [Contested]. **Stereotype threat** (reminders of a stereotype lowering test performance) has replicated inconsistently [Contested].
 
 **Key works and figures:**
 - Solomon Asch (1951): conformity experiments.
 - Stanley Milgram, "Behavioral Study of Obedience" (1963).
-- Henri Tajfel (1970s): social identity theory and minimal groups.
+- Henri Tajfel (1970s): social identity theory.
 - Gordon Allport, *The Nature of Prejudice* (1954): the contact hypothesis.
 - Robert Axelrod, *The Evolution of Cooperation* (1984): how "tit-for-tat" cooperation can win.
-- Elinor Ostrom, *Governing the Commons* (1990).
-- Thomas Schelling, *Micromotives and Macrobehavior* (1978).
+- Elinor Ostrom, *Governing the Commons* (1990): communities managing shared resources.
 
 **What is established vs. debated:**
 - Established: humans readily form in-groups, conform, and obey authority to a significant degree; cooperation is sustained by reciprocity, reputation, and punishment; positive intergroup contact reduces prejudice.

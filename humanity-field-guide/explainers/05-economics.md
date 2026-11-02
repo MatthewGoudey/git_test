@@ -12,7 +12,7 @@ Economics is the study of how humans produce, divide, and use things that are in
 - **Goods and services.** A *good* is a physical thing humans want (bread, a phone). A *service* is useful work done for someone (surgery, teaching).
 - **Scarcity.** Land, materials, energy, and time are limited; human wants, in practice, are not.
 - **Opportunity cost.** Every choice gives up the next-best alternative. A field planted with wheat cannot also grow rice.
-- **Trade (exchange).** Two parties voluntarily swap things. Each gives up something it values less for something it values more, so **both can end up better off**. This is the central fact of economic life: trade is not just dividing a fixed amount; it can create value for both sides.
+- **Trade (exchange).** Two parties voluntarily swap things. Each gives up something it values less for something it values more, so **both can end up better off**. Trade does not just divide a fixed amount; it creates value. This is the central fact of economic life.
 - **Price.** How much of one thing (usually money; see 5.2) must be given up to get another.
 - **Market.** Any setting where buyers and sellers meet: a village square, a stock exchange, a website.
 
@@ -25,7 +25,7 @@ Economics is the study of how humans produce, divide, and use things that are in
 - **Supply:** at higher prices, sellers generally offer more.
 - The price tends toward the level where the amount wanted equals the amount offered (the "equilibrium").
 
-*Prices as signals.* When frost destroys part of a coffee harvest, the price of coffee rises. With no central instruction, buyers use less and growers elsewhere plant more. The price carries compressed information about scarcity to millions of people who never learn the cause. This is the main reason most economists think markets coordinate complex economies better than central planners do [Established as a description of how prices work; how far the conclusion extends is Contested].
+*Prices as signals.* When frost destroys part of a coffee harvest, the price of coffee rises. With no central instruction, buyers use less and growers elsewhere plant more. The price carries information about scarcity to millions of people who never learn the cause. This is the main reason most economists think markets coordinate complex economies better than central planners [how far this extends is Contested].
 
 *Competition and monopoly.* Competing sellers are pushed to cut prices and improve quality. A dominant seller can charge more and produce less.
 
@@ -62,7 +62,7 @@ Economics is the study of how humans produce, divide, and use things that are in
 
 **What is established vs. debated:**
 - Established: voluntary trade usually benefits both parties; prices respond to scarcity; externalities and monopolies cause markets to misfire.
-- Debated: how often government intervention fixes market failures versus making things worse [Contested]; how to regulate digital platforms where one firm tends to dominate [Contested].
+- Debated: how often government intervention fixes market failures rather than making things worse [Contested].
 - Matters of belief or value: whether market outcomes are *fair*; whether some things (organs, votes, sex, water) should ever be sold [Belief/Value].
 
 **Open questions:** How to price carbon in practice; whether data-driven platforms need new competition rules; how AI will change market structure.
@@ -76,19 +76,19 @@ Economics is the study of how humans produce, divide, and use things that are in
 **In one sentence:** Money is a token that a whole society agrees to accept in exchange for almost anything, and banks and financial markets are the systems that store it, lend it, and move it between people and across time.
 
 **What an alien needs to know first:**
-- **Barter's problem.** Without money, a fisher who wants shoes must find a shoemaker who wants fish at that moment. Money removes this need for a "double coincidence of wants."
+- **Barter's problem.** Without money, a fisher who wants shoes must find a shoemaker who wants fish. Money removes that need.
 - **Money's three jobs:** a *medium of exchange* (accepted in payment), a *unit of account* (prices are written in it), and a *store of value* (it can be saved).
-- **Why money is valuable.** Modern money has almost no value as an object. A note or a number in a bank account is valuable because everyone expects everyone else to accept it, because the government declares it legal for paying debts, and because taxes must be paid in it. It is a clear example of a shared agreement with real effects (see the Preface). Such money is called **fiat money** ("by decree").
+- **Why money is valuable.** Modern money is nearly worthless as an object. A note or a bank balance has value because everyone expects others to accept it, the government declares it legal for paying debts, and taxes must be paid in it: a shared agreement with real effects (see the Preface). This is **fiat money** ("by decree").
 - **Currency.** Most states issue their own money (about 150–180 currencies exist). The US dollar dominates: it makes up roughly 55–60% of the money that governments hold in reserve and is on one side of nearly 90% of all currency trades [Established, figures approximate].
 - **Debt, credit, and interest.** A *debt* is a promise to pay later. *Credit* is the ability to borrow. *Interest* is the price of borrowing, usually stated as a percentage of the amount per year.
 
 **How it works:**
 
-*Most money is not physical.* In rich economies, notes and coins are only around a tenth of the money supply. The rest is bank deposits: entries in banks' computer records.
+*Most money is not physical.* In rich economies, notes and coins are around a tenth of the money supply; the rest is bank deposits, entries in banks' computer records.
 
-*Banks create money when they lend.* When a bank grants a loan, it adds the amount to the borrower's account. That new deposit is new money. Most money in modern economies is created this way. Banks keep only a fraction of deposits as cash-like reserves, so if too many depositors ask for their money at once (a **bank run**), a healthy bank can fail. Governments respond with **deposit insurance**, capital rules (international standards known as the Basel Accords), and inspections.
+*Banks create money when they lend.* When a bank grants a loan, it adds the amount to the borrower's account, and that new deposit is new money; most money is created this way. Banks keep only a fraction of deposits as reserves, so if too many depositors withdraw at once (a **bank run**), even a healthy bank can fail. Governments respond with **deposit insurance**, capital rules (the international Basel Accords), and inspections.
 
-*Central banks.* A **central bank** is a government-linked institution that issues the currency, acts as the bank for other banks, lends to them in a panic ("lender of last resort"), and sets short-term interest rates. Most aim to keep **inflation**, the general rise in prices, near 2% a year. Raising interest rates makes borrowing more expensive, slowing spending and inflation; cutting rates does the reverse. Important examples: the US Federal Reserve (1913), the European Central Bank (1998), the People's Bank of China, the Bank of Japan.
+*Central banks.* A **central bank** is a government-linked institution that issues the currency, acts as the bank for other banks, lends to them in a panic ("lender of last resort"), and sets short-term interest rates. Most aim to keep **inflation**, the general rise in prices, near 2% a year. Raising interest rates makes borrowing costlier, slowing spending and inflation; cutting rates does the reverse. Examples: the US Federal Reserve (1913), the European Central Bank (1998).
 
 *Financial markets* channel savings into investment.
 
@@ -100,7 +100,7 @@ Economics is the study of how humans produce, divide, and use things that are in
 | Derivative | A contract whose value depends on another asset (e.g., an option to buy oil at a set price) | Very large on paper; hard to summarize |
 | Cryptocurrency | Digital tokens recorded on a shared public ledger ("blockchain") | Swung between ~$1 trillion and ~$4 trillion |
 
-*Cryptocurrencies.* Bitcoin (launched 2009, designed by the pseudonymous "Satoshi Nakamoto") was the first. It runs without a central bank. Its uses are mainly speculation, with some use for cross-border payments, avoiding capital controls, and crime [Refining]. "Stablecoins," tokens tied to the dollar, grew to a few hundred billion dollars by the mid-2020s. Several central banks are testing their own digital currencies (China's e-CNY is the largest pilot).
+*Cryptocurrencies.* Bitcoin (2009, by the pseudonymous "Satoshi Nakamoto") was the first; it runs without a central bank. Its main use is speculation, with some use for cross-border payments, evading capital controls, and crime [Refining]. Dollar-linked "stablecoins" reached a few hundred billion dollars by the mid-2020s. Several central banks are testing digital currencies of their own.
 
 **How it developed:**
 - **~3000 BCE:** Mesopotamian temples and palaces recorded debts on clay tablets, measured in silver and barley. Credit records likely came before coins [Refining].
@@ -110,16 +110,16 @@ Economics is the study of how humans produce, divide, and use things that are in
 - **1300s–1600s:** Italian, then Dutch and English banking; double-entry bookkeeping. The Bank of England was founded in 1694.
 - **~1870s–1914:** the **gold standard**: currencies exchangeable for fixed amounts of gold. Largely abandoned in the 1930s.
 - **1944–1971:** the **Bretton Woods** system tied currencies to the dollar and the dollar to gold. The US ended gold convertibility in 1971; since then major currencies have been fiat and "float" against each other.
-- **1990s onward:** most central banks become legally independent of politicians and adopt inflation targets (New Zealand first, 1990). Mobile money spreads (Kenya's M-Pesa, 2007).
+- **1990s onward:** most central banks become independent of politicians and adopt inflation targets (New Zealand first, 1990). Mobile money spreads (Kenya's M-Pesa, 2007).
 
-**Effects on human life and society:** Credit lets humans buy homes (with loans called *mortgages*), start businesses, and smooth spending across life. About 1.3–1.4 billion adults have no bank or mobile-money account, mostly in poorer countries [Established, approximate]. Inflation surged in 2021–23 after the COVID-19 pandemic and the Russia–Ukraine war (peaks near 9% in the US and over 10% in the eurozone and UK), reducing real wages for millions. Financial crises can wipe out years of growth (see 5.8).
+**Effects on human life and society:** Credit lets humans buy homes (with loans called *mortgages*), start businesses, and smooth spending across life. About 1.3–1.4 billion adults have no bank or mobile-money account [approximate]. Inflation surged in 2021–23 after the COVID-19 pandemic and Russia's invasion of Ukraine (peaks near 9% in the US and over 10% in the eurozone and UK), cutting real wages for millions. Financial crises can erase years of growth (see 5.8).
 
 **Major ideas, schools, or ideologies:**
-- **Mainstream (New Keynesian) view:** central banks should adjust interest rates to stabilize inflation and employment. Dominant in central banks since the 1990s.
-- **Monetarism** (Milton Friedman): inflation is "always and everywhere a monetary phenomenon," caused by too much money. Partly absorbed into the mainstream; strict money-growth rules were dropped in the 1980s when the link proved unstable.
-- **Austrian school and gold advocates:** central banks and fiat money cause booms, busts, and debasement; money should be tied to gold or left to private competition. A minority view among economists [Contested].
-- **Modern Monetary Theory (MMT):** a government that issues its own currency cannot run out of it; the real limit is inflation. Most economists consider it misleading in practice [Contested].
-- **Crypto advocates vs. skeptics:** supporters see a censorship-resistant alternative to state money; skeptics see a volatile speculative asset with few real uses [Contested].
+- **Mainstream (New Keynesian) view:** central banks should set interest rates to stabilize inflation and employment. Dominant since the 1990s.
+- **Monetarism** (Milton Friedman): inflation is "always and everywhere a monetary phenomenon." Partly absorbed into the mainstream; strict money-growth rules were dropped in the 1980s when the link proved unstable.
+- **Austrian school and gold advocates:** central banks and fiat money cause booms, busts, and debasement; money should be tied to gold or left to private competition. A minority view [Contested].
+- **Modern Monetary Theory (MMT):** a government issuing its own currency cannot run out of it; the real limit is inflation. Most economists consider it misleading in practice [Contested].
+- **Crypto advocates vs. skeptics:** a censorship-resistant alternative to state money, or a volatile speculative asset with few real uses [Contested].
 
 **Key works and figures:**
 - Walter Bagehot, *Lombard Street* (1873): the "lender of last resort" doctrine.
@@ -144,10 +144,10 @@ Economics is the study of how humans produce, divide, and use things that are in
 **In one sentence:** Most humans get what they need by selling their time and effort (labor) to organizations (firms) that combine it with tools and money (capital) to make things others will buy.
 
 **What an alien needs to know first:**
-- **Labor and wages.** *Labor* is human work used in production. A *wage* (or *salary*) is the money paid for it, usually per hour, month, or year. Human adults typically work 35–50 hours a week for several decades.
-- **Capital** has three meanings: *physical capital* (machines, buildings, roads), *financial capital* (money available to invest), and *human capital* (skills and knowledge). **Investment** means spending now to build capital that produces more later. Worldwide, roughly a quarter of yearly output goes into investment.
+- **Labor and wages.** *Labor* is human work used in production; a *wage* or *salary* is the money paid for it. Adults typically work 35–50 hours a week for several decades.
+- **Capital** has three meanings: *physical* (machines, buildings, roads), *financial* (money available to invest), and *human* (skills). **Investment** is spending now to build capital that produces more later; roughly a quarter of world output goes into it.
 - **Firm.** An organization that produces goods or services for sale. Its **profit** is revenue minus costs.
-- **Corporation.** A firm that is a separate *legal person* (see 7.4): it can own property, sign contracts, and be sued. Its owners, the **shareholders**, have **limited liability**: if it fails, they lose only what they invested. Shareholders elect a board, which hires managers.
+- **Corporation.** A firm that is a separate *legal person* (see 7.4) that can own property, sign contracts, and be sued. Its owners, the **shareholders**, have **limited liability**: if it fails, they lose only what they invested.
 - **Entrepreneur.** Someone who starts a new firm, bearing the risk that it fails.
 
 **How it works:**
@@ -160,32 +160,30 @@ Economics is the study of how humans produce, divide, and use things that are in
 | Industry (manufacturing, mining, construction) | ~23% | ~20–25% |
 | Services (trade, health, education, finance, etc.) | ~50% | ~70–80% |
 
-Only about half of workers worldwide are wage employees; the rest are self-employed, small farmers, or unpaid family workers. About 60% work in the **informal economy**, without contracts, taxes, or legal protections. Roughly 140–160 million children do work classed as child labor, and an estimated ~28 million people are in forced labor (2021) [Established, approximate].
+Only about half of workers are wage employees; the rest are self-employed, small farmers, or unpaid family workers. About 60% work in the **informal economy**, without contracts or legal protections. Roughly 140–160 million children do work classed as child labor, and an estimated ~28 million people are in forced labor (2021) [Established, approximate].
 
-*How wages are set.* In the standard model, a wage tends toward the value of what one more worker adds to output (*marginal productivity*). Wages are also shaped by bargaining power, laws, discrimination, and how many employers compete for workers. When one or a few employers dominate a local job market (**monopsony**), they can pay less than workers produce.
+*How wages are set.* In the standard model, a wage tends toward the value of what one more worker adds to output (*marginal productivity*). Bargaining power, laws, and discrimination also matter. Where one or a few employers dominate a local job market (**monopsony**), they can pay less than workers produce.
 
 *Unions* are organizations of workers that bargain collectively with employers over pay and conditions. Membership varies widely: roughly half or more of workers in Nordic countries, about 10% in the United States, and around 15% on average in rich countries, having declined since the 1970s.
 
-*Firms* range from one-person shops to corporations with over a million employees and stock-market values of several trillion dollars. Other forms include partnerships, **cooperatives** (owned by workers or customers), and **state-owned enterprises** (owned by governments; large in China, energy, and transport).
+*Firms* range from one-person shops to corporations with over a million employees and stock-market values of several trillion dollars. Other forms include **cooperatives** (owned by workers or customers) and **state-owned enterprises** (large in China, energy, and transport). Ronald Coase (1937) explained why firms exist at all: using markets has costs (searching, negotiating, enforcing contracts), and firms reduce them for many tasks.
 
-*Why firms exist.* Ronald Coase (1937) asked why, if markets coordinate so well, so much activity happens inside organizations run by command. His answer: using markets has costs (searching, negotiating, enforcing contracts), and firms reduce those costs for many tasks.
-
-**How it developed:** For most of history, most humans were farmers working family land, or were bound laborers: enslaved people, serfs, or indentured servants. Slavery existed in most ancient civilizations; the Atlantic slave trade forcibly moved about 12.5 million Africans between the 1500s and 1800s (see 4.5). The **joint-stock company**, selling shares to many investors, grew in the 1600s; the Dutch East India Company (1602) was among the first with publicly traded shares. The Industrial Revolution (from ~1760, Britain) moved workers into factories, initially with 60–80-hour weeks and child labor. Unions, labor laws, and the International Labour Organization (1919) followed. Hours in rich countries fell from ~3,000 per year in the late 1800s to roughly 1,400–1,800 today. Since the 1970s, manufacturing jobs in rich countries have shifted to services and to Asia.
+**How it developed:** For most of history, most humans farmed family land or were bound laborers: enslaved people, serfs, indentured servants. The Atlantic slave trade forcibly moved about 12.5 million Africans between the 1500s and 1800s (see 4.5). The **joint-stock company**, selling shares to many investors, grew in the 1600s (the Dutch East India Company, 1602). The Industrial Revolution (from ~1760, Britain) moved workers into factories with 60–80-hour weeks and child labor; unions, labor laws, and the International Labour Organization (1919) followed. Yearly hours in rich countries fell from ~3,000 in the late 1800s to roughly 1,400–1,800 today. Since the 1970s, rich-country manufacturing jobs have shifted to services and to Asia.
 
 **Effects on human life and society:** Work determines most humans' income, status, daily schedule, and often identity. Mechanization cut the US farm workforce from most workers in the early 1800s to under 2% today, while total employment grew. Women's participation in paid work rose sharply in the 20th century but remains lower than men's worldwide (roughly 50% vs. 70% of working-age adults).
 
 **Major ideas, schools, or ideologies:**
-- **Marxist view:** workers produce value but owners of capital keep part of it as profit ("surplus value"), so capitalism is inherently exploitative and conflictual (see 9.4).
-- **Neoclassical view:** in competitive markets, workers and capital are each paid roughly what they contribute; profit rewards risk and organization.
-- **Institutional view:** pay depends heavily on laws, norms, and bargaining power, not only productivity.
+- **Marxist view:** workers produce value but owners keep part of it as profit ("surplus value"), so capitalism is inherently exploitative (see 9.4).
+- **Neoclassical view:** in competitive markets, labor and capital are each paid roughly what they contribute; profit rewards risk.
+- **Institutional view:** pay depends heavily on laws, norms, and bargaining power.
 - **Shareholder vs. stakeholder firms:** should corporations serve only owners' profits (Friedman, 1970) or also workers, customers, and communities? [Belief/Value, with Contested empirical claims]
 
 *Contested policy: the minimum wage.* About 90% of countries set a legal minimum wage.
 - *Case against high minimums:* the basic supply-and-demand model predicts that raising the price of labor above its market level reduces hiring, hurting the least-skilled workers most.
-- *Case for:* where employers have wage-setting power (monopsony), a minimum can raise pay without cutting jobs, and higher pay can reduce turnover.
+- *Case for:* where employers have wage-setting power (monopsony), a minimum can raise pay without cutting jobs.
 - *Evidence:* since Card and Krueger's 1994 study of fast-food jobs in New Jersey, hundreds of studies have found that moderate minimum wages (up to roughly half to 60% of a country's typical wage) have small or hard-to-detect effects on employment, while raising pay for low earners [Refining]. Some studies find reduced hours or hiring, especially for teenagers; the effects of very large increases are less known [Contested].
 
-*Contested: automation and AI.* Historically, technology destroyed specific jobs while total employment grew. Whether AI will follow that pattern, and how fast, is unknown. Estimates of jobs "at risk" range from under 15% to nearly half, depending on method [Contested].
+*Contested: automation and AI.* Historically, technology destroyed specific jobs while total employment grew. Whether AI will follow that pattern is unknown; estimates of jobs "at risk" range from under 15% to nearly half [Contested].
 
 **Key works and figures:**
 - Adam Smith (1776): the pin factory and the division of labor.
@@ -271,13 +269,13 @@ Only about half of workers worldwide are wage employees; the rest are self-emplo
 
 **What an alien needs to know first:**
 - **Income** is a flow: money received over a period (wages, profits, rent, interest, government payments).
-- **Wealth** is a stock: the value of everything a person owns (houses, land, savings, shares, businesses) minus their debts. Wealth is always far more unequal than income, because savings and inheritances accumulate across lifetimes and generations.
-- **Pre-tax vs. post-tax.** Taxes and government payments (see 5.6) narrow gaps, so inequality measured "after taxes and transfers" is lower.
+- **Wealth** is a stock: everything a person owns (houses, land, savings, shares) minus debts. It is far more unequal than income, because savings and inheritances accumulate across generations.
+- **Pre-tax vs. post-tax.** Taxes and government payments (5.6) narrow gaps.
 - **The Gini coefficient** summarizes inequality as a number from 0 (everyone has the same) to 1 (one person has everything). Another common measure is the share of income or wealth held by the top 1% or 10%.
 
 **How it works:**
 
-*Between countries.* Where a human is born is the single biggest predictor of their income. Average income per person in the richest countries is more than 50 times that in the poorest. A worker doing the same job can earn many times more in one country than another; borders and migration restrictions keep these gaps from closing.
+*Between countries.* Where a human is born is the single biggest predictor of their income. Average income in the richest countries is over 50 times that in the poorest, and the same job can pay many times more in one country than another; migration restrictions keep these gaps from closing.
 
 *Worldwide, between all individuals* (2020s estimates, approximate [Refining]):
 - The richest 10% of humans receive about half of all income and own about three-quarters of all wealth.
@@ -299,21 +297,21 @@ Only about half of workers worldwide are wage employees; the rest are self-emplo
 
 *Mobility.* Countries with higher inequality tend to have lower *social mobility*: children's incomes more closely track their parents' (the "Great Gatsby curve") [Refining as correlation; causation Contested].
 
-**How it developed:** Hunter-gatherer groups were relatively equal in material terms, though not in all respects [Refining]. Farming allowed stored surplus, land ownership, and inheritance, and with them large, durable hierarchies of kings, nobles, enslaved people, and peasants (see 4.2). Before industrialization, gaps *between* world regions were modest; gaps *within* societies were often extreme. Industrialization created the Great Divergence between countries (5.4). In rich countries, inequality fell sharply from ~1914 to the 1970s (wars, depression, high taxes, unions, welfare states), then rose in many from about 1980. In the US, the top 1%'s share of pre-tax income roughly doubled, from ~10% in the 1970s to ~20% [Refining; the size of the rise after taxes and transfers is Contested]. Rises also occurred in China, India, and Russia after their market reforms. Latin America saw inequality fall in the 2000s. Meanwhile, inequality **between all humans worldwide** has *fallen* since ~1990, because populous Asian countries grew fast (a global Gini of very roughly 0.7 falling toward 0.6) [Refining].
+**How it developed:** Hunter-gatherer groups were relatively equal in material terms [Refining]. Farming allowed stored surplus, land ownership, and inheritance, and with them durable hierarchies of kings, nobles, peasants, and enslaved people (see 4.2). Before industrialization, gaps *between* regions were modest; gaps *within* societies were often extreme. Industrialization created the Great Divergence between countries (5.4). In rich countries, inequality fell sharply from ~1914 to the 1970s (wars, depression, high taxes, unions, welfare states), then rose in many from about 1980. In the US, the top 1%'s share of pre-tax income roughly doubled, from ~10% in the 1970s to ~20% [Refining; the size of the rise after taxes and transfers is Contested]. Inequality also rose in China, India, and Russia after market reforms, but fell in Latin America in the 2000s. Meanwhile, inequality **among all humans worldwide** has *fallen* since ~1990 because populous Asian countries grew fast (a global Gini of very roughly 0.7 falling toward 0.6) [Refining].
 
-**Effects on human life and society:** In some countries, such as the US, the richest 1% live roughly 10–15 years longer than the poorest 1%; the gap is smaller elsewhere [Refining]. Inequality correlates with lower trust, worse health, and more crime across countries, but whether inequality itself *causes* these is disputed [Contested]. Concentrated wealth can translate into political influence through funding parties, lobbying, and media ownership [Refining].
+**Effects on human life and society:** In some countries, such as the US, the richest 1% live roughly 10–15 years longer than the poorest 1%; the gap is smaller elsewhere [Refining]. Inequality correlates with lower trust, worse health, and more crime across countries; whether it *causes* them is disputed [Contested]. Concentrated wealth can buy political influence through party funding, lobbying, and media ownership [Refining].
 
 **Major ideas, schools, or ideologies:** *Contested policy: what causes rising inequality?* Several explanations each have evidence; their relative importance is [Contested]:
-- **Technology:** computers and automation raised demand for highly educated workers faster than schools supplied them (Claudia Goldin and Lawrence Katz). Evidence: the pay premium for university graduates rose sharply in many rich countries after 1980.
-- **Globalization:** imports from low-wage countries reduced pay and jobs for less-educated workers in rich countries, while raising incomes in Asia (see 5.7).
-- **Institutions and policy:** union decline, lower top tax rates (the top US income tax rate was over 90% in the 1950s and is under 40% today), deregulation of finance, and lower minimum wages. Evidence: countries with similar technology and trade exposure saw very different trends.
-- **Capital vs. labor:** Thomas Piketty argues that when the return on wealth exceeds economic growth ("r > g"), wealth concentrates over time. Critics dispute his data and mechanism.
-- **Market power:** a few "superstar" firms capture large profits in winner-take-all markets.
+- **Technology:** computers raised demand for highly educated workers faster than schools supplied them (Claudia Goldin and Lawrence Katz). Evidence: the university pay premium rose sharply in many rich countries after 1980.
+- **Globalization:** low-wage imports reduced pay and jobs for less-educated rich-country workers while raising incomes in Asia (5.7).
+- **Institutions and policy:** union decline, lower top tax rates (the top US income tax rate was over 90% in the 1950s, under 40% today), financial deregulation. Evidence: countries with similar technology and trade saw very different trends.
+- **Capital vs. labor:** Thomas Piketty argues that when the return on wealth exceeds growth ("r > g"), wealth concentrates. Critics dispute his data and mechanism.
+- **Market power:** "superstar" firms capture large profits in winner-take-all markets.
 
 *Does inequality matter in itself?*
-- *View that it does:* large gaps harm health, mobility, social cohesion, and democracy, and are unfair [partly Belief/Value, partly Contested empirics].
-- *View that poverty, not inequality, is the problem:* if the poor are getting richer, gaps reflect differences in effort, skill, and risk-taking, and attempts to equalize reduce the incentives that drive growth [partly Belief/Value, partly Contested empirics].
-- *Historical view (Walter Scheidel):* large, rapid declines in inequality have historically come mainly through mass war, revolution, state collapse, and plague.
+- *It does:* large gaps harm health, mobility, cohesion, and democracy, and are unfair.
+- *Poverty, not inequality, is the problem:* if the poor are getting richer, gaps reflect effort, skill, and risk, and equalizing weakens incentives for growth.
+- Both views mix [Belief/Value] with [Contested] empirical claims. Historically, large, rapid declines in inequality came mainly through mass war, revolution, state collapse, and plague (Walter Scheidel).
 
 **Key works and figures:**
 - Simon Kuznets (1955): proposed that inequality first rises then falls as countries develop (the "Kuznets curve"); later evidence is mixed.
@@ -321,7 +319,6 @@ Only about half of workers worldwide are wage employees; the rest are self-emplo
 - Claudia Goldin and Lawrence Katz, *The Race between Education and Technology* (2008).
 - Branko Milanovic, *Global Inequality* (2016): global distribution and the "elephant curve."
 - Thomas Piketty, *Capital in the Twenty-First Century* (2013): long-run wealth concentration.
-- Walter Scheidel, *The Great Leveler* (2017).
 
 **What is established vs. debated:**
 - Established: wealth is more unequal than income; between-country gaps are very large; inequality within many countries rose after 1980 while global inequality among individuals fell.
@@ -340,14 +337,14 @@ Only about half of workers worldwide are wage employees; the rest are self-emplo
 
 **What an alien needs to know first:**
 - **Government** here means the state's ruling institutions (see 6.1), which can make binding rules and use force to collect taxes.
-- **Tax:** a compulsory payment to government. Main types: on income, on consumption (sales tax or value-added tax, used in about 170 countries), on company profits, on property, and on imports (tariffs).
-- **Public spending:** on services (schools, roads, police, armies, health care) and on **transfers** (payments to people, such as pensions for the old).
+- **Tax:** a compulsory payment to government, levied on income, consumption (e.g., value-added tax, used in about 170 countries), company profits, property, or imports (tariffs).
+- **Public spending:** on services (schools, roads, police, armies, health care) and **transfers** (payments to people, such as pensions).
 - **Budget deficit:** spending more than tax revenue in a year, covered by borrowing. **Public debt** is the accumulated total owed.
 - **Fiscal policy** uses taxes and spending to influence the economy. **Monetary policy** uses interest rates and money creation, run by central banks (5.2).
 
 **How it works:**
 
-*Scale.* Government spending (all levels) is roughly 40–57% of GDP in Western Europe, ~35–40% in the US and Japan, and ~10–25% in many lower-income countries, which often struggle to collect taxes from large informal economies. Rich countries collect about a third of GDP in taxes on average; low-income countries about 10–15%.
+*Scale.* Government spending (all levels) is roughly 40–57% of GDP in Western Europe, ~35–40% in the US and Japan, and ~10–25% in many lower-income countries. Rich countries collect about a third of GDP in taxes; low-income countries, with large informal economies, about 10–15%.
 
 *Welfare states* are systems of government programs that insure people against old age, illness, unemployment, disability, and poverty. Rich countries spend roughly 20% of GDP on them on average.
 
@@ -357,31 +354,30 @@ Only about half of workers worldwide are wage employees; the rest are self-emplo
 | Conservative/Continental | Germany, France | Social insurance tied to employment; family-based roles |
 | Liberal | US, UK, Australia | Means-tested benefits (for the poor), larger private role |
 
-*Regulation* sets rules for safety, the environment, finance, labor, and competition (antitrust law breaks up or blocks monopolies).
+*Regulation* sets rules for safety, the environment, finance, labor, and competition (antitrust).
 
-*Steering the economy.* In a slump, governments can cut taxes or raise spending to boost demand; central banks can cut rates. After 2008, and again in 2020, central banks also bought government bonds and other assets in large amounts (**quantitative easing**), totaling many trillions of dollars.
+*Steering the economy.* In a slump, governments can cut taxes or raise spending, and central banks can cut rates. After 2008 and in 2020, central banks also bought trillions of dollars of bonds (**quantitative easing**).
 
 *Public debt.* Global public debt is roughly $100 trillion, near world GDP [Established, approximate]. Japan's is about 230–250% of its GDP, Italy's ~135%, the US's ~120%, Germany's ~60–65%. Countries borrowing in their own currency rarely default outright; those borrowing in foreign currency are more vulnerable (see 5.8).
 
-**How it developed:** Early states taxed harvests and trade mainly to pay for armies and rulers. **Mercantilism** (1500s–1700s) used state power to maximize exports and gold. In rich countries around 1900, government spending was only ~10% of GDP. Germany introduced state social insurance in the 1880s; the US created Social Security in 1935; Britain's Beveridge Report (1942) designed a comprehensive welfare state. Keynesian demand management dominated from 1945 to the 1970s. The 1970s "stagflation" (high inflation plus unemployment) brought a turn toward markets, the **neoliberal** era: lower top taxes, privatization (selling state firms), and deregulation, led by Margaret Thatcher (UK, 1979) and Ronald Reagan (US, 1981). The 2008 crisis and COVID-19 brought very large interventions again; governments worldwide committed well over $10 trillion in pandemic support in 2020–21.
+**How it developed:** Early states taxed harvests and trade mainly to pay for armies and rulers. In rich countries around 1900, government spending was only ~10% of GDP. Germany introduced state social insurance in the 1880s; the US created Social Security in 1935; Britain's Beveridge Report (1942) designed a comprehensive welfare state. Keynesian demand management dominated from 1945 to the 1970s. The 1970s "stagflation" (high inflation plus unemployment) brought a turn toward markets, the **neoliberal** era: lower top taxes, privatization (selling state firms), and deregulation, led by Margaret Thatcher (UK, 1979) and Ronald Reagan (US, 1981). The 2008 crisis and COVID-19 brought very large interventions again; governments worldwide committed well over $10 trillion in pandemic support in 2020–21.
 
-**Effects on human life and society:** Taxes and transfers substantially reduce poverty and inequality in rich countries; pensions largely ended mass poverty among the old there. Public schooling and health systems account for much of the rise in literacy and life expectancy (see 8.7, 12.7).
+**Effects on human life and society:** Taxes and transfers substantially reduce poverty and inequality in rich countries; pensions largely ended mass old-age poverty there. Public schooling and health systems drove much of the rise in literacy and life expectancy (8.7, 12.7).
 
 **Major ideas, schools, or ideologies:**
 - **Keynesian:** markets can get stuck in slumps with high unemployment; government should spend more in downturns.
 - **Monetarist/New Classical:** fiscal fine-tuning is clumsy; stable rules and low inflation matter most.
 - **Public choice** (James Buchanan): politicians and bureaucrats pursue their own interests, so government fails too.
-- **Supply-side:** lower taxes boost work and investment; at very high rates, cutting taxes can even raise revenue (the Laffer curve). Most economists accept that such a point exists but think most rich countries are below it [Contested].
+- **Supply-side:** lower taxes boost work and investment; at very high rates, cuts can even raise revenue (the Laffer curve). Most economists think most rich countries are below that point [Contested].
 - **Developmental/entrepreneurial state:** governments can lead innovation and industry (Mariana Mazzucato; East Asia).
 
 *Contested policy: austerity vs. stimulus.* After a crisis, should governments cut deficits (**austerity**) or spend more (**stimulus**)?
-- *Case for austerity:* high debt raises interest costs, risks a loss of lenders' confidence, and may slow growth; credible cuts can calm markets. Alberto Alesina documented cases (e.g., Ireland and Denmark in the 1980s) where cuts accompanied growth.
-- *Case for stimulus:* in deep slumps with interest rates near zero, each dollar of government spending raises output by more than a dollar, so cutting deepens recessions and can even raise debt relative to GDP.
+- *Case for austerity:* high debt raises interest costs, risks losing lenders' confidence, and may slow growth; credible cuts can calm markets. Alberto Alesina documented cases (e.g., Ireland and Denmark in the 1980s) where cuts accompanied growth.
+- *Case for stimulus:* in deep slumps with interest rates near zero, each dollar of public spending raises output by more than a dollar, so cuts deepen recessions and can even raise debt relative to GDP.
 - *Evidence:* an IMF study (Blanchard and Leigh, 2013) found that forecasters had underestimated how much austerity in Europe after 2010 would shrink economies [Refining]. "Expansionary austerity" appears rare and usually relied on currency devaluation or falling interest rates [Contested]. A widely cited claim that growth drops sharply once debt passes 90% of GDP (Reinhart and Rogoff, 2010) was weakened when a spreadsheet error was found in 2013; high debt does correlate with slower growth, but which causes which is unclear [Contested]. Large stimulus in 2020–21 sped recovery but contributed to the 2021–23 inflation [Refining as to size].
 
 **Key works and figures:**
 - John Maynard Keynes, *The General Theory* (1936).
-- William Beveridge, *Social Insurance and Allied Services* (1942).
 - Friedrich Hayek, *The Road to Serfdom* (1944): warned that economic planning leads toward tyranny.
 - Paul Samuelson, "The Pure Theory of Public Expenditure" (1954): defined public goods.
 - Milton Friedman, *Capitalism and Freedom* (1962).
