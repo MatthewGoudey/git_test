@@ -279,3 +279,106 @@ Slavery existed throughout. Trans-Saharan, Red Sea, and Indian Ocean trades carr
 **Open questions:** How many died inside Africa because of the slave trades. Exact population histories of the Americas and Pacific. Why industrialization spread fast to some regions and slowly to others.
 
 **See also:** 5.4 Growth, Development, and Poverty; 8.3 Race, Ethnicity, and Identity; 9.6 Nationalism; 6.7 Revolutions, Protest, and Political Change; 12.3 Energy; 7.2 Constitutions and Rights.
+
+---
+
+### 4.6 The World Wars and the Cold War (1914–1991)
+
+**In one sentence:** Two world wars killed roughly 85–100 million people, the Holocaust and other mass killings showed what modern states could do to civilians, nuclear weapons were invented, European empires broke into nearly 100 new states, and a US–Soviet rivalry shaped the whole planet.
+
+**What an alien needs to know first:** A **world war** involves most major powers fighting across several continents. **Fascism** is an authoritarian, ultranationalist ideology glorifying the nation, a single leader, and violence (see 9.7). **Communism**, as practiced in the 20th century, meant one-party states controlling the economy in the name of collective ownership (see 9.4). **Genocide** means acts intended to destroy, in whole or part, a national, ethnic, racial, or religious group; the word was coined in 1944 and made an international crime in 1948. **Decolonization** is the end of colonial rule. The **Cold War** (~1947–1991) was a rivalry between two "superpowers," the US and the USSR, fought through arms races, propaganda, and **proxy wars** (in which each backed opposing sides) rather than direct combat.
+
+**What happened:**
+- **1914–1918: World War I.** An assassination in Sarajevo draws alliances into war: Germany, Austria-Hungary, and the Ottoman Empire against France, Britain, Russia, and later Italy and the US. Trench warfare, machine guns, and poison gas kill ~15–22 million. The Ottoman government's **Armenian Genocide** (1915–17) kills ~600,000–1.5 million Armenians; Turkey rejects the term genocide. An influenza pandemic (1918–20) then kills ~50 million [range 17–100 million].
+- **1917–1922:** the **Russian Revolution** brings Lenin's communists to power; civil war and famine kill ~7–12 million. Versailles (1919) redraws Europe; Mussolini's fascists take Italy (1922).
+- **1929–1939: the Great Depression.** US unemployment reaches ~25%; world trade falls by more than half in value. Extremist parties gain.
+- **1930s USSR under Stalin:** forced collectivization causes the 1932–33 famine (~5–8 million dead, including ~3.5–5 million in Ukraine, the **Holodomor**, which Ukraine and over 20 states recognize as genocide; historians debate intent). The Great Terror (1937–38) executes ~680,000. About 18 million pass through **Gulag** labor camps (1930–53); at least ~1.5 million die there.
+- **1931–1945:** Japan invades Manchuria and then China (1937). In the **Nanjing Massacre** (1937–38) Japanese troops kill tens of thousands to ~300,000 [Contested].
+- **1939–1945: World War II.** Nazi Germany (led by Hitler from 1933) invades Poland, conquers most of Europe, and invades the USSR (1941). Japan attacks the US (1941) and occupies much of East and Southeast Asia. The Allies (chiefly the US, USSR, UK, and China) defeat the Axis (Germany, Italy, Japan). About **70–85 million** die, ~3% of humanity, mostly civilians: ~24–27 million Soviet citizens, ~15–20 million Chinese, ~6 million Poles, ~7 million Germans, ~3 million Japanese.
+- **The Holocaust (1941–45, after persecution from 1933):** Nazi Germany and its collaborators murdered about **6 million Jews**, around two-thirds of Europe's Jews, by mass shooting and in gas chambers at death camps; ~1.1 million at Auschwitz-Birkenau alone. They also murdered ~200,000–500,000 Roma, ~200,000–300,000 disabled people, and millions of Polish and other Slavic civilians; ~3 million Soviet prisoners of war died of starvation and execution.
+- **1943:** the Bengal famine in British India kills ~2–3 million [wartime policy's role Contested].
+- **August 1945:** US atomic bombs destroy Hiroshima and Nagasaki, killing ~110,000–210,000 by year's end. Japan surrenders.
+- **1944–1948:** the IMF and World Bank, the **United Nations** (51 members), war-crimes trials at Nuremberg and Tokyo, and the Universal Declaration of Human Rights.
+- **Decolonization:** India and Pakistan gain independence in 1947; **Partition** displaces ~15 million and kills ~200,000–2 million. Israel is founded in 1948; ~700,000 Palestinians flee or are expelled (the *Nakba*). Communists win China (1949). Britain crushes Kenya's Mau Mau revolt with mass detention and torture (1952–60); France's war in Algeria (1954–62) kills hundreds of thousands [Contested]. Seventeen African states become independent in 1960 alone; UN membership reaches ~160 by 1990. South Africa enforces **apartheid**, legal racial segregation (1948–94).
+- **The Cold War:** NATO (1949) faces the Warsaw Pact (1955). The Korean War (1950–53) kills ~2–3 million, the Vietnam War (to 1975) ~1.5–3 million. The Cuban Missile Crisis (1962) brings the world closest to nuclear war. Arsenals peak at ~70,000 warheads (1986). The US backs coups (Iran 1953, Guatemala 1954, Chile 1973); the USSR crushes uprisings (Hungary 1956, Czechoslovakia 1968) and occupies Afghanistan (1979–89; ~1–2 million Afghans die). Guatemala's civil war kills ~200,000, mostly Maya; a UN-backed commission found acts of genocide.
+- **Other mass deaths:** China's Great Leap Forward famine (1959–61), ~15–45 million [range of estimates]; the Cultural Revolution (1966–76), ~0.5–2 million [Contested]; Indonesia's anti-communist killings (1965–66), ~500,000–1 million; Bangladesh's 1971 war, ~300,000–3 million [Contested]; Cambodia's Khmer Rouge (1975–79), ~1.5–2 million, about a quarter of the population.
+- **1978–1991:** China begins market reforms (1978). Communist rule in Eastern Europe collapses (1989) and the Berlin Wall opens; China crushes the Tiananmen Square protests (hundreds to thousands killed [Contested]). In December 1991 the USSR dissolves into 15 states.
+
+**How it developed (how humans learned this):** Archives, survivor testimony, war-crimes trials, and demographic reconstruction. Soviet and Eastern European archives opened after 1991 and revised many tolls.
+
+**Effects on human life and society:** Despite the killing, world population rose from ~1.8 billion (1914) to ~5.4 billion (1991), and life expectancy from ~35 to ~65 years, thanks to vaccines, antibiotics, and more food. The wars produced today's international institutions, human-rights law, and the norm against conquering territory. War research produced radar, jets, rockets, computers, and nuclear power. Postwar growth (1950–73) was the fastest then recorded.
+
+**Major ideas, schools, or ideologies:**
+- **Causes of WWI:** German aggression (Fritz Fischer) versus shared responsibility (Christopher Clark) [Contested].
+- **The Holocaust:** historians debate how far it was planned from the start versus radicalized step by step. That it happened, and its scale, are established beyond reasonable doubt.
+- **The atomic bombings:** whether they were necessary is [Contested] and partly [Belief/Value].
+- **Cold War:** who caused it, and whether nuclear deterrence kept the "Long Peace" between great powers [Contested].
+
+**Key works and figures:**
+- Lenin, Stalin, Hitler, Mao, Churchill, Franklin Roosevelt, Gandhi: the era's most consequential leaders.
+- The UN Charter (1945) and Universal Declaration of Human Rights (1948): the postwar order.
+- Primo Levi, *If This Is a Man* (1947), and Anne Frank's diary (1947): firsthand Holocaust accounts.
+- Hannah Arendt, *The Origins of Totalitarianism* (1951): analysis of Nazi and Soviet rule.
+- Eric Hobsbawm, *The Age of Extremes* (1994): a global history of the period.
+
+**What is established vs. debated:**
+- Established: the main events and approximate scale of both world wars, the Holocaust, the Soviet and Chinese famines, and the Cambodian genocide.
+- Debated: exact tolls, especially in China, the USSR, and colonial wars; causes of the wars and of the USSR's collapse.
+- Matters of belief or value: how to remember and rank the era's crimes; whether bombing cities was ever justified.
+
+**Open questions:** Why the Cold War ended without nuclear war. Exact tolls in China and colonial conflicts. How much the era's trauma still shapes national politics.
+
+**See also:** 9.7 Fascism and Totalitarianism; 9.4 Socialism and Communism; 6.6 War and Organized Violence; 7.5 International Law and Human Rights; 16.4 Nuclear Weapons and Catastrophic Risks; 5.8 Economic Crises.
+
+---
+
+### 4.7 Globalization and the Present (1991–today)
+
+**In one sentence:** After the Cold War, trade, finance, migration, and digital communication bound humans together more tightly than ever, helping hundreds of millions escape extreme poverty, while wars, financial crises, a pandemic, climate change, and renewed rivalry between great powers shaped the present.
+
+**What an alien needs to know first:** **Globalization** is the growth of cross-border flows of goods, money, people, and information. A **supply chain** is the sequence of firms, often in many countries, that make and move a product. **Terrorism** is violence against civilians by non-state groups to achieve political aims. **Populism** is politics framed as "the people" against a corrupt elite (see 9.8). Recent events are not yet settled history: figures below reflect knowledge in the mid-2020s and may be revised.
+
+**What happened:**
+- **1991:** the USSR dissolves, leaving the US the sole superpower. A US-led coalition expels Iraq from Kuwait. India liberalizes its economy.
+- **1991 onward:** the World Wide Web opens to the public. Internet users grow from ~16 million (1995) to ~1 billion (2005) and ~6 billion (mid-2020s). Smartphones spread after 2007.
+- **1991–2001:** wars in the former Yugoslavia kill ~130,000–140,000. At Srebrenica (1995), Bosnian Serb forces murder ~8,000 Bosniak (Bosnian Muslim) men and boys, ruled a genocide by international courts.
+- **1994:** in Rwanda, Hutu extremists kill ~500,000–800,000 people, mostly Tutsi, in about 100 days. South Africa holds its first all-race elections; Nelson Mandela becomes president.
+- **1993–1999:** the European Union (1993), the World Trade Organization (1995), and the euro (1999) are created.
+- **1996–2003:** the Congo wars, involving ~9 African states; deaths, mostly from disease and hunger, run into the millions [Contested].
+- **2001:** China joins the WTO. China's economy grows ~10% a year for three decades, becoming the largest manufacturer (~30% of world manufacturing output) and second-largest economy; ~800 million Chinese leave extreme poverty.
+- **11 September 2001:** al-Qaeda attacks kill ~3,000 in the US. The US-led "War on Terror" follows: Afghanistan (2001–2021, ending with the Taliban's return) and Iraq (2003–2011). Several hundred thousand people die violently in these wars [totals Contested]. The Islamic State (ISIS) holds parts of Iraq and Syria (2014–2019) and commits genocide against Yazidis.
+- **2008:** a US housing crash triggers a global financial crisis and the deepest recession since the 1930s.
+- **2010–2012:** the "Arab Spring" uprisings. Syria's civil war (from 2011) kills ~500,000 or more and displaces ~13 million, about half the pre-war population; the Assad government falls in December 2024.
+- **2014 and 2022:** Russia annexes Crimea, then launches a full-scale invasion of Ukraine, the largest war in Europe since 1945. Casualties run to the hundreds of thousands killed and wounded [Refining]; ~6 million Ukrainians become refugees abroad.
+- **2015–2016:** the Paris climate agreement; the UK votes to leave the EU; Donald Trump is elected US president; populist movements grow in many democracies.
+- **2017:** ~700,000 Rohingya Muslims flee military violence in Myanmar.
+- **2020–2023: COVID-19**, first identified in Wuhan, China, in late 2019. About 7 million confirmed deaths; estimated excess deaths ~15–25 million or more. Vaccines are developed within a year. The world economy shrinks ~3% in 2020. The virus's origin (natural spillover from animals versus a laboratory accident) is [Contested].
+- **2022–2023:** world population passes 8 billion; India overtakes China as the most populous country. Public AI chatbots (ChatGPT, November 2022) begin a boom in AI investment.
+- **2023 onward:** Sudan's civil war becomes one of the world's largest displacement crises (over 10 million displaced). A Hamas-led attack on Israel (7 October 2023) kills ~1,200 and takes ~250 hostages. Israel's military campaign in Gaza kills over 60,000 Palestinians by late 2025, according to Gaza health authorities, and destroys much of the territory. South Africa has brought a genocide case at the International Court of Justice, which Israel rejects [Contested].
+- **2024:** the hottest year on record, the first calendar year ~1.5 °C above pre-industrial temperatures. Forcibly displaced people worldwide exceed 120 million, a record.
+- **2025:** sharp US tariff increases revive trade conflicts.
+
+**How it developed (how humans learned this):** Recent history is recorded in vast volume (digital media, satellite imagery, real-time statistics), but volume is not reliability; propaganda and disputed casualty figures are common (see 13.5).
+
+**Effects on human life and society:** Extreme poverty fell from roughly 1 in 3 humans (1990) to roughly 1 in 10 (2020s). Global life expectancy rose from ~64 to ~73 years. Trade rose from ~40% to ~60% of world GDP by 2008, then plateaued. Inequality between countries fell, while inequality within many countries rose. Some regions of rich countries lost manufacturing jobs to imports ("the China shock"). Annual carbon dioxide emissions are ~60% higher than in 1990. The share of humans living in democracies rose in the 1990s and has stagnated or declined since the mid-2000s [Refining; depends on measure].
+
+**Major ideas, schools, or ideologies:**
+- **"End of History"** (Francis Fukuyama, 1989/1992): liberal democracy as humanity's final form of government. Critics point to the resilience of China and other autocracies [Contested].
+- **"Clash of Civilizations"** (Samuel Huntington, 1993/1996): future conflicts would follow cultural and religious lines [Contested].
+- **Globalization's balance sheet:** large gains for Asian middle classes and the global rich, stagnation for some rich-country workers (Branko Milanovic) [Refining]. Whether it should be reversed is [Belief/Value].
+- **Declining violence?** Steven Pinker argues violence has fallen over centuries; critics dispute the data and its durability [Contested].
+
+**Key works and figures:**
+- Francis Fukuyama, *The End of History and the Last Man* (1992).
+- Samuel Huntington, *The Clash of Civilizations* (1996).
+- Branko Milanovic, *Global Inequality* (2016): who gained from globalization.
+- IPCC Sixth Assessment Report (2021–23): the scientific consensus on climate change.
+
+**What is established vs. debated:**
+- Established: the fall in extreme poverty; China's rise; the main events listed above; recent warming.
+- Debated: casualty totals in current wars; COVID's origin; whether globalization is reversing; causes of democratic backsliding.
+- Matters of belief or value: who is to blame in ongoing conflicts; the right balance between open borders, trade, and national control.
+
+**Open questions:** Whether US–China rivalry leads to war. Whether emissions fall fast enough to limit warming. How AI will change work, power, and conflict. Whether democracy recovers or keeps retreating.
+
+**See also:** 5.7 International Trade and the Global Economy; 5.8 Economic Crises; 6.4 Authoritarianism; 6.6 War and Organized Violence; 12.6 Computing, the Internet, and Artificial Intelligence; 16.1 Climate Change; 16.3 Pandemics and Global Health; 16.5 Artificial Intelligence.
