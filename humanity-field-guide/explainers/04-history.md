@@ -79,24 +79,22 @@ Key events:
 - **~9500 BCE:** Göbekli Tepe (Turkey), monumental stone enclosures built by people who may not yet have farmed.
 - **~7100–5700 BCE:** Çatalhöyük (Turkey), a farming town of several thousand people.
 - **~4000–3100 BCE:** the first cities in Mesopotamia (Iraq), led by Uruk, with tens of thousands of residents.
-- **~3400–3200 BCE:** **writing** is invented in Mesopotamia (cuneiform), first for accounts of grain and livestock. Egyptian hieroglyphs appear around the same time. Writing was invented independently in China (by ~1250 BCE) and Mesoamerica (by ~600 BCE), and possibly elsewhere.
-- **~3100 BCE:** Egypt is unified under one king (pharaoh). The Great Pyramid of Giza is built ~2560 BCE.
-- **~3000–1800 BCE:** Caral and related sites in coastal Peru, the oldest monumental centers in the Americas.
-- **~2600–1900 BCE:** the Indus Valley civilization (Pakistan and northwest India), with planned cities such as Mohenjo-daro and drainage systems. Its script is still undeciphered.
-- **~2300 BCE:** Sargon of Akkad conquers Mesopotamian city-states, an early empire.
-- **~2100 BCE:** the oldest known law code (Ur-Nammu). **~1754 BCE:** the **Code of Hammurabi** (Babylon), with 282 laws. Punishments vary by social class, and enslaved people appear as property.
-- **~1600–1046 BCE:** the Shang dynasty in China, with bronze casting and oracle-bone writing. The Zhou dynasty (1046–256 BCE) introduces the idea of the "Mandate of Heaven," the belief that heaven grants rulers the right to rule and withdraws it from unjust ones.
-- **~1600–400 BCE:** the Olmec culture in Mexico.
-- **~1500–500 BCE:** in South Asia, the Vedic period; the Vedas, the oldest Hindu scriptures, are composed.
+- **~3400–3200 BCE:** **writing** (cuneiform) is invented in Mesopotamia, first for grain and livestock accounts; Egyptian hieroglyphs follow closely. Writing was invented independently in China (by ~1250 BCE) and Mesoamerica (by ~600 BCE).
+- **~3100 BCE:** Egypt is unified under one king (pharaoh). The Great Pyramid is built ~2560 BCE.
+- **~3000–1800 BCE:** Caral (coastal Peru), the oldest monumental center in the Americas.
+- **~2600–1900 BCE:** the Indus Valley civilization (Pakistan and northwest India), with planned cities and drains. Its script is undeciphered.
+- **~2300 BCE:** Sargon of Akkad builds an early empire in Mesopotamia.
+- **~1754 BCE:** the **Code of Hammurabi** (Babylon), 282 laws. Punishments vary by social class; enslaved people are property.
+- **~1600–1046 BCE:** the Shang dynasty in China. The following Zhou dynasty promotes the "Mandate of Heaven," the belief that heaven grants rulers the right to rule and withdraws it from unjust ones.
+- **~1600–400 BCE:** the Olmec culture in Mexico. **~1500–500 BCE:** the Vedic period in South Asia; the Vedas, the oldest Hindu scriptures, are composed.
 - **~1200–1150 BCE:** the **Late Bronze Age collapse**: many eastern Mediterranean states fall within decades.
-- **~1000 BCE onward:** iron-working spreads across Eurasia and Africa. Farming spreads across sub-Saharan Africa with Bantu-speaking peoples (~3000 BCE–500 CE). Austronesian seafarers move from Taiwan into Southeast Asia and the Pacific.
-- **~1050 BCE:** the Phoenician alphabet, ancestor of most of the world's alphabets.
-- **~900–612 BCE:** the Assyrian Empire, known for mass deportations of conquered peoples.
-- **~750 BCE:** the Kingdom of Kush (Sudan) rules Egypt for about a century.
+- **~1050 BCE:** the Phoenician alphabet, ancestor of most alphabets.
+- **~3000 BCE–500 CE:** Bantu-speaking farmers spread across sub-Saharan Africa; Austronesian seafarers move from Taiwan into Southeast Asia and the Pacific. Iron-working spreads after ~1000 BCE.
+- **~900–612 BCE:** the Assyrian Empire, known for mass deportations. **~750 BCE:** Kush (Sudan) rules Egypt for a century.
 
-**How it developed (how humans learned this):** In 1936, the archaeologist V. Gordon Childe called this change the "Neolithic Revolution." Decipherment of hieroglyphs (1822) and cuneiform (1850s) opened ancient records. Plant and animal genetics and radiocarbon dating now track domestication in detail.
+**How it developed (how humans learned this):** V. Gordon Childe named the "Neolithic Revolution" in 1936. Decipherment of hieroglyphs (1822) and cuneiform (1850s) opened ancient records; genetics and radiocarbon dating now track domestication.
 
-**Effects on human life and society:** World population rose from perhaps ~5 million around 10,000 BCE to ~50 million by 1000 BCE. Farming fed more people per unit of land, but early farmers were often shorter, had more tooth decay, and suffered more infectious diseases than foragers. Living closely with animals let diseases jump to humans. Stored surplus enabled full-time rulers, priests, soldiers, and craftspeople, and also **slavery**, organized warfare, taxation, and large inequalities of wealth and gender. Writing allowed records, law, literature, and bureaucracy.
+**Effects on human life and society:** World population rose from ~5 million (~10,000 BCE) to ~50 million (~1000 BCE). Early farmers were often shorter, had more tooth decay, and suffered more infectious disease than foragers; living with animals let diseases jump to humans. Stored surplus supported full-time rulers, priests, soldiers, and craftspeople, and also **slavery**, organized war, taxation, and large inequalities of wealth and gender. Writing enabled records, law, literature, and bureaucracy.
 
 **Major ideas, schools, or ideologies:**
 - **Why farming began:** climate stabilization after the ice age; population pressure; or social and religious motives such as feasting (suggested by Göbekli Tepe) [Contested].
