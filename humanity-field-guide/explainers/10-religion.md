@@ -78,12 +78,13 @@ Most specialists think several mechanisms combine [Refining].
 
 **How it developed:**
 - ~1000–500 BCE: Israelite kingdoms; worship of the god Yahweh becomes exclusive monotheism, especially after the Babylonian conquest of Jerusalem in 586 BCE [Refining].
+- ~30–100 CE: Christianity emerges as a Jewish movement and spreads to non-Jews.
 - 70 CE: Rome destroys the Jerusalem Temple; Judaism reorganizes around rabbis (teachers), synagogues, and texts, and Jews disperse (the *diaspora*).
-- ~30–100 CE: Christianity emerges as a Jewish movement and spreads to non-Jews. 313: Emperor Constantine legalizes it; 380: it becomes the Roman Empire's official religion.
+- 313: Emperor Constantine legalizes Christianity; 380: it becomes the Roman Empire's official religion.
 - 622: Muhammad and followers move to Medina (the *Hijra*, year 1 of the Islamic calendar). By 750, Arab-led conquests created a state from Spain to Central Asia; Islam later spread by trade to West Africa and Southeast Asia.
 - 632–680: disputes over who should lead Muslims after Muhammad produce the Sunni–Shia split; Shia Muslims hold that leadership belonged to Muhammad's family through his cousin and son-in-law Ali.
 - 1054: Christianity splits into Catholic (West) and Orthodox (East). 1517 onward: the Protestant Reformation splits Western Christianity, followed by over a century of religious wars.
-- 1500s–1900s: European colonization spreads Christianity to the Americas, Africa, and Oceania. 1941–45: the Holocaust: Nazi Germany murders about 6 million Jews, about two-thirds of Europe's Jews. 1948: the State of Israel is founded.
+- 1500s–1900s: European colonization spreads Christianity to the Americas, Africa, and Oceania. 1941–45: in the Holocaust, Nazi Germany murders about 6 million Jews, about two-thirds of Europe's Jews. 1948: the State of Israel is founded.
 - Today: Christianity's center of gravity has shifted south; sub-Saharan Africa now has more Christians than Europe. Islam is the fastest-growing major religion, mainly because Muslims are younger and have more children on average [Refining].
 
 **Effects on human life and society:** These religions shaped law (Jewish *halakha*, Christian canon law, Islamic sharia), the seven-day week, the world's dominant calendar, and much of the planet's moral vocabulary. They built hospitals, universities, and charities, and also drove crusades, inquisitions, and sectarian wars (see 10.7).
@@ -110,7 +111,7 @@ Most specialists think several mechanisms combine [Refining].
 
 ### 10.3 Religions of South and East Asia
 
-**In one sentence:** The religions that arose in India and China, including Hinduism, Buddhism, Jainism, Sikhism, Confucianism, Taoism, Shinto, and Chinese folk religion, are followed or practiced by roughly 2 billion people and differ from the Abrahamic model in that many have no single founder, no single creed, and no rule that a person may follow only one.
+**In one sentence:** The religions that arose in India, China, and Japan, including Hinduism, Buddhism, Jainism, Sikhism, Confucianism, Taoism, Shinto, and Chinese folk religion, are followed or practiced by roughly 2 billion people and differ from the Abrahamic model in that many have no single founder, no single creed, and no rule that a person may follow only one.
 
 **What an alien needs to know first:**
 - *Karma*: the belief that a person's actions produce future consequences for that person, in this life or later ones.

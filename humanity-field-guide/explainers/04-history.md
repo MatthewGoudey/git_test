@@ -122,48 +122,43 @@ Key events:
 
 **In one sentence:** Large, long-lasting empires unified huge regions of Eurasia and North Africa, while new philosophies and religions arose that claimed to speak to all humans, and many of them still shape billions of lives.
 
-**What an alien needs to know first:** An **empire** is a state that rules many different peoples and territories, usually by conquest, from a central power. A **dynasty** is a sequence of rulers from one family. **Philosophy** is the reasoned study of fundamental questions (see 11.1). A **universal religion** offers its teachings to all people regardless of ethnicity, unlike religions tied to a particular people or city. The **Silk Road** is a modern name (coined in 1877) for the overland trade networks linking China, Central Asia, Persia, India, and the Mediterranean. Sea routes across the Indian Ocean, driven by seasonal monsoon winds, were at least as important.
+**What an alien needs to know first:** An **empire** is a state that rules many peoples and territories, usually won by conquest, from a central power. A **dynasty** is a sequence of rulers from one family. A **universal religion** offers its teachings to all people, unlike religions tied to one people or city. The **Silk Road** is a modern name (coined 1877) for overland trade networks linking China, Central Asia, Persia, India, and the Mediterranean. Sea routes across the Indian Ocean, driven by seasonal monsoon winds, were at least as important.
 
 **What happened:**
-- **~6th–5th c. BCE:** a cluster of influential teachers: Confucius (551–479 BCE) in China; the Buddha (Siddhartha Gautama, ~5th c. BCE, dates uncertain) and Mahavira (founder figure of Jainism) in India; the Hebrew prophets; Greek philosophers. The idea of an "Axial Age" of simultaneous change is [Contested].
-- **550 BCE:** Cyrus the Great founds the **Achaemenid Persian Empire**, the largest yet, stretching from Egypt to India and ruling tens of millions of people. Zoroastrianism, a religion centered on a cosmic struggle between good and evil, is influential at court.
-- **508 BCE:** Athens adopts **democracy** (rule by citizen vote). Only adult male citizens vote, perhaps 30,000 of 250,000–300,000 residents. Many residents are enslaved.
-- **509 BCE:** the Roman Republic is founded (traditional date).
+- **~6th–5th c. BCE:** influential teachers cluster: Confucius (551–479 BCE) in China; the Buddha (Siddhartha Gautama, dates uncertain) and Mahavira (Jainism) in India; Hebrew prophets; Greek philosophers.
+- **550 BCE:** Cyrus the Great founds the **Achaemenid Persian Empire**, the largest yet, from Egypt to India, ruling tens of millions.
+- **509–508 BCE:** the Roman Republic is founded (traditional date). Athens adopts **democracy** (rule by citizen vote), but only adult male citizens vote, perhaps 30,000 of 250,000–300,000 residents; many residents are enslaved.
 - **~470–322 BCE:** Socrates, Plato, and Aristotle in Athens.
-- **336–323 BCE:** Alexander of Macedon conquers the Persian Empire as far as northwest India. Greek-speaking kingdoms follow.
-- **~322–185 BCE:** the **Maurya Empire** unifies most of South Asia. Around 261 BCE, Emperor Ashoka conquers Kalinga. His own inscriptions state that 100,000 were killed and 150,000 deported. He then promotes Buddhism and moral rule, and sends missionaries abroad.
-- **221 BCE:** Qin Shi Huang unifies China, standardizing writing, coinage, weights, and axle widths. **206 BCE–220 CE:** the **Han dynasty**. A 2 CE census counts ~58 million people. Paper is in use by ~100 CE.
-- **264–146 BCE:** Rome defeats Carthage (North Africa) and destroys the city in 146 BCE.
-- **~130 BCE:** Han envoys open regular contact with Central Asia; Silk Road trade expands.
-- **73–71 BCE:** an uprising of enslaved people led by Spartacus is crushed in Italy; ~6,000 captives are crucified.
-- **27 BCE:** Augustus becomes the first Roman emperor. At its peak (~117 CE) the empire rules ~50–70 million people. Enslaved people make up perhaps 10–30% of Roman Italy's population [Refining].
-- **~30 CE:** Jesus of Nazareth is executed by Roman authorities. His followers believe he rose from the dead and was the son of God. Christianity spreads through the empire despite periodic persecution.
-- **70 CE:** Rome destroys the Jewish Temple in Jerusalem after a revolt. Jewish life increasingly centers on scattered communities (the **diaspora**) and on rabbinic scholarship.
-- **~1st–3rd c. CE:** the Kushan Empire (Central Asia and north India) helps carry Buddhism into China.
-- **~100–940 CE:** the Kingdom of Aksum (Ethiopia and Eritrea), a Red Sea trading power, adopts Christianity in the 330s.
-- **224–651 CE:** the Sasanian Persian Empire, Rome's main rival.
-- **~100 BCE–550 CE:** Teotihuacan (Mexico), a city of perhaps 100,000 people at its height. The Classic Maya city-states flourish ~250–900 CE. The Moche and Nazca cultures flourish in Peru.
-- **220 CE:** the Han dynasty collapses after rebellions; China fragments for over 350 years.
-- **~320–550 CE:** the Gupta Empire in India; Aryabhata's astronomy (499 CE) and the decimal number system.
+- **336–323 BCE:** Alexander of Macedon conquers the Persian Empire to northwest India.
+- **~322–185 BCE:** the **Maurya Empire** unifies most of South Asia. Around 261 BCE Emperor Ashoka conquers Kalinga; his own inscriptions record 100,000 killed and 150,000 deported. He then promotes Buddhism and sends missionaries abroad.
+- **221 BCE:** Qin Shi Huang unifies China, standardizing script, coins, and weights. **206 BCE–220 CE:** the **Han dynasty**; a 2 CE census counts ~58 million people; paper is in use by ~100 CE; Silk Road trade expands from ~130 BCE.
+- **146 BCE:** Rome destroys Carthage (North Africa). **73–71 BCE:** a revolt of enslaved people led by Spartacus is crushed; ~6,000 captives are crucified.
+- **27 BCE:** Augustus becomes the first Roman emperor. At its peak (~117 CE) the empire rules ~50–70 million people; enslaved people are perhaps 10–30% of Roman Italy's population [Refining].
+- **~30 CE:** Roman authorities execute Jesus of Nazareth. His followers believe he rose from the dead and was the son of God. Christianity spreads despite periodic persecution.
+- **70 CE:** Rome destroys the Jewish Temple in Jerusalem; Jewish life centers increasingly on scattered communities (the **diaspora**).
+- **~1st–3rd c. CE:** the Kushan Empire helps carry Buddhism into China. **224–651:** the Sasanian Persian Empire, Rome's rival.
+- **~100 BCE–550 CE:** Teotihuacan (Mexico), a city of perhaps 100,000. Classic Maya city-states flourish ~250–900. Moche and Nazca cultures flourish in Peru.
+- **330s CE:** the Kingdom of Aksum (Ethiopia and Eritrea), a Red Sea trading power, adopts Christianity.
+- **220 CE:** the Han collapses; China stays divided for over 350 years.
+- **~320–550 CE:** the Gupta Empire in India; Aryabhata's astronomy (499) and decimal numerals.
 - **313 and 380 CE:** Rome legalizes Christianity, then makes it the state religion.
-- **395–476 CE:** the Roman Empire splits permanently. The western half falls to Germanic kingdoms (last western emperor deposed in 476). The eastern half (the **Byzantine Empire**) lasts until 1453.
+- **395–476 CE:** the Roman Empire splits. The western half falls to Germanic kingdoms (476); the eastern half (the **Byzantine Empire**) lasts until 1453.
 
-**How it developed (how humans learned this):** This period produced the first sustained historical writing: Herodotus and Thucydides in Greece, Sima Qian in China. Inscriptions, coins, archaeology, and, more recently, ice cores and tree rings that record climate add to the picture.
+**How it developed (how humans learned this):** This era produced the first sustained history writing (Herodotus and Thucydides in Greece, Sima Qian in China). Inscriptions, coins, archaeology, and climate records from ice cores and tree rings add to the picture.
 
-**Effects on human life and society:** Roughly 200–300 million people lived on Earth around 1 CE, and Rome and Han China each ruled perhaps a quarter of them. Institutions from this era persist: Roman law underlies the legal systems of most of Europe and Latin America (see 7.1). Confucian ideas of hierarchy, family duty, and scholar-officials shaped East Asian government for 2,000 years. Buddhism (now ~0.3–0.5 billion followers) and Christianity (~2.3 billion) grew from this era. Greek, Latin, Sanskrit, and Classical Chinese became languages of learning for over a millennium. These empires also rested on conquest, heavy taxation of peasants, and widespread slavery.
+**Effects on human life and society:** Roughly 200–300 million people lived around 1 CE; Rome and Han China each ruled perhaps a quarter of them. Roman law underlies the legal systems of most of Europe and Latin America (see 7.1). Confucian ideas of hierarchy, family duty, and scholar-officials shaped East Asian government for 2,000 years. Buddhism (now ~0.3–0.5 billion followers) and Christianity (~2.3 billion) grew from this era. These empires also rested on conquest, heavy taxation of peasants, and widespread slavery.
 
 **Major ideas, schools, or ideologies:**
-- **Why Rome's western half fell:** Edward Gibbon (1776–89) blamed moral decline and Christianity. Modern explanations stress invasions, civil wars, fiscal strain, plague, and climate. Some historians describe a gradual "transformation" rather than a "fall"; others stress real material collapse (e.g., Bryan Ward-Perkins, 2005) [Contested].
-- **Why China reunified repeatedly while Europe did not:** geography, a shared written language, and the Confucian bureaucracy are proposed [Contested].
+- **Why Rome's western half fell:** Edward Gibbon (1776–89) blamed moral decline and Christianity. Modern explanations stress invasions, civil wars, fiscal strain, plague, and climate. Some describe a gradual "transformation"; others stress real material collapse (Bryan Ward-Perkins, 2005) [Contested].
+- **Why China repeatedly reunified while Europe did not:** geography, a shared written language, a Confucian bureaucracy [Contested].
 - **The "Axial Age"** (Karl Jaspers, 1949): a single global turning point in thought. Critics see separate developments with no common cause [Contested].
 
 **Key works and figures:**
-- Herodotus, *Histories* (~430 BCE): founding work of Greek historical writing.
+- Herodotus, *Histories* (~430 BCE): founding work of Greek history writing.
 - Sima Qian, *Records of the Grand Historian* (~94 BCE): model for 2,000 years of Chinese history writing.
 - Ashoka's edicts (~260–230 BCE): rock inscriptions on rule and morality.
-- Confucius, *Analects*: the foundation of Confucian ethics and statecraft.
-- *Arthashastra* (attributed to Kautilya): Indian treatise on statecraft.
-- Edward Gibbon, *The History of the Decline and Fall of the Roman Empire* (1776–89): influential, now dated, account.
+- Confucius, *Analects*: foundation of Confucian ethics and statecraft.
+- Alexander, Qin Shi Huang, Augustus: builders of the era's largest states.
 
 **What is established vs. debated:**
 - Established: the extent and chronology of these empires; the spread of Buddhism and Christianity; the scale of slavery in Greek and Roman society.

@@ -187,4 +187,58 @@ Other views include *contractualism* (right acts are those no one could reasonab
 
 ---
 
-<!-- CONTINUE -->
+### 11.5 World Philosophical Traditions
+
+**In one sentence:** Humans developed several largely independent traditions of philosophy, notably in Greece and Europe, China, India, and the Islamic world, along with others in Africa and elsewhere, each with its own questions, methods, and classic texts.
+
+**What an alien needs to know first:**
+- A *tradition* here is a line of thinkers who read, answer, and build on each other over centuries.
+- *Orthodox* and *heterodox*: in Indian philosophy, schools that accept the authority of the Vedas (Hindu scriptures) are called *astika* (orthodox); those that reject it, such as Buddhism and Jainism, *nastika* (heterodox).
+- Traditions did not develop in isolation. Greek philosophy reached Europe largely through Arabic translations; Buddhism carried Indian thought to China and Japan.
+
+**How it works:**
+
+| Tradition | Period of origin | Central concerns | Representative figures |
+|---|---|---|---|
+| **Greek and Western** | ~600 BCE | Nature of reality, knowledge, virtue, logic, the state | Socrates, Plato, Aristotle; Stoics and Epicureans; Augustine, Aquinas; Descartes, Hume, Kant |
+| **Chinese** | ~500 BCE | Ethics, social harmony, good government, the *Dao* | Confucius, Mencius, Xunzi (Confucian); Laozi, Zhuangzi (Daoist); Mozi; Han Feizi (Legalist); Zhu Xi, Wang Yangming (Neo-Confucian) |
+| **Indian** | ~800 BCE | Self, liberation, sources of knowledge, logic | Six orthodox schools (Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa, Vedanta); Buddhist (Nagarjuna), Jain, and materialist Charvaka thinkers; Shankara |
+| **Islamic** | ~800 CE | Reason and revelation, God, metaphysics, logic | al-Kindi, al-Farabi, Ibn Sina (Avicenna), al-Ghazali, Ibn Rushd (Averroes), Ibn Khaldun |
+| **African** | Oral traditions (ancient); written works from 1600s | Personhood, community, ethics | Zera Yacob (Ethiopia, 1667); Kwame Gyekye, Kwasi Wiredu, Paulin Hountondji (20th century) |
+| **Modern analytic** | ~1900 | Logic, language, science, precise argument | Frege, Russell, Wittgenstein, Quine |
+| **Modern continental** | ~1900 | Experience, existence, history, power | Husserl, Heidegger, Sartre, de Beauvoir, Foucault |
+
+**Greek and Western.** Plato and Aristotle defined many of the questions later Western thought pursued. Hellenistic schools (Stoicism, Epicureanism, Skepticism) treated philosophy as a way of life. Medieval Christian, Jewish (Maimonides), and Muslim thinkers fused Greek philosophy with scripture. Early modern Europe produced the debates over knowledge and the social contract described in 11.2 and 11.4.
+
+**Chinese.** Most Chinese schools focused on practical ethics and government. Confucians stressed moral cultivation, ritual, and family duty; Daoists, harmony with nature and suspicion of rigid rules; Mohists, impartial care for all; Legalists, strict laws and punishments. The Qin state used Legalist methods to unify China in 221 BCE; later dynasties adopted Confucianism as official doctrine (see 10.3).
+
+**Indian.** Indian philosophy combined spiritual goals (liberation from rebirth) with highly developed logic and theory of knowledge. Debates included whether a permanent self exists, whether the world is real or illusory (Shankara's Advaita Vedanta, ~8th century, held that only the absolute, Brahman, is fully real), and what counts as valid evidence. Charvaka materialists rejected gods and rebirth entirely.
+
+**Islamic.** From the 800s, scholars in Baghdad and elsewhere translated Greek works into Arabic and extended them. Ibn Sina's medical and philosophical works were used in European universities for centuries; Ibn Rushd's commentaries on Aristotle shaped medieval European thought. Al-Ghazali (~1095) argued that philosophers overstepped reason's limits.
+
+**African.** Much African philosophy was oral and is preserved in proverbs and communal ethics, such as southern African *ubuntu* ("a person is a person through other persons"). Whether these collective worldviews count as philosophy, or only individual critical texts do, was a major 20th-century debate (the "ethnophilosophy" debate).
+
+**Modern analytic and continental.** In the 20th century, Western philosophy split. *Analytic* philosophy, dominant in English-speaking universities, emphasizes logic, clarity, and links to science. *Continental* philosophy, centered in France and Germany, includes *phenomenology* (study of the structures of experience), *existentialism* (humans create their own meaning in an indifferent universe), and *critical theory* (analysis of power in society). The divide has softened since the late 20th century.
+
+**How it developed:** See the table. Cross-tradition contact accelerated after ~1800, and the comparative study of traditions grew from the mid-20th century.
+
+**Effects on human life and society:** Confucianism shaped East Asian government and family life for two millennia; Greek and Enlightenment philosophy shaped Western science and law; Indian philosophy shaped Hindu, Buddhist, and Jain practice; existentialism influenced 20th-century literature and art.
+
+**Major ideas, schools, or ideologies:** Some scholars argue "philosophy" proper is a Greek invention; others argue that this view reflects Western bias and that comparable critical inquiry arose independently in several places [Contested]. University curricula worldwide still focus mainly on the Western tradition.
+
+**Key works and figures:**
+- *Analects* (Confucius): foundation of East Asian ethics.
+- *Tao Te Ching* (attributed to Laozi): foundational Daoist text.
+- *Nicomachean Ethics* and *Metaphysics* (Aristotle): shaped Western, Jewish, and Islamic thought for 2,000 years.
+- *The Book of Healing* (Ibn Sina, ~1027): major synthesis of Greek and Islamic philosophy.
+- *Mulamadhyamakakarika* (Nagarjuna, ~2nd century CE): key Buddhist text on emptiness.
+- *Being and Time* (Heidegger, 1927) and *The Second Sex* (de Beauvoir, 1949): central continental works.
+
+**What is established vs. debated:**
+- Established: the existence, chronology, and influence of these traditions.
+- Debated: how independent they were; whether "philosophy" is one human activity or several.
+- Matters of belief or value: which tradition's answers are right.
+
+**Open questions:** How much ancient thought, especially oral thought, has been lost? Can a global philosophy integrate these traditions, or are their starting points incompatible?
+
+**See also:** 4.3 Classical Empires and Universal Religions; 4.4 The Medieval and Early Modern World; 10.3 Religions of South and East Asia; 14.2 Storytelling and Literature; 11.1 What Philosophy Is.
